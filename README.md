@@ -11,17 +11,17 @@ As a part of change implementation, they often choose a few important keywords f
 
 Materials Included
 ----------------------------
-- ``Grounded Theory`` contains all the artifacts produced by our Grounded Theory based qualitative analysis. 
-  - ``RQ1`` : Open coding, axial coding, selective coding, and methodologies used by the primary studies. It answers RQ1.
-  - ``RQ3`` : Open coding, axial coding, selective coding, and challenges or issued faced by the primary studies. It answers RQ3.
-- ``Systematic Literature Review`` contains all the artifacts produced by our systematic literature review (SLR)
-  - ``SLR-Queries`` : The queries used to find candidate studies.
-  - ``SLR-Selection`` : The intermediate steps and results towards finalizing 70 primary studies.
-  - ``Research Questions``: The six research questions answered by this work.
-- ``RQ2`` contains the artifacts related to RQ2.
-- ``RQ4`` contains the artifacts related to RQ4.
-- ``RQ5`` contains the artifacts related to RQ5.
-- ``RQ6`` contains the artifacts related to RQ6. 
+- **``Grounded Theory``** contains all the artifacts produced by our Grounded Theory based qualitative analysis. 
+  - **``RQ1``** : Open coding, axial coding, selective coding, and methodologies used by the primary studies. It answers RQ1.
+  - **``RQ3``** : Open coding, axial coding, selective coding, and challenges or issued faced by the primary studies. It answers RQ3.
+- **``Systematic Literature Review``** contains all the artifacts produced by our systematic literature review (SLR)
+  - **``SLR-Queries``** : The queries used to find candidate studies.
+  - **``SLR-Selection``** : The intermediate steps and results towards finalizing 70 primary studies.
+  - **``Research Questions``** : The six research questions answered by this work.
+- **``RQ2``** contains the artifacts related to RQ2.
+- **``RQ4``** contains the artifacts related to RQ4.
+- **``RQ5``** contains the artifacts related to RQ5.
+- **``RQ6``** contains the artifacts related to RQ6. 
 - LICENSE
 - README
 
