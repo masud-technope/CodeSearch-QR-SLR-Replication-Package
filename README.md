@@ -24,3 +24,8 @@ Materials Included
 - ``RQ6`` contains the artifacts related to RQ6. 
 - LICENSE
 - README
+
+
+
+
+Please contact Masud Rahman (masud.rahman@dal.ca) for details.
