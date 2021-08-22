@@ -1,0 +1,60 @@
+59
+Assisting code search with automatic Query Reformulation for bug localization
+Query quality prediction and reformulation for source code search: The Refoqus tool
+Query expansion via WordNet for effective code search
+Dictionary-Based Query Recommendation for Local Code Search
+Thesaurus-based automatic query expansion for interface-driven code search
+How developers use multi-recommendation system in local code search
+NL-based query refinement and contextualized code search results: A user study
+Multimodal Retrieval using Mutual Information based Textual Query Reformulation
+STRICT: Information retrieval based search term identification for concept location
+Design and evaluation of a multi-recommendation system for local code search
+Augmenting and structuring user queries to support efficient free-form code search
+RACK: Automatic API Recommendation Using Crowdsourced Knowledge
+Novel Query Expansion Technique Using Apriori Algorithm
+Automatic search term identification for change tasks
+Summarization-based query expansion in information retrieval
+Improving bug localization with report quality dynamics and query reformulation
+Query Expansion Based on Crowd Knowledge for Code Search
+Precise and scalable querying of syntactical source code patterns using sample code snippets and a database
+Towards query formulation and visualization of structural search results
+Supporting query formulation for text retrieval applications in software engineering
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Improved query reformulation for concept location using CodeRank and document structures
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+QUICKAR : Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge
+Automatic query reformulations for feature location in a model-based family of software products
+A multi-block scheme for searching source codes
+Keyword extraction based on pagerank
+Combining fields for query expansion and adaptive query expansion
+Query expansion using associated queries
+Mixed graph of terms for query expansion
+Weighted Word Pairs for query expansion
+Text classification and keyword extraction by learning decision trees
+Query reformulation by leveraging crowd wisdom for scenario-based software search
+Using ontology fragments in concept location
+A syntactically-based query reformulation technique for information retrieval
+Can the use of types and query expansion help improve large-scale code search?
+CONQUER: A tool for NL-based query refinement & contextualizing code search results
+Experiments on interfaces to support query expansion
+A query expansion method based on a weighted word pairs approach
+A search log mining based query expansion technique to improve effectiveness in code search
+Improving Text Retrieval Accuracy by Using a Minimal Relevance Feedback
+A novel query expansion technique based on a mixed Graph of Terms
+A data driven approach to query expansion in question answering
+Improving the effectiveness of local context analysis based on semantic similarity
+Relationship-aware code search for JavaScript frameworks
+A comparison of deep learning based query expansion with pseudo-relevance feedback and mutual information
+Learning to expand queries using entities
+Scaling up evaluation of code search tools through developer usage metrics
+Typestate-based semantic code search over partial programs
+Using Syntactic and Semantic Relation Analysis in Question Answering
+RACK: Code search in the IDE using crowdsourced knowledge
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Overcoming Vocabulary Limitations in Twitter Microblogs
+Query Generation as Result Aggregation for Knowledge Representation
+JIRiSS - An Eclipse plug-in for source code exploration
+Using thesaurus-based tag clouds to improve test-driven code search
+Semantic code browsing
+APIBook - An effective approach for finding APIs
+Salton and Buckley's landmark research in experimental text information retrieval

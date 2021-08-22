@@ -1,0 +1,31 @@
+FineLocator: A novel approach to method-level fine-grained bug localization by query expansion
+Neural query expansion for code search
+Collaborative feature location in models through automatic query expansion
+Interactive query reformulation for source-code search with word relations
+A novel approach to automatic query reformulation for ir-based bug localization
+Deep learning the semantics of change sequences for query expansion
+Unsupervised software repositories mining and its application to code search
+Evaluating Low-cost in internal crowdsourcing for software engineering: The case of feature location in an industrial environment
+Code search based on alteration intent
+Query expansion via learning change sequences
+A Query Expansion Method Based on Evolving Source Code
+Automated Query Reformulation for Efficient Search based on Query Logs From Stack Overflow
+On the value of bug reports for retrieval-based bug localization
+Enhance code search via reformulating queries with evolving contexts
+On the relationship between bug reports and queries for text retrieval-based bug localization
+D&C: A divide-and-conquer approach to ir-based bug localization
+Utilizing automatic query reformulations as genetic operations to improve feature location in software models
+Xu: an automated query expansion and optimization tool
+Reformulating queries for duplicate bug report detection
+Simplifying Deep-Learning-Based Model for Code Search
+Opportunities and Challenges in Code Search Tools
+QRTest: Automatic Query Reformulation for Information Retrieval Based Regression Test Case Prioritization
+Enabling feature location for API method recommendation and usage location
+A Similarity Integration Method based Information Retrieval and Word Embedding in Bug Localization
+DependLoc: A Dependency-based Framework For Bug Localization
+
+
+
+
+
+

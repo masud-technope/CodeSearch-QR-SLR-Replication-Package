@@ -1,0 +1,39 @@
+38
+Correlation-based software search by leveraging software term database
+SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis
+APIBook: an effective approach for finding APIs
+Understanding the Impact of Support for Iteration on Code Search
+Applying a semantic layer in a source code search tool
+SWordNet: Inferring semantically related words from software context
+A Similarity-Based Method Retrieval Technique to Improve Effectiveness in Code Search
+Query reformulation by leveraging crowd wisdom for scenario-based software search
+Active code search: incorporating user feedback to improve code search relevance
+Using natural language program analysis to locate and understand action-oriented concerns
+Exploring Action Unit Granularity of Source Code for Supporting Software Maintenance
+Detecting Buggy Files based on Bug Reports: A Random Walk Based Approach
+Design and evaluation of a multi-recommendation system for local code search
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Enabling improved IR-based feature location
+Augmenting and structuring user queries to support efficient free-form code search
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+On the reduction of verbose queries in text retrieval based software maintenance
+Easysearch: Finding relevant functions based on API documentation
+CodeExchange: Supporting reformulation of internet-scale code queries in context
+Using Observed Behavior to reformulate queries during text retrieval-based bug localization
+RACK: code search in the IDE using crowdsourced knowledge
+Query quality prediction and reformulation for source code search: The Refoqus tool
+A search log mining based query expansion technique to improve effectiveness in code search
+Improving Code Search Using Learning-to-Rank and Query Reformulation Techniques
+Improved query reformulation for concept location using CodeRank and document structures
+SnippetGen: Enhancing the code search via intent predicting
+Query expansion via WordNet for effective code search
+Can the use of types and query expansion help improve large-scale code search?
+Thesaurus-based automatic query expansion for interface-driven code search
+QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge
+Poster: Improving bug localization with report quality dynamics and query reformulation
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Automatic query reformulations for feature location in a model-based family of software products
+Query Expansion Based on Crowd Knowledge for Code Search
+Query Expansion via Intent Predicting
+Query expansion based on statistical learning from code changes
+Assisting code search with automatic query reformulation for bug localization

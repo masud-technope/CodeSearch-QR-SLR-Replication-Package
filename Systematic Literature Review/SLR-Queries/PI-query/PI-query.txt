@@ -1,0 +1,74 @@
+  ("query reformulation"
+  OR
+  "query expansion"
+  OR
+  "query reduction"
+  OR
+  "query formulation"
+  OR
+  "query refinement"
+  OR
+  "automated query expansion"
+  OR
+  "AQE"
+  OR
+  "query suggestion"
+  OR
+  "query recommendation"
+  OR
+  "term selection"
+  OR
+  "query replacement"
+  OR
+  "query difficulty"
+  OR
+  "query quality"
+  OR
+  "keyword selection"
+  OR
+  "keyword extraction"
+  OR
+  "search term identification"
+  OR
+  "search query"
+  OR
+  "search term"
+  OR
+ "search keyword"
+  OR
+  "query processing"
+  OR
+  "API recommendation"
+ ) 
+
+ AND 
+ (
+ "text retrieval"
+ OR
+ "software text retrieval"
+ OR
+ "bug localization"
+ OR
+ "concept location"
+ OR
+ "feature location"
+ OR
+ "FL"
+ OR
+ "concern location"
+ OR
+ "Internet-scale code search"
+ OR
+ "code search engine"
+ OR
+ "local code search"
+ OR
+ "code search"
+ OR
+ "source code search"
+ OR
+ "software search"
+ OR
+ "library search"
+ 
+ )

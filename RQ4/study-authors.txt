@@ -1,0 +1,70 @@
+IST	2014	Zamani, Sima and Lee, Sai Peck and Shokripour, Ramin and Anvik, John
+ICCIT	2017	Satter, Abdus and Sakib, Kazi
+IST	2011	Lazzarini Lemos, Otávio Augusto and Bajracharya, Sushil and Ossher, Joel and Masiero, Paulo Cesar and Lopes, Cristina
+ASE	2014	Wang, Shaowei and Lo, David and Jiang, Lingxiao
+Internetware	2016	Yu, H. and Song, W. and Mine, T.
+MSR	2013	Sisman, Bunyamin and Kak, Avinash C.
+EMSE	2018	Sirres, Raphael and Bissyandé, Tegawendé F. and Kim, Dongsun and Lo, David and Klein, Jacques and Kim, Kisub and Traon, Yves Le
+ASE	2012	Haiduc, Sonia and Bavota, Gabriele and Oliveto, Rocco and Lucia, Andrea De and Marcus, Andrian
+DKE	2018	Pérez, Francisca and Font, Jaime and Arcega, Lorena and Cetina, Carlos
+ICSE	2013	Haiduc, Sonia and Bavota, Gabriele and Marcus, Andrian and Oliveto, Rocco and De Lucia, Andrea and Menzies, Tim
+ICSE	2014	Kevic, Katja and Fritz, Thomas
+ICSE	2009	Hill, Emily and Pollock, Lori and Vijay-Shanker, K.
+SCAM	2015	Lemos, Otavio Augusto Lazzarini and De Paula, Adriano Carvalho and Sajnani, Hitesh and Lopes, Cristina V.
+ASE	2015	Martie, Lee and Latoza, Thomas D. and Van Der Hoek, André
+ASE	2015	Lv, Fei and Zhang, Hongyu and Lou, Jian Guang and Wang, Shaowei and Zhang, Dongmei and Zhao, Jianjun
+FCS	2018	Li, Zhixing and Yin, Gang and Wang, Tao and Zhang, Yang and Yu, Yue and Wang, Huaimin
+VLC	2016	Ge, Xi and Shepherd, David C. and Damevski, Kostadin and Murphy-Hill, Emerson
+LNCS	2006	Dourdas, Nektarios and Zhu, Xiaohong and Maiden, Neil and Jones, Sara and Zachos, Konstantinos
+ICSME	2018	Rahman, Mohammad M. and Roy, Chanchal K
+TSE	2017	Zhang, Feng and Niu, Haoran and Keivanloo, Iman and Zou, Ying
+JSEP	2017	Sisman, Bunyamin and Kak, Avinash C
+ASE	2017	Rahman, Mohammad M. and Roy, Chanchal K
+SPLC	2016	Lapeña, Raúl and Font, Jaime and Pérez, Francisca and Cetina, Carlos
+ICSE	2013	Wang, Jinshui and Peng, Xin and Xing, Zhenchang and Zhao, Wenyun
+FSE	2018	Rahman, Mohammad M. and Roy, Chanchal K
+ASE	2017	Lin, Zeqi and Zou, Yanzhen and Zhao, Junfeng and Xie, Bing
+EMSE	2014	Yang, Jinqiu and Tan, Lin
+MSR	2013	Howard, Matthew J. and Gupta, Samir and Pollock, Lori and Vijay-Shanker, K.
+ICSE	2016	Chaparro, Oscar and Marcus, Andrian
+ICSM	2009	Gay, Gregory and Haiduc, Sonia and Marcus, Andrian and Menzies, Tim
+ICPC	2011	Panchenko, Oleksandr and Karstens, Jan and Plattner, Hasso and Zeier, Alexander
+TOSEM	2017	Mills, Chris and Bavota, Gabriele and Haiduc, Sonia and Oliveto, Rocco and Marcus, Andrian and Lucia, Andrea De
+ICSME	2015	Balachandran, Vipin
+TSC	2016	Nie, Liming and Jiang, He and Ren, Zhilei and Sun, Zeyi and Li, Xiaochen
+SPE	2018	Huang, Qing and Yang, Yangrui and Zhan, Xue and Wan, Hongyan and Wu, Guoqing
+SANER	2015	Lu, Meili and Sun, Xiaobing and Wang, Shaowei and Lo, David and Duan, Yucong
+Internetware	2016	Li, Zhixing and Wang, Tao and Zhang, Yang and Zhan, Yun and Yin, Gang
+ASE	2016	Rahman, Mohammad Masudur and Roy, Chanchal K
+SANER	2016	Rahman, Mohammad Masudur and Roy, Chanchal K and Lo, David
+SANER	2017	Rahman, Mohammad Masudur and Roy, Chanchal K
+ICSE	2016	Raghothaman, Mukund and Wei, Yi and Hamadi, Youssef
+MSR	2014	Lemos, Otávio A. L. and de Paula, Adriano C. and Zanichelli, Felipe C. and Lopes, Cristina V.
+ASOD	2007	Shepherd, David and Fry, Zachary P and Hill, Emily and Pollock, Lori
+ICSME	2017	Chaparro, Oscar and Florez, Juan Manuel and Marcus, Andrian
+MSR	2014	Kevic, Katja and Fritz, Thomas
+ICSE	2015	Gvero, Tihomir and Kuncak, Viktor
+ASE	2011	Kimmig, Markus and Monperrus, Martin and Mezini, Mira
+ICSE	2010	Würsch, Michael and Ghezzi, Giacomo and Reif, Gerald and Gall, Harald C
+WSDM	2017	Vinayakarao, Venkatesh and Sarma, Anita and Purandare, Rahul and Jain, Shuktika and Jain, Saumya
+WCRE	2004	Marcus, A. and Sergeyev, A. and Rajlich, V. and Maletic, J.I.
+ASE	2010	Gibiec, Marek and Czauderna, Adam and Cleland-Huang, Jane
+ASE	2013	Dietrich, Timothy and Cleland-huang, Jane and Shin, Yonghee
+SANER	2015	Jiang, Shihai and Shen, Liwei and Peng, Xin and Lv, Zhaojin and Zhao, Wenyun
+JSEP	2017	Eddy, Brian P. and Kraft, Nicholas A. and Gray, Jeff
+LNCS	2009	Chatterjee, Shaunak and Juvekar, Sudeep and Sen, Koushik
+AUSE	2016	Wang, Shaowei and Lo, David and Jiang, Lingxiao
+IST	2019	Zhang, Wen and Li, Ziqiang and Wang, Qing and Li, Juan 
+MAPL	2019	Liu, Jason and Kim, Seohyun and Chandra, Satish
+AUSE	2019	Pérez, Francisca and Font, Jaime and Arcega, Lorena and Cetina, Carlos
+Access	2018	Lu, Jinting and Wei, Ying and Sun, Xiaobing and Wen, Wanzhi and Zhou, Cheng
+SAC	2019	Kim, Misoo and Lee, Eunseok
+IST	2020	Kim, Misoo and Lee, Eunseok
+SPE	2019	Huang, Qing and Yang, Yang and Cheng, Ming
+Access	2020	Pérez, Francisca and  Marcén, A N A C and  Lapeña, Raúl and Cetina, Carlos
+Access	2019	Wu, Huaiguang and Yang, Yang
+ICSE	2021	Cao, Kaibo and Chen, Chunyang and Baltes, Sebastian and Treude, Christoph and Chen, Xiang
+ICSME	2018	Lawrie, Dawn and Binkley, Dave
+ICSME	2018	Mills, Chris and Pantiuchina, Jevgenija and Parra, Esteban and Bavota, Gabriele and Haiduc, Sonia
+TSE	2019	Pérez, Francisca  and Ziadi, Tewfik and Cetina, Carlos
+ICPC	2019	Silva, R.F.G. and Roy, Chanchal K and Rahman, Mohammad Masudur and Schneider, K.A. and Paixao, K. and Maia, M.D.A.

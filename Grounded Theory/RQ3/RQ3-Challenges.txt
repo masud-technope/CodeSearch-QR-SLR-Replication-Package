@@ -1,0 +1,8 @@
+CH1: Noise in search query and Unsolved vocabulary mismatch problem
+CH2: Extra cognitive burden on the developers
+CH3: Lack of generalizability
+CH4: Issues towards practical adoption 
+CH5: Human bias and Weak evaluation
+CH6: Inappropriate use of tools and Strong external dependencies 
+CH7: Lack of sound theory
+CH8: Miscellaneous

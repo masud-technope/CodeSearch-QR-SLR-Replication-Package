@@ -1,0 +1,913 @@
+912
+Detecting influenza epidemics using search engine query data
+Searching the Web: The public and their queries
+A search for conserved sequences in coding regions reveals that the let-7 microRNA targets Dicer within its coding sequence
+Short- and long-term clinical outcome after drug-eluting stent implantation for the percutaneous treatment of left main coronary artery disease - Insights from the rapamycin-eluting and Taxus Stent evaluated at Rotterdam Cardiology Hospital registries (RESEARCH and T-SEARCH)
+A Survey of Automatic Query Expansion in Information Retrieval
+Refining search terms for nanotechnology
+GeneCards: a novel functional genomics compendium with automated data mining and query reformulation support
+Query-dependent banding (QDB) for faster RNA similarity searches
+Five-year lung cancer screening experience: CT appearance, growth rate, location, and histologic features of 61 lung cancers
+Tracking the Rise in Popularity of Electronic Nicotine Delivery Systems (Electronic Cigarettes) Using Search Query Surveillance
+Feature location using probabilistic ranking of methods based on execution scenarios and information retrieval
+Feature location in source code: a taxonomy and survey
+An information retrieval approach to concept location in source code
+Using the concept of Chou's Pseudo Amino Acid composition to predict apoptosis proteins subcellular location: An approach by approximate entropy
+A review of ontology based query expansion
+Priming in macaque frontal cortex during popout visual search: Feature-based facilitation and location-based inhibition of return
+Between sound and perception: reviewing the search for a neural code
+Mural Inflammation in Crohn Disease: Location-Matched Histologic Validation of MR Imaging Features
+An information-theoretic approach to automatic query expansion
+Prediction of protein submitochondria locations by hybridizing pseudo-amino acid composition with various physicochemical features of segmented sequence
+Analysis and Prediction of the Metabolic Stability of Proteins Based on Their Sequential Features, Subcellular Locations and Interaction Networks
+Query expansion by mining user logs
+Where Should the Bugs Be Fixed? More Accurate Information Retrieval-Based Bug Localization Based on Bug Reports
+Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search
+Attention to features precedes attention to locations in visual search: Evidence from electromagnetic brain responses in humans
+Complex dynamics of our economic life on different scales: insights from search engine query data
+Firing features and potassium channel content of murine spiral ganglion neurons vary with cochlear location
+A search for good convolutional codes to be used in the construction of turbo codes
+Indexing large metric spaces for similarity search queries
+Hand gesture recognition using combined features of location, angle and velocity
+Interpreting the recent results on direct searches for dark matter particles in terms of relic neutralinos
+Bridging ocean color observations of the 1980s and 2000s in search of long-term trends
+Case study of feature location using dependence graph
+Relevant term suggestion in interactive Web search based on contextual information in query session logs
+Search for evidence of trend slow-down in the long-term TOMS/SBUV total ozone data record: the importance of instrument drift uncertainty
+Changes of search terms and tactics while writing a research proposal - A longitudinal case study
+Bug localization using latent Dirichlet allocation
+Relationship of steatosis grade and zonal location to histological features of steatohepatitis in adult patients with non-alcoholic fatty liver disease
+Robust numerical features for description and classification of subcellular location patterns in fluorescence microscope images
+Using Web Search Query Data to Monitor Dengue Epidemics: A New Model for Neglected Tropical Disease Surveillance
+Spatial selection via feature-driven inhibition of distractor locations
+HYTHEC: An EC funded search for a long term massive hydrogen production route using solar and nuclear technologies
+Searching for Targets within the Spatial Layout of Visual Short-Term Memory
+Total Recall II: Query Expansion Revisited
+Top-k Exploration of Query Candidates for Efficient Keyword Search on Graph-Shaped (RDF) Data
+Prediction of Dengue Incidence Using Search Query Surveillance
+In Search of Decay in Verbal Short-Term Memory
+In search of durable positive psychology interventions: Predictors and consequences of long-term positive behavior change
+Exploiting query repetition and regularity in an adaptive community-based Web search engine
+Mining User Mobility Features for Next Place Prediction in Location-based Services
+Visual selection mediated by location: Feature-based selection of noncontiguous locations
+Web Search Queries Can Predict Stock Market Volumes
+Data search strategy for science and technology emergence: A scalable and evolutionary query for nanotechnology tracking
+Boosting the performance of web search engines: Caching and prefetching query results by exploiting historical usage data
+SNIAFL: Towards a static noninteractive approach to feature location
+Query recommendation using query logs in search engines
+Operationalizing the concept of neighborhood: Application to residential location choice analysis
+Analysis of multiple query reformulations on the web: The interactive information retrieval context
+Evaluation of query expansion using MeSH in PubMed
+Sirolimus-eluting versus paclitaxel-eluting stent implantation for the percutaneous treatment of left main coronary artery disease - A combined RESEARCH and T-SEARCH long-term analysis
+Semantics-Based Code Search
+Combining formal concept analysis with information retrieval for concept location in source code
+Prediction of protein subcellular location using a combined feature of sequence
+Visual marking of locations and feature maps: Evidence from within-dimension defined conjunctions
+Combining local features for robust nose location in 3D facial data
+Examining the effectiveness of real-time query expansion
+Location Recognition Using Prioritized Feature Matching
+Improving Bug Localization using Structured Information Retrieval
+Dimension-specific intertrial facilitation in visual search for pop-out targets: Evidence for a top-down modulable visual short-term memory effect
+The long term outcome of limbal allografts: the search for surviving cells
+Use of query reformulation and relevance feedback by Excite users
+Adaptive peaks and alternative foraging tactics in brook charr: evidence of short-term divergent selection for sitting-and-waiting and actively searching
+Monitoring Influenza Epidemics in China with Search Query from Baidu
+On the Use of Relevance Feedback in IR-Based Concept Location
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+Cell Search in 3GPP Long Term Evolution Systems
+A hybrid intelligent model for medium-term sales forecasting in fashion retail supply chains using extreme learning machine and harmony search algorithm
+Localization and transmission route of Coriobacterium glomerans, the endosymbiont of pyrrhocorid bugs
+Interplanetary magnetic field control of the location of substorm onset and auroral features in the conjugate hemispheres
+CoPub Mapper: mining MEDLINE based on search term co-publication
+Aerosol black carbon over Bay of Bengal observed from an island location, Port Blair: Temporal features and long-range transport
+Source Code Retrieval for Bug Localization using Latent Dirichlet Allocation
+Location- or feature-based targeting of peripheral attention
+Human immunodeficiency virus type 1 reverse transcriptase and protease mutation search engine for queries
+A new comprehensive classification of the Piton de la Fournaise activity spanning the 1985-2010 period. Search and analysis of short-term precursors from a broad-band seismological station
+K-nearest neighbor search for moving query point
+On caching search engine query results
+Integration of association rules and ontologies for semantic query expansion
+Search space boundary extension method in real-coded genetic algorithms
+Feature reduction for improved recognition of subcellular location patterns in fluorescence microscope images
+The HARPS search for southern extra-solar planets XXX. Planetary systems around stars with solar-like magnetic cycles and short-term activity variation
+End user searching on the Internet: An analysis of term pair topics submitted to the Excite search engine
+Searching the Semantic Web: Approximate query processing based on ontologies
+Testosterone has a long-term effect on primary sex ratio of first eggs in pigeons-in search of a mechanism
+Static techniques for concept location in object-oriented code
+Vaccination or immunization? The impact of search terms on the Internet
+What's in a location? Comparing object-based and space-based models of feature integration in visual search
+Information hiding based on search-order coding for VQ indices
+Do Seasons Have an Influence on the Incidence of Depression? The Use of an Internet Search Engine Query Data as a Proxy of Human Affect
+Dissociation of egocentric and allocentric coding of space in visual search after right middle cerebral artery stroke
+Interactive query expansion: A user-based evaluation in a relevance feedback environment
+Object features, object locations, and object files: Which does selective attention activate and when?
+Comparison of short- (one month) and long- (twelve months) term outcomes of sirolimus- versus paclitaxel-eluting stents in 293 consecutive patients with diabetes mellitus (from the RESEARCH and T-SEARCH registries)
+Long-Term Clinical Results Following Stenting of the Left Main Stem Insights From RESEARCH (Rapamycin-Eluting Stent Evaluated at Rotterdam Cardiology Hospital) and T-SEARCH (Taxus-Stent Evaluated at Rotterdam Cardiology Hospital) Registries
+Patterns of Query Reformulation During Web Searching
+An investigation of pretend play, mental state terms and false belief understanding: In search of a metarepresentational link
+Intratemporal facial nerve neuroma: Anatomical location and radiological features
+Analysis of the query logs of a web site search engine
+Scoping Review on Search Queries and Social Media for Disease Surveillance: A Chronology of Innovation
+A task-oriented study on the influencing effects of query-biased summarisation in web searching
+Feature binding in visual short-term memory is unaffected by task-irrelevant changes of location, shape, and color
+SeqWare Query Engine: storing and searching sequence data in the cloud
+Effects of feature-based attention on the motion aftereffect at remote locations
+The effects of expertise a selection and subsequent a feedback on search term learning
+Multi-objective optimization of short-term hydrothermal scheduling using non-dominated sorting gravitational search algorithm with chaotic mutation
+Diagnosing ectopic pregnancy and current concepts in the management of pregnancy of unknown location
+Solving spread spectrum radar polyphase code design problem by tabu search and variable neighbourhood search
+Subject categorization of query terms for exploring Web users' search interests
+Charged system search for optimum grillage system design using the LRFD-AISC code
+Imiquimod and lentigo maligna: a search for prognostic features in a clinicopathological study with long-term follow-up
+Long-term spectroscopic observations of mars using IRTF/CSHELL: Mapping of O-2 dayglow, CO, and search for CH4
+In search of query patterns: A case study of a university OPAC
+Application embedded chaos search immune genetic algorithm for short-term unit commitment
+What is "Odd'' in Posner's Location-cueing Paradigm? Neural Responses to Unexpected Location and Feature Changes Compared
+Effects of phytohemagglutinin (PHA) on the structure of midgut epithelial cells and localization of its binding sites in western tarnished plant bug, Lygus hesperus Knight
+Personalized concept-based clustering of search engine queries
+In search of the third code: An investigation of norms in literary translation
+Query difficulty, robustness, and selective application of query expansion
+Post-Silicon Bug Localization in Processors Using Instruction Footprint Recording and Analysis (IFRA)
+Ontology-based spatial query expansion in information retrieval
+Subject knowledge improves interactive query expansion assisted by a thesaurus
+Combining in silico prediction and ribosome profiling in a genome-wide search for novel putatively coding sORFs
+Working memory capacity and retrieval from long-term memory: the role of controlled search
+Location Matters Clarifying the Concept of Nuclear and Cytosolic CaMKII Subtypes
+Incorporating Query Expansion and Quality Indicators in Searching Microblog Posts
+Using tabu search with longer-term memory and relaxation to create examination timetables
+Location of the appendix in the gravid patient: a re-evaluation of the established concept
+Using query expansion in graph-based approach for query-focused multi-document summarization
+Searching for a needle in a haystack: Use of ICD-9-CM codes in drug-induced liver injury
+Transform Coding for Fast Approximate Nearest Neighbor Search in High Dimensions
+A Hybrid Framework for Fault Detection, Classification, and Location-Part I: Concept, Structure, and Methodology
+Measuring the Public Agenda using Search Engine Queries
+CVSSearch: Searching through source code using CVS comments
+Travel queries on cities in the United States: Implications for search engine marketing for tourist destinations
+A comparison of collocation-based similarity measures in query expansion
+Patterns of search: Analyzing and modeling Web query refinement
+Integrating keyword search into XML query processing
+Efficient exhaustive search for optimal-peak-sidelobe binary codes
+Can Google Trends search queries contribute to risk diversification?
+Prediction of protein submitochondria locations based on data fusion of various features of sequences
+Automatic License-Plate Location and Recognition Based on Feature Salience
+Archetypal source code searches: A survey of software developers and maintainers
+Signals from the shallows: In search of common patterns in long-term trends in Dutch estuarine and coastal fish
+Effects of feature-selective attention on auditory pattern and location processing
+A practical ontology query expansion algorithm for semantic-aware learning objects retrieval
+VHR Object Detection Based on Structural Feature Extraction and Query Expansion
+HybridGO-Loc: Mining Hybrid Features on Gene Ontology for Predicting Subcellular Localization of Multi-Location Proteins
+SEARCHING IN ONE BILLION VECTORS: RE-RANK WITH SOURCE CODING
+Coverage, relevance, and ranking: The impact of query operators on web search engine results
+Form and function: The impact of query term and operator usage on Web search results
+Iterative exploration, design and evaluation of support for query reformulation in interactive information retrieval
+Source-search sensitivity of a large-area, coded-aperture, gamma-ray imager
+Rapid search algorithms for code acquisition in UWB impulse radio communications
+Small area parallel chien search architectures for long BCH codes
+Diverse Fusion Patterns and Heterogeneous Clinicopathologic Features of Renal Cell Carcinoma With t(6;11) Trans location
+Orientation code matching for robust object search
+BEAUTY-X: enhanced BLAST searches for DNA queries
+Query reformulation with constraints
+Integrating information retrieval, execution and link analysis algorithms to improve feature location in software
+Exemplar: A Source Code Search Engine for Finding Highly Relevant Applications
+Clustering Support for Static Concept Location in Source Code
+Identify submitochondria and subchloroplast locations with pseudo amino acid composition: Approach from the strategy of discrete wavelet transform feature extraction
+The determinants of international investment and attention allocation: Using internet search query data
+The search for an input-coding scheme: Transposed-letter priming in Arabic
+Dual-Folding Based Rapid Search Method for Long PN-Code Acquisition
+Fixed queries array: A fast and economical data structure for proximity searching
+Why do people Google epilepsy? An infodemiological study of online behavior for epilepsy-related search terms
+Searching for Voltage Graph-Based LDPC Tailbiting Codes With Large Girth
+SNIFF: A Search Engine for Java Using Free-Form Queries
+IFRA: Instruction Footprint Recording and Analysis for post-silicon bug localization in processors
+Attention to locations and features: Different top-down modulation of detector weights
+Query-Adaptive Reciprocal Hash Tables for Nearest Neighbor Search
+Improving search via personalized query expansion using social media
+Examination timetables and tabu search with longer-term memory
+An analysis of clinical queries in an electronic health record search utility
+Optical orthogonal code acquisition in fiber-optic CDMA systems via the simple serial-search method
+TSpack: A unified Tabu Search code for multi-dimensional bin packing problems
+Do Economic Equality and Generalized Trust Inhibit Academic Dishonesty? Evidence From State-Level Search-Engine Queries
+Protein structural similarity search by Ramachandran codes
+Implicit short-term memory and event frequency effects in visual search
+Learning Binary Codes for Maximum Inner Product Search
+Cuckoo search algorithm for short-term hydrothermal scheduling
+Achieving Effective Cloud Search Services: Multi-keyword Ranked Search over Encrypted Cloud Data Supporting Synonym Query
+A hybrid real coded genetic algorithm - Pattern search approach for selective harmonic elimination of PWM AC/AC voltage controller
+The Effect of Search Term on the Quality and Accuracy of Online Information Regarding Distal Radius Fractures
+Hybrid randomised neighbourhoods improve stochastic local search for DNA code design
+Prediction of subcellular location of mycobacterial protein using feature selection techniques
+Parietal cortex coding of limb posture: In search of the body-schema
+Prediction of subcellular location apoptosis proteins with ensemble classifier and feature selection
+Improving Search Relevance for Implicitly Temporal Queries
+Adaptive local search parameters for real-coded memetic algorithms
+Automatic query expansion via lexical-semantic relationships
+On the performance of a maximum-likelihood code-acquisition technique for preamble search in a CDMA reverse link
+A genetic similarity algorithm for searching the Gene Ontology terms and annotating anonymous protein sequences
+The search for alternative splicing regulators: new approaches offer a path to a splicing code
+SPARK: Adapting keyword query to semantic search
+Searching efficient protection strategies for the eutrophied Gulf of Finland: The combined use of 1D and 3D modeling in assessing long-term state scenarios with high spatial resolution
+Short-term load forecasting using a hybrid model with a refined exponentially weighted fuzzy time series and an improved harmony search
+Postmarket Drug Surveillance Without Trial Costs: Discovery of Adverse Drug Reactions Through Large-Scale Analysis of Web Search Queries
+Using Search Query Surveillance to Monitor Tax Avoidance and Smoking Cessation following the United States' 2009 "SCHIP" Cigarette Tax Increase
+Business information query expansion through semantic network
+A systematic search for short-term variability of EGRET sources
+Conceptual query expansion
+Using association rules to discover search engines related queries
+Search Me If You Can: Privacy-preserving Location Query Service
+Can Better Identifier Splitting Techniques Help Feature Location?
+A Comparison of Query and Term Suggestion Features for Interactive Searching
+An empirical analysis of information retrieval based concept location techniques in software comprehension
+A comparative evaluation of search techniques for query-by-humming using the MUSART testbed
+The role of working memory and long-term memory in visual search
+How do search engines respond to some non-English queries?
+Can Internet Search Queries Help to Predict Stock Market Volatility?
+Repairing Programs with Semantic Code Search
+Visual query expansion with or without geometry: Refining local descriptors by feature aggregation
+Register of short-stay units in Spain, the REGICE Project, study 1: location, organizational features, and staffing
+A High-Range-Accuracy and High-Sensitivity Harmonic Radar Using Pulse Pseudorandom Code for Bee Searching
+Globally Convergent Three-Term Conjugate Gradient Methods that Use Secant Conditions and Generate Descent Search Directions for Unconstrained Optimization
+Cultural activities as a location factor in European competition between regions: Concepts and some evidence
+Grid and Nongrid Cells in Medial Entorhinal Cortex Represent Spatial Location and Environmental Features with Complementary Coding Schemes
+The Impact of Classifier Configuration and Classifier Combination on Bug Localization
+Determining the subcellular location of new proteins from microscope images using local features
+Tabu search based multi-watermarks embedding algorithm with multiple description coding
+Query expansion using heterogeneous thesauri
+The search and destroy strategy prevents spread and long-term carriage of methicillin-resistant Staphylococcus aureus: results from the follow-up screening of a large ST22 (E-MRSA 15) outbreak in Denmark
+SEARCH FOR OPTIMAL SOLUTION OF PUBLIC BUILDING RENOVATION IN TERMS OF LIFE CYCLE
+Prediction of Protein Subcellular Locations with Feature Selection and Analysis
+On the overlap, the precision and estimated recall of search engines, a case study of the query "Erdos"
+Searching in MEDLINE: Query expansion and manual indexing evaluation
+Modified cuckoo search algorithm for short-term hydrothermal scheduling
+A simple and efficient method to search for selected primary transcripts: non-coding and antisense RNAs in the human pathogen Enterococcus faecalis
+Query expansion with long-span collocates
+Responding to feature or location: a re-examination of inhibition of return and facilitation of return
+A two-term MEDLINE search strategy for identifying randomized trials in obstetrics and gynecology
+Combining multiple evidence from different types of thesaurus for query expansion
+Predicting protein subcellular location: exploiting amino acid based sequence of feature spaces and fusion of diverse classifiers
+A query expansion and user profile enrichment approach to improve the performance of recommender systems operating on a folksonomy
+In search of a hidden long-term isolated sub-chondritic Nd-142/Nd-144 reservoir in the deep mantle: Implications for the Nd isotope systematics of the Earth
+An efficient pseudocodeword search algorithm for linear programming decoding of LDPC codes
+Query reformulation using automatically generated query concepts from a document space
+SNIAFL: Towards a static non-interactive approach to feature location
+Long-term electric energy consumption forecasting via artificial cooperative search algorithm
+Searching for Cancer Information on the Internet: Analyzing Natural Language Search Queries
+Boosting Bug-Report-Oriented Fault Localization with Segmentation and Stack-Trace Analysis
+Emerging principles of population coding: in search for the neural code
+Fault location in transmission lines based on stationary wavelet transform, determinant function feature and support vector regression
+Antigen location contributes to the pathological features of a transplanted heart graft
+Knowledge-based scheme to create privacy-preserving but semantically-related queries for web search engines
+Analyzing and mining a code search engine usage log
+Conditional median: A parametric solution concept for location problems
+ExpansionTool: Concept-based query expansion and construction
+A study of the effect of term proximity on query expansion
+The search for the most reliable long-term rain attenuation CDF of a slant path and the impact on prediction models
+Information Retrieval and Spectrum Based Bug Localization: Better Together
+Searching for the genome's second code
+Further results on convolutional code search for block-fading channels
+A CONCEPT OF LOCATION-BASED SOCIAL NETWORK MARKETING
+Search for critical-point nuclei in terms of the sextic oscillator
+The long-term effects of job search requirements: Evidence from the UK JSA reform
+Visual memory for features, conjunctions, objects, and locations
+Identification of ambiguous queries in web search
+Diagnostic test systematic reviews: Bibliographic search filters ("Clinical Queries") for diagnostic accuracy studies perform well
+Extramedullary (EMP) relapse in unusual locations in multiple myeloma: Is there an association with precedent thalidomide administration and a correlation of special biological features with treatment and outcome?
+Optimal query expansion (QE) processing methods with semantically encoded structured thesauri terminology
+Castleman disease: CT and MR imaging features of a retroperitoneal location in association with paraneoplastic pemphigus
+Dysembryoplastic neuroepithelial tumors. Features in eight cases, including two with unusual locations.
+Comprehensive search for intra- and inter-specific sequence polymorphisms among coding envelope genes of retroviral origin found in the human genome: genes and pseudogenes
+Graphs from search engine queries
+Continual corporate entrepreneurial search for long-term growth
+Does location really matter? An inter-colony comparison of seabirds breeding at varying distances from productive oceanographic features in the Bering Sea
+Internet Search Term Affects the Quality and Accuracy of Online Information About Developmental Hip Dysplasia
+Classifying Web Search Queries to Identify High Revenue Generating Customers
+The involuntary capture of attention by novel feature pairings: A study of voice-location integration in auditory sensory memory
+Search for Short-Term Periodicities in the Sun's Surface Rotation: A Revisit
+Exploring criteria for successful query expansion in the genomic domain
+Search personalization through query and page topical analysis
+Searching for the elusive neural substrates of body part terms: A neuropsychological study
+Probabilistic location recognition using reduced feature set
+Query expansion behavior within a thesaurus-enhanced search environment: A user-centered evaluation
+Web query expansion by WordNet
+Query strategies during information searching: Effects of prior domain knowledge and complexity of the information problems to be solved
+Does the volume of Internet searches using suicide-related search terms influence the suicide death rate: Data from 2004 to 2009 in Japan
+Reformulation of XML queries and constraints
+Feature-based attention involuntarily and simultaneously improves visual performance across locations
+Visual search in long-term cannabis users with early age of onset
+Solution of Economic Load Dispatch using real coded Hybrid Stochastic Search
+Fixed-Term Contracts at Labour Market Entry in West Germany: Implications for Job Search and First Job Quality
+Self-organizing feature maps for solving location-allocation problems with rectilinear distances
+Focal atrial tachycardia I: Clinical features, diagnosis, mechanisms, and anatomic location
+A three level search engine index based in query log distribution
+Revisiting the Rise of Electronic Nicotine Delivery Systems Using Search Query Surveillance
+Assessing Ebola-related web search behaviour: insights and implications from an analytical study of Google Trends-based query volumes
+Advances in nowcasting influenza-like illness rates using search query logs
+Disruption based gravitational search algorithm for short term hydrothermal scheduling
+Short-term economic environmental hydrothermal scheduling using improved multi-objective gravitational search algorithm
+Using Clinicians' Search Query Data to Monitor Influenza Epidemics
+Configuring latent Dirichlet allocation based feature location
+QsRank: Query-sensitive Hash Code Ranking for Efficient epsilon-neighbor Search
+Enhanced Web document retrieval using automatic query expansion
+Improving searching and reading performance: the effect of highlighting and text color coding
+Enriching Web taxonomies through subject categorization of query terms from search engine logs
+Measurement of the direct emission and interference terms and search for CP violation in the decay K-+/- -> pi(+/-)pi(0)gamma
+Cross-media retrieval using query dependent search methods
+On the number of terms used in automatic query expansion
+Searching for linear codes with large minimum distance
+Strength-reduced parallel Chien search architecture for strong BCH codes
+Improving search engines by query clustering
+Dynamic adaptation strategies for long-term and short-term user profile to personalize search
+Query expansion with ConceptNet and WordNet: An intrinsic comparison
+A search for core values - Towards a model code of ethics for information professionals
+Navigating the Neural Space in Search of the Neural Code
+Query association surrogates for Web search
+Global ballast water management and the "same location" concept: a clear term or a clear issue?
+Semantic Search: Reconciling Expressive Querying and Exploratory Search
+An Exploratory Study on Assessing Feature Location Techniques
+Neutral Search Technique for Short-Term Pump Schedule Optimization
+Validation of a discharge summary term search method to detect adverse events
+Efficient algebraic code-excited linear predictive codebook search
+Query-adaptive multimodal fusion for search
+Decision-making approach for the distribution centre location problem in a supply chain network using the fuzzy-based hierarchical concept
+Fast Intra Block Copy (IntraBC) search for HEVC screen content coding
+Reversible data hiding for VQ-compressed images based on search-order coding and state-codebook mapping
+Improving Feature Location Practice with Multi-faceted Interactive Exploration
+Tracking by Location and Features: Object Correspondence Across Spatiotemporal Discontinuities During Multiple Object Tracking
+Acquisition of modern GNSS signals using a modified parallel code-phase search architecture
+Optimizing similarity search for arbitrary length time series queries
+Evaluation of feature extraction methods for EEG-based brain-computer interfaces in terms of robustness to slight changes in electrode locations
+Location matters, especially for non-salient features-An eye-tracking study on the effects of web object placement on different types of websites
+Fault Location - Basic Concept and Characteristic of Methods
+The index-based XXL search engine for querying XML data with relevance ranking
+Feature selection using tabu search with long-term memories and probabilistic neural networks
+The role of attention in the binding of surface features to locations
+Improving category specific web search by learning query modifications
+Archetypal Internet-scale source code searching
+Combining fields for query expansion and adaptive query expansion
+Searching for mid-term variations in different aspects of solar activity - looking for probable common origins and studying temporal variations of magnetic polarities
+Spirituality: A glowing and useful term in search of a meaning
+Histologic features and clinical outcomes of melanomas of lip, haired skin, and nail bed locations of dogs
+Reformulation of queries using similarity thesauri
+Efficient Search of Girth-Optimal QC-LDPC Codes
+Understanding vaccination resistance: Vaccine search term selection bias and the valence of retrieved information
+Low bit-rate information hiding method based on search-order-coding technique
+MEDLINE clinical queries are robust when searching in recent publishing years
+Bayesian ontology querying for accurate and noise-tolerant semantic searches
+Efficient Compute-and-Forward Network Codes Search for Two-Way Relay Channel
+The role of fixed-term contracts at labour market entry in Poland: stepping stones, screening devices, traps or search subsidies?
+Adaptive Harmony Search Algorithm for Design Code Optimization of Steel Structures
+Assessing a New Advertising Effect Measurement of the Impact of Television Commercials on Internet Search Queries
+Predicting the correct spatial location of reflectors without knowing or determining the precise medium and wave velocity: Initial concept, algorithm and analytic and numerical example
+Automated Concept Location Using Independent Component Analysis
+Clinical features of extraforaminal lumbar disc herniation based on the radiographic location of the dorsal root ganglion
+Cognitive determinants of performance on the digit symbol-coding test, and the symbol search test of the WAIS-III, and the symbol digit modalities test: An analysis in a healthy sample
+Mining search engine query logs for social filtering-based query recommendation
+Query expansion for document retrieval based on fuzzy rules and user relevance feedback techniques
+XML queries and constraints, containment and reformulation
+Short-term electric load forecasting based on singular spectrum analysis and support vector machine optimized by Cuckoo search algorithm
+A query expansion method for retrieving online BIM resources based on Industry Foundation Classes
+Dimensionality reduction for documents with nearest neighbor queries
+Data Mining From Web Search Queries: A Comparison of Google Trends and Baidu Index
+The prediction of palmitoylation site locations using a multiple feature extraction method
+Privacy-aware searching with oblivious term matching for cloud storage
+Concept Location Using Formal Concept Analysis and Information Retrieval
+Exploring Reductions for Long Web Queries
+PPHPS: A parabolic prediction-based, fast half-pixel search algorithm for very low bit-rate moving-picture coding
+Using the fast orthogonal search with first term reselection to find subharmonic terms in spectral analysis
+Concept-based query expansion for retrieving gene related publications from MEDLINE
+The clinicopathological features of biliary intraductal papillary neoplasms according to the location of tumors
+Searching for microsatellite mutations in coding regions in lung, breast, ovarian and colorectal cancers
+Measuring search-engine quality and query difficulty: Ranking with target and freestyle
+Partial match queries in relaxed multidimensional search trees
+Geophysical survey at Boden Vean, Cornwall, including an assessment of the microgravity technique for the location of suspected archaeological void features
+Serial search code acquisition using smart antennas with single correlator or matched filter
+Mining related queries from web search engine query logs using an improved association rule mining model
+User search behavior of domain-specific information retrieval systems: An analysis of the query logs from PsycINFO and ABC-Clio's Historical Abstracts/America: History and life
+Query expansion via conceptual distance in thesaurus indexed collections
+Reformulation of consumer health queries with professional terminology: A pilot study
+Radiological features of germinoma arising from atypical locations - Three case reports
+Compositional Vector Space Models for Improved Bug Localization
+Solving the Search for Source Code
+Searching for long-term trends in prehistoric manuring practice. delta N-15 analyses of charred cereal grains from the 4th to the 1st millennium BC
+Portfolio: Searching for Relevant Functions and Their Usages in Millions of Lines of Code
+ANTI-SPARSE CODING FOR APPROXIMATE NEAREST NEIGHBOR SEARCH
+Supratentorial hemangioblastoma: clinical features, prognosis, and predictive value of location for von Hippel-Lindau disease
+Cost-Aware Strategies for Query Result Caching in Web Search Engines
+Early-onset peripheral arterial occlusive disease: clinical features and determinants of disease severity and location
+An empirical analysis of ontology-based query expansion for learning resource searches using MERLOT and the Gene ontology
+Features of the F3 layer occurrence over the equatorial location of Trivandrum
+Patterns and sequences of multiple query reformulations in Web searching: A preliminary study
+Classifying Search Queries Using the Web as a Source of Knowledge
+Query Expansion Using External Evidence
+Tailbiting codes: Bounds and search results
+A novel short-term generation scheduling technique of thermal units using ant colony search algorithms
+Solution of Ulam's searching game with three lies or an optimal adaptive strategy for binary three-error-correcting codes
+Finding important, anharmonic terms in the sixth-order potential energy function by the scaled hypersphere search method: An application to vibrational analyses of molecules and clusters
+An approach to mathematical search through query formulation and data normalization
+In search of optimal codes for DNA computing
+Do search terms matter for online consumers? The interplay between search engine query specification and topical organization
+Using chaos search immune genetic and fuzzy system for short-term unit commitment algorithm
+Using nearest feature line and tunable nearest neighbor methods for prediction of protein subcellular locations
+Evaluating the Retrieval Effectiveness of Web Search Engines Using a Representative Query Sample
+Recommending high-utility search engine queries via a query-recommending model
+Bacterial Community Features Are Shaped by Geographic Location, Physicochemical Properties, and Oil Contamination of Soil in Main Oil Fields of China
+Magnetic Field Feature Extraction and Selection for Indoor Location Estimation
+Boolean Logic Tree of Graphene-Based Chemical System for Molecular Computation and Intelligent Molecular Search Query
+Searching the coding region for microRNA targets
+Evaluating the Specificity of Text Retrieval Queries to Support Software Engineering Tasks
+Search and Retrieval of Rich Media Objects Supporting Multiple Multimodal Queries
+Constrained range search query processing on road networks
+Decoding linear block codes using a priority-first search: Performance analysis and suboptimal version
+Overview of the Institute of Medicine's Committee Search Strategy and Review Process for Gulf War and Health: Long-term Consequences of Traumatic Brain Injury
+Not all features are created equal: Processing asymmetries between location and object features
+Deterministic algorithms for k-SAT based on covering codes and local search
+Fast and accurate search for non-coding RNA pseudoknot structures in genomes
+Improving query precision using semantic expansion
+Similarity search on time series based on threshold queries
+Searching for the perfect surface area normalizing term - a comparison of BET surface area-, geometric surface area- and mass-normalized dissolution rates of anorthite and biotite
+Protein-coding regions prediction combining similarity searches and conservative evolutionary properties of protein-coding sequences
+Perception and Processing of Faces in the Human Brain Is Tuned to Typical Feature Locations
+Weighted Word Pairs for query expansion
+An Exemplar-Familiarity Model Predicts Short-Term and Long-Term Probe Recognition Across Diverse Forms of Memory Search
+Using search queries for malaria surveillance, Thailand
+Search for pollovirus long-term excretors among patients affected by agammaglobulinemia
+In search of long-term hemispheric asymmetry in the geomagnetic field : Results from high northern latitudes
+Can correcting feature location in simulated mean climate improve agreement on projected changes?
+IMPROVING THE RELEVANCY OF DOCUMENT SEARCH USING THE MULTI-TERM ADJACENCY KEYWORD-ORDER MODEL
+The Effect of Lexicon Bad Smells on Concept Location in Source Code
+Cloning of the cDNA, localization, and physiological effects of FGLamide-related allatostatins in the blood-gorging bug, Rhodnius prolixus
+Fractal compression coding based on wavelet transform with diamond search
+Hyper Norms: Searching for a Global Code of Conduct
+The suboptimal structures find the optimal RNAs: homology search for bacterial non-coding RNAs using suboptimal RNA structures
+Determining Time of Queries for Re-ranking Search Results
+On the Privacy of Web Search Based on Query Obfuscation: A Case Study of TrackMeNot
+From "Dango" to "Japanese Cakes": Query Reformulation Models and Patterns
+A path-traceable query routing mechanism for search in unstructured peer-to-peer networks
+Atypical location of germinoma in basal ganglia in adolescents: radiological features and treatment outcomes
+Thesaurus-assisted search term selection and query expansion: A review of user-centred studies
+Protein location prediction using atomic composition and global features of the amino acid sequence
+Auditory location negative priming: A case of feature mismatch
+Re-ranking search results using language models of query-specific clusters
+A Comparison of Search Heuristics for Empirical Code Optimization
+Theoretical study of low-lying electronic terms and transition moments for HfF+ for the electron electric-dipole-moment search
+Near-optimal limited-search detection on ISI/CDMA channels and decoding of long convolutional codes
+Location and features of instructive spatial cues do not influence the time course of covert shifts of visual spatial attention
+De novo search for non-coding RNA genes in the AT-rich genome of Dictyostelium discoideum: Performance of Markov-dependent genome feature scoring
+Computing binary combinatorial gray codes via exhaustive search with SAT solvers
+The sensitivity and precision of search terms in Phases I, II and III of the Cochrane Highly Sensitive Search Strategy for identifying reports of randomized trials in MEDLINE in a specific area of health care - HIV/AIDS prevention and treatment interventions
+Allowing overlapping boundaries in source code using a search based approach to concept binding
+Querying the semantic web with Corese search engine
+On the query refinement in the ontology-based searching for information
+Searching for short-term techniques for the inference of electrical threshold of PET - dc conductivity measurements
+Search and determination of convolutional self-doubly orthogonal codes for iterative threshold decoding
+Query-free news search
+Application of the ant colony search algorithm to short-term generation scheduling problem of thermal units
+Query Expansion Based on Crowd Knowledge for Code Search
+Rapid Clothing Retrieval via Deep Learning of Binary Codes and Hierarchical Search
+Query Expansion via Wordnet for Effective Code Search
+Infodemiology of status epilepticus: A systematic validation of the Google Trends-based search queries
+Searching for Binary and Nonbinary Block and Convolutional LDPC Codes
+A personalized query expansion approach for engineering document retrieval
+On the Use of Stack Traces to Improve Text Retrieval-based Bug Localization
+Fixed-Point Quantum Search with an Optimal Number of Queries
+A Cooperative Parallel Search-Based Software Engineering Approach for Code-Smells Detection
+SPRECware: software tools for Standard PREanalytical Code (SPREC) labeling - effective exchange and search of stored biospecimens
+Typestate-Based Semantic Code Search over Partial Programs
+Search Query Data to Monitor Interest in Behavior Change: Application for Public Health
+RESQUE: Network reduction using semi-Markov random walk scores for efficient querying of biological networks
+Querying event sequences by exact match or similarity search: Design and empirical evaluation
+OLAP query reformulation in peer-to-peer data warehousing
+A monthly consumption indicator for Germany based on Internet search query data
+An analysis of web proxy logs with query distribution pattern approach for search engines
+Sessile serrated adenoma shares similar genetic and epigenetic features with microsatellite unstable colon cancer in a location-dependent manner
+Subject knowledge, source of terms, and term selection in query expansion: An analytical study
+SF6 ground-based infrared solar absorption measurements: long-term trend, pollution events, and a search for SF5CF3 absorption
+Locality in search engine queries and its implications for caching
+Using Search Engine Query Data to Track Pharmaceutical Utilization: A Study of Statins
+Explicit Search Result Diversification through Sub-queries
+Optimal superimposed codes and designs for Renyi's search model
+A new steganographic scheme based on vector quantisation and search-order coding
+The distribution of a kinin-like peptide and its co-localization with a CRF-like peptide in the blood-feeding bug, Rhodnius prolixus
+A syntactically-based query reformulation technique for information retrieval
+Searching coordinate terms with their context from the Web
+Ontology as a search-tool: A study of real users' query formulation with and without conceptual support
+An analysis of query similarity in collaborative Web search
+Immunochemical and morphometric features of astrocyte reactivity vs. plaque location in Alzheimer's disease
+Palmar atypical lipomatous tumour with spindle cell features (well-differentiated spindle cell liposarcoma): a rare neoplasm arising in an unusual anatomical location
+Study of user interaction with a concept-based interactive query expansion support tool
+Working Memory Capacity and Recall From Long-Term Memory: Examining the Influences of Encoding Strategies, Study Time Allocation, Search Efficiency, and Monitoring Abilities
+Short-term price forecasting of Nordic power market by combination Levenberg-Marquardt and Cuckoo search algorithms
+The Code for Directing Proteins for Trans location across ER Membrane: SRP Cotranslationally Recognizes Specific Features of a Signal Sequence
+Using internet search queries for infectious disease surveillance: screening diseases for suitability
+Improving Query Expansion Using WordNet
+Improving search over Electronic Health Records using UMLS-based query expansion through random walks
+From health search to healthcare: explorations of intention and utilization via query logs and user surveys
+Seasonal trends in restless legs symptomatology: evidence from Internet search query data
+Proof of Concept Study: Relating Infarct Location to Stroke Disability in the NINDS rt-PA Trial
+Monitoring a toxicological outbreak using Internet search query data
+Genetic module and miRNome trait analyses reflect the distinct biological features of endothelial progenitor cells from different anatomic locations
+An efficient mechanism for processing similarity search queries in sensor networks
+Bathymetry of the Indonesian Sunda margin-relating morphological features of the upper plate slopes to the location and extent of the seismogenic zone
+Automatic Location of Facial Feature Points and Synthesis of Facial Sketches Using Direct Combined Model
+Searching for the Hebb effect in Down syndrome: evidence for a dissociation between verbal short-term memory and domain-general learning of serial order
+Browsing and searching source code of applications written using a GUI framework
+A Cost-Aware Strategy for Query Result Caching in Web Search Engines
+Mathematical modelling and performance analysis for average-based rapid search method for direct global position system precision code acquisition
+Structural features of the Pip/AzPip couple in the crystalline state: influence of the relative AzPip location in an azadipeptide sequence upon the induced chirality and conformational characteristics
+Supporting web query expansion efficiently using multi-granularity indexing and query processing
+Industrial tools for the feature location problem: an exploratory study
+Modelling map positional error to infer true feature location
+From translation to navigation of different discourses: A model of search term selection during the pre-online stage of the search process
+Global convergence results of a three term memory gradient method with a non-monotone line search technique
+Query-Adaptive Hash Code Ranking for Large-Scale Multi-View Visual Search
+Estimating Influenza Outbreaks Using Both Search Engine Query Data and Social Media Data in South Korea
+Search for space - time trellis codes: novel codes for Rayleigh fading channels
+Learning to Rank for Question-Oriented Software Text Retrieval
+Link analysis algorithms for static concept location: an empirical assessment
+Visual Semantic Search: Retrieving Videos via Complex Textual Queries
+How popular is waterpipe tobacco smoking? Findings from internet search queries
+Referential Coding Does Not Rely on Location Features: Evidence for a Nonspatial Joint Simon Effect
+Positive surgical margins and their locations in specimens are adverse prognosis features after radical cystectomy in non-metastatic carcinoma invading bladder muscle: results from a nationwide case-control study
+Gene Network Homology in Prokaryotes Using a Similarity Search Approach: Queries of Quorum Sensing Signal Transduction
+A heuristic method of searching for interesting markers in terms of quantitative traits
+A test-driven approach to code search and its application to the reuse of auxiliary functionality
+Analysis of performance variation using query expansion
+Enhancing the power of Web search engines by means of fuzzy query
+A search for reverse transcriptase-coding sequences reveals new non-LTR retrotransposons in the genome of Drosophila melanogaster
+Semantic routing of search queries in P2P networks
+A case study of feature location in unstructured legacy Fortran code
+Query expansion using a collection dependent probabilistic latent semantic thesaurus
+Semisupervised query expansion with minimal feedback
+Query Chem: a Google-powered Web search combining text and chemical structures
+Epithelioid sarcoma of the penis - Clinicopathologic study of a tumor with myogenic features and review of the literature concerning this unusual location
+A robust real-coded evolutionary algorithm with toroidal search space conversion
+Mix and match: combining terms and operators for successful Web searches
+How Developers Search for Code: A Case Study
+From Queries to Cards Re-ranking Proactive Card Recommendations Based on Reactive Search History
+CodeHow: Effective Code Search based on API Understanding and Extended Boolean Model
+Context Window Based Co-occurrence Approach for Improving Feedback Based Query Expansion in Information Retrieval
+Top Rank Supervised Binary Coding for Visual Search
+Quantum search with multiple walk steps per oracle query
+Optimization of some factors affecting the performance of query expansion
+A noun-based approach to feature location using time-aware term-weighting
+The effects of information type (features vs. configuration) and location (eyes vs. mouth) on the development of face perception
+Characterizing the Time-Perspective of Nations with Search Engine Query Data
+Exploiting Service Similarity for Privacy in Location-Based Search Queries
+The use of query suggestions during information search
+Knowledge Led Master Code Search for Atomic and Electronic Structures of LaF3 Nanoclusters on Hybrid Rigid Ion-Shell Model-DFT Landscapes
+Learning to rank query suggestions for adhoc and diversity search
+Search-based Refactoring Using Recorded Code Changes
+High performance query expansion using adaptive co-training
+Detecting internet activity for erectile dysfunction using search engine query data in the Republic of Ireland
+A hybrid harmony search algorithm for the spread spectrum radar polyphase codes design problem
+Interactive Query Expansion With the Use of Clustering-by-Directions Algorithm
+Combining query-by-example and query expansion for simplifying web service discovery
+Keeping Simon simple: Examining the relationship between sequential modulations and feature repetitions with two stimuli, two locations and two responses
+Frequency of health-related search terms on the Internet
+In search of optimal lithium levels and olanzapine doses in the long-term treatment of bipolar I disorder. A post-hoc analysis of the maintenance study by Tohen et al. 2005
+Incremental location of combined features for large-scale programs
+Characterizing the nature of visual conscious access: The distinction between features and locations
+TSS: Efficient Term Set Search in Large Peer-to-Peer Textual Collections
+Phonetic Query Expansion for Spoken Document Retrieval
+Bilobectomy for non-small cell lung cancer: A search for clinical factors that may affect perioperative morbidity and long-term survival
+Dimensionality Reduction for Long Duration and Complex Spatio-Temporal Queries
+Task Effects on Interactive Search: The Query Factor
+Eye-movement control in direction-coded visual search
+TraceGraph: Immediate visual location of software features
+Extrapolation-directed crossover for real-coded GA: Overcoming deceptive phenomena by extrapolative search
+Assessing thesaurus-based query expansion using the UMLS metathesaurus
+Interactive graphical queries for bibliographic search
+Executive pay and the search for legitimacy: An investigation into how UK Remuneration Committees use corporate performance comparisons in long-term incentive pay decisions
+Neuromagnetic alpha suppression during an auditory Sternberg task - Evidence for a serial, self-terminating search of short-term memory
+A search for the springtime transition of lower thermospheric atomic oxygen using long-term midlatitude airglow data
+The Atacama Desert: A preferential arid region for the recovery of meteorites - Find location features and strewnfield distribution patterns
+Query expansion with terms selected using lexical cohesion analysis of documents
+An approach to feature location in distributed systems
+Visualizing query occurrence in search result lists
+Filtering search results using an optimal set of terms identified by an artificial neural network
+The long-term effects of integral versus composite metaphors on experts' and novices' search behaviors
+Query exhaustivity, relevance feedback and search success in automatic and interactive query expansion
+Query-Based Configuration of Text Retrieval Solutions for Software Engineering Tasks
+Context-aware semantic classification of search queries for browsing community question-answering archives
+A New Transmissibility Analysis Method for Detection and Location of Damage via Nonlinear Features in MDOF Structural Systems
+On Characterization and Efficient Exhaustive Search of Elementary Trapping Sets of Variable-Regular LDPC Codes
+Prediction of subcellular location of apoptosis proteins combining tri-gram encoding based on PSSM and recursive feature elimination
+Tracelet-Based Code Search in Executables
+Using large clinical corpora for query expansion in text-based cohort identification
+Domain Ontology based Semantic Search for Efficient Information Retrieval through Automatic Query Expansion
+A Study on Pubmed Search Tag Usage Pattern: Association Rule Mining of a Full-day Pubmed Query Log
+Reduced candidate mechanism for an algebraic code-excited linear-prediction codebook search
+Keyword Query Reformulation on Structured Data
+Psychometric features of temporomandibular disorders patients in relation to pain diffusion, location, intensity and duration
+Measuring the Efficacy of Code Clone Information in a Bug Localization Task: An Empirical Study
+Query Modeling for Entity Search Based on Terms, Categories, and Examples
+Building Queries for Prior-Art Search
+Index design and query processing for graph conductance search
+Influence of Slice Thickness on Diagnoses of Pulmonary Nodules Using Low-dose CT: Potential Dependence of Detection and Diagnostic Agreement on Features and Location of Nodule
+Query reformulation mining: models, patterns, and applications
+Sinus pericranii with unusual features: multiplicity, associated dural venous lakes and venous anomaly, and a lateral location
+Context-sensitive semantic query expansion
+Effects of Popularity and Quality on the Usage of Query Suggestions during Information Search
+The influence of personalization on tag query length in social media search
+Quantum yield: the term and the symbol. A historical search
+A Message Processing Method for Top-k Query for Traffic Reduction in Ad Hoc Networks
+Mild ring 17 syndrome shares common phenotypic features irrespective of the chromosomal breakpoints location
+Spatial reorientation in rats (Rattus norvegicus): Use of geometric and featural information as a function of arena size and feature location
+Mutational analysis of the coding regions of the genes encoding protein kinase B-alpha and -beta, phosphoinositide-dependent protein kinase-1, phosphatase targeting to glycogen, protein phosphatase inhibitor-1, and glycogenin - Lessons from a search for genetic variability of the insulin-stimulated glycogen synthesis pathway of skeletal muscle in NIDDM patients
+Long-term changes in Mira stars. II. A search for evolutionary period changes in Mira stars
+Phrase recognition and expansion for short, precision-biased queries based on a query log
+Spectroscopic monitoring of SS 433: A search for long-term variations of kinematic model parameters
+Searching for functional genetic variants in non-coding DNA
+Spoken term detection system based on combination of LVCSR and phonetic search
+Query expansion and dimensionality reduction: Notions of optimality in Rocchio relevance feedback and latent semantic indexing
+A new multi-search engine for querying data through an Internet search service on CORBA
+Illusory conjunctions in simultanagnosia: Coarse coding of visual feature location?
+Effects of long-term occupational solvent exposure on contrast sensitivity and performance in visual search
+Searching the peer-to-peer networks: The community and their queries
+Date-restricted queries in web search engines
+Producing alternative concept for the Trans-Sumatera toll road project development using location quotient method
+New Characterization and Efficient Exhaustive Search Algorithm for Leafless Elementary Trapping Sets of Variable-Regular LDPC Codes
+Valvular heart disease among non-valvular atrial fibrillation: amisnomer, in search of a new term
+Whole truths vs. half truths - And a search for clarity in long-term water temperature records
+In Search of Beneficial Coding RNA Editing
+Are the spatial features of bodily threat limited to the exact location where pain is expected?
+Modeling larval malaria vector habitat locations using landscape features and cumulative precipitation measures
+A new code for parameter estimation in searches for gravitational waves from known pulsars
+Query Intent Disambiguation of Keyword-Based Semantic Entity Search in Dataspaces
+Concept location using program dependencies and information retrieval (DepIR)
+Comparison of basic features and origins of oolitic shoal reservoirs between carbonate platform interior and platform margin locations in the Lower Triassic Feixianguan Formation of the Sichuan Basin, southwest China
+Identification of Catalytic Residues Using a Novel Feature that Integrates the Microenvironment and Geometrical Location Properties of Residues
+Location and Salience of Unique Features in Human Perceptual Learning
+Vapor intrusion in urban settings: effect of foundation features and source location
+Optimal (short-term) pump schedule detection for water distribution systems by neutral evolutionary search
+Disambiguated query suggestions and personalized content-similarity and novelty ranking of clustered results to optimize web searches
+Comparing patient characteristics, type of intervention, control, and outcome (PICO) queries with unguided searching: a randomized controlled crossover trial
+How Well Do Search Engines Support Code Retrieval on the Web?
+Facility Location: Concepts, Models, Algorithms and Case Studies
+Query Forwarding in Geographically Distributed Search Engines
+Statistical query expansion for sentence retrieval and its effects on weak and strong queries
+Mining Web search engines for query suggestion
+Explicit processing of verbal and spatial features during letter-location binding modulates oscillatory activity of a fronto-parietal network
+Semantic Web Search Based on Ontological Conjunctive Queries
+Concept Based Query Expansion Using WordNet
+Mining Search Topics from a Code Search Engine Usage Log
+Processing XML Keyword Search by Constructing Effective Structured Queries
+An empirical study of gene synonym query expansion in biomedical information retrieval
+GPS MONITORING OF CATTLE LOCATION NEAR WATER FEATURES IN SOUTH FLORIDA
+Visualizing a high recall search strategy output for undergraduates in an exploration stage of researching a term paper
+Term similarity-based query expansion for cross-language information retrieval
+Search for the G-parity irregular term in weak nucleon currents extracted from mirror beta decays in the mass 8 system
+An alternative approach to natural language query expansion in search engines: Text analysis of non-topical terms in Web documents
+Combining WordNet and ConceptNet for automatic query expansion: A learning approach
+Locality-aware P2P query search with ISP collaboration
+Three-level caching for efficient query processing in large web search engines
+Domain-specific CLIR of English, German and Russian using fusion and subject metadata for query expansion
+Generating search term variants for text collections with historic spellings
+Web links and search engine ranking: The case of Google and the query "jew"
+Natural language processing to extract symptoms of severe mental illness from clinical text: the Clinical Record Interactive Search Comprehensive Data Extraction (CRIS-CODE) project
+Context- and Content-aware Embeddings for Query Rewriting in Sponsored Search
+Multi-Criteria Code Refactoring Using Search-Based Software Engineering: An Industrial Case Study
+Forecasting short-term air passenger demand using big data from search engine queries
+Forecasting influenza outbreak dynamics in Melbourne from Internet search query surveillance data
+Query-Adaptive Small Object Search Using Object Proposals and Shape-Aware Descriptors
+Modeling pedestrians' interest in locations: A concept to improve simulations of pedestrian destination choice
+Approximate path searching for supporting shortest path queries on road networks
+Evaluating search features of Google Knowledge Graph and Bing Satori Entity types, list searches and query interfaces
+Reversible data embedding for vector quantization compressed images using search-order coding and index parity matching
+People Search with Textual Queries About Clothing Appearance Attributes
+Discovering business information from search engine query data
+Improving pseudo relevance feedback based query expansion using genetic fuzzy approach and semantic similarity notion
+Short-Term Perceptual Learning in Visual Conjunction Search
+Query Quality Prediction and Reformulation for Source Code Search: The Refoqus Tool
+Image-based classification of protein subcellular location patterns in human reproductive tissue by ensemble learning global and local features
+3-D location estimation of underwater circular features by monocular vision
+A query scrambler for search privacy on the internet
+Deriving query suggestions for site search
+Imaging-Guided Biopsy of F-18-FDG-Avid Extrapulmonary Lesions: Do Lesion Location and Morphologic Features on CT Affect the Positive Predictive Value for Malignancy?
+Exploiting structures in keyword queries for effective XML search
+Short-term Load Forecasting of Smart Grid Systems by Combination of General Regression Neural Network and Least Squares-Support Vector Machine Algorithm Optimized by Harmony Search Algorithm Method
+Alternative search techniques for face detection using location estimation and binary features
+Improving feature location using structural similarity and iterative graph mapping
+Impact of query intent and search context on clickthrough behavior in sponsored search
+Exploiting External Collections for Query Expansion
+Deriving query intents from web search engine queries
+New algorithms for subset query, partial match, orthogonal range searching, and related problems
+GLANSER: Geospatial Location, Accountability, and Navigation System For Emergency Responders System Concept and Performance Assessment
+Towards an effective automatic query expansion process using an association rule mining approach
+Search terms and a validated brief search filter to retrieve publications on health-related values in Medline: a word frequency analysis study
+SeClone - A Hybrid Approach to Internet-scale Real-time Code Clone Search
+Query Relaxation for Entity-Relationship Search
+Efficient heuristic search algorithms for soft-decision decoding of linear block codes
+Query expansion and query translation as logical inference
+Mining Historic Query Trails to Label Long and Rare Search Engine Queries
+Global navigation satellite system signal acquisition using multi-bit codes and a multi-layer search strategy
+Concept Study of a Two-Plane Compton Camera Designed for Location and Nuclide Identification of Remote Radiation Sources
+Conditional median as a robust solution concept for uncapacitated location problems
+Mandibular intraosseous lipoma: clinical features of a condylar location
+Category-Based Query Modeling for Entity Search
+Visual Search Asymmetries Within Color-Coded and Intensity-Coded Displays
+A search for short-term variability of Sagittarius A* at millimeter wavelengths
+EquiX - A search and query language for XML
+Finding Related Search Engine Queries by Web Community Based Query Enrichment
+Evolving Lucene Search Queries for Text Classification
+Dynamic Spatial Coding within the Dorsal Frontoparietal Network during a Visual Search Task
+The search for international human rights and justice: Coming to terms with the new global realities
+Chromatic nearest neighbor searching: A query sensitive approach
+Query routing for Web search engines: architecture and experiments
+Managing word mismatch problems in information retrieval: A topic-based query expansion approach
+Quasi-cyclic LDPC codes of column-weight two using a search algorithm
+Eye location method based on symmetry analysis and high-order fractal feature
+GenoMiner: a tool for genome-wide search of coding and non-coding conserved sequence tags
+Parallel coding of conjunctions in visual search
+An accurate and fast iris location method based on the features of human eyes
+Semantic query expansion combining association rules with ontologies and information retrieval techniques
+Ontology aided query expansion for retrieving relevant texts
+Forecasting influenza in Hong Kong with Google search queries and statistical model fusion
+Binary search with errors and variable cost queries
+Insect Bio-inspired Neural Network Provides New Evidence on How Simple Feature Detectors Can Enable Complex Visual Generalization and Stimulus Location Invariance in the Miniature Brain of Honeybees
+Query Expansion Using Word Embeddings
+Short-Term Load Forecasting Based on Wavelet Transform and Least Squares Support Vector Machine Optimized by Improved Cuckoo Search
+Meshable: searching PubMed abstracts by utilizing MeSH and MeSH-derived topical terms
+Advanced fault location strategy for modern power distribution systems based on phase and sequence components and the minimum fault reactance concept
+Automatic Search Term Identification for Change Tasks
+Short-term load forecast of electrical power system by radial basis function neural network and new stochastic search algorithm
+Exploring Session Context using Distributed Representations of Queries and Reformulations
+FALDO: a semantic standard for describing the location of nucleotide and protein feature annotation
+Adaptive search range by neighbouring depth intensity weighted sum for HEVC texture coding
+Query intent mining with multiple dimensions of web search data
+Information retrieval with a hybrid automatic query expansion and data fusion procedure
+Rethinking User Interfaces for Feature Location
+Let me Google that for you: a time series analysis of seasonality in internet search trends for terms related to foot and ankle pain
+Seasonal trends in sleep-disordered breathing: evidence from Internet search engine query data
+Web search query volume as a measure of pharmaceutical utilization and changes in prescribing patterns
+Automatic suggestion of phrasal-concept queries for literature search
+QUBLE: towards blending interactive visual subgraph search queries on large networks
+Geomorphological and geoforensic interpretation of maps, aerial imagery, conditions of diggability and the colour-coded RAG prioritization system in searches for criminal burials
+Stable hyper-pooling and query expansion for event detection
+Keyword Query Expansion on Linked Data Using Linguistic and Semantic Features
+CONQUER: A Tool for NL-based Query Refinement & Contextualizing Code Search Results
+Improving Feature Location by Enhancing Source Code with Stereotypes
+FedSearch: Efficiently Combining Structured Queries and Full-Text Search in a SPARQL Federation
+Improving the Performance of the FFT-based Parallel Code-phase Search Acquisition of GNSS Signals by Decomposition of the Circular Correlation
+Effects of display complexity on location and feature inhibition
+Joint sector identity and integer part of carrier frequency offset detection by phase-difference in Long Term Evolution cell search process
+Children's Web Search With Google: The Effectiveness of Natural Language Queries
+Hit Expansion Approaches Using Multiple Similarity Methods and Virtualized Query Structures
+After CLASS: The Long-Term Care Commission's Search For A Solution
+pfsearchV3: a code acceleration and heuristic to search PROSITE profiles
+An extensive search for good punctured rate-(k)/(k+1) recursive convolutional codes for serially concatenated convolutional codes
+GO2PUB: Querying PubMed with semantic expansion of gene ontology terms
+Are cannabis prevalence estimates comparable across countries and regions? A cross-cultural validation using search engine query data
+A unique aspect of ballast water management requirements - The same location concept
+Vector quantisation index compression based on a Coding Tree Assignment Scheme with Improved Search-Order Coding algorithms
+Searching Steiner trees for web graph query
+Query Phrase Expansion Using Wikipedia in Patent Class Search
+Effective Query Generation and Postprocessing Strategies for Prior Art Patent Search
+An exploration of risk information search via a search engine: Queries and clicks in healthcare and information security
+On the Effect of the Query in IR-based Concept Location
+Acquiring knowledge about human goals from Search Query Logs
+Towards an Intelligent Code Search Engine
+Radical Prostatectomy Versus External-Beam Radiotherapy for Localized Prostate Cancer: Long-Term Effect on Biochemical Control-In Search of the Optimal Treatment
+Efficient Evaluation of Continuous Text Search Queries
+Feature Relevance Network-Based Transfer Learning for Indoor Location Estimation
+The retrieval effectiveness of search engines on navigational queries
+An Efficient Instanton Search Algorithm for LP Decoding of LDPC Codes Over the BSC
+Object location technique for moving target based on multi-scale feature extraction
+Real time search on the web: Queries, topics, and economic value
+Extending the search for symmetries in the genetic code
+Searching for High-Rate Convolutional Codes via Binary Syndrome Trellises
+A new treatment of priority-first search maximum-likelihood soft-decision decoding of linear block codes
+Molecular characterization and localization of the obligate endosymbiotic bacterium in the birch catkin bug Kleidocerys resedae (Heteroptera: Lygaeidae, Ischnorhynchinae)
+Chapter 12: Panta Rhei: Flexible Execution Engine for Search Computing Queries
+Towards effective genomic information retrieval: The impact of query complexity and expansion strategies
+Searching of Code Space for an Error-Minimized Genetic Code Via Codon Capture Leads to Failure, or Requires At Least 20 Improving Codon Reassignments Via the Ambiguous Intermediate Mechanism
+Effective Query Expansion for Federated Search
+Applying a Semantic Layer in a Source Code Search Tool
+Analysis of characteristics and trends of Web queries submitted to NAVER, a major Korean search engine
+Spatial attention can bias search in visual short-term memory
+An efficient fractal image-coding method using interblock correlation search
+Concept location in formal specifications
+Long-term eye movement recordings with a scleral search coil-eyelid protection device allows new applications
+Personalized web search using probabilistic query expansion
+Reduced-complexity turbo equalization for coded intersymbol interference channels based on local search algorithms
+Automatic morphological query expansion using analogy-based machine learning
+String distance metrics for reference matching and search query correction
+A novel approach for frequent phrase mining in web search engine query streams
+Acoustic emission source location based on signal features
+Towards distributed information retrieval in the Semantic Web: Query reformulation using the oMAP framework
+Spelling correction for search engine queries
+A Stepwise Analytical Projected Gradient Descent Search for Hyperspectral Unmixing and Its Code Vectorization
+Materializing the Query with Facet-Streams - A Hybrid Surface for Collaborative Search on Tabletops
+AmaLgam plus : Composing Rich Information Sources for Accurate Bug Localization
+Brand Attitudes and Search Engine Queries
+The location of gender features in the syntax
+Finding Healthcare Issues with Search Engine Queries and Social Network Data
+Effective Multi-Query Expansions: Robust Landmark Retrieval
+Improved bug localization based on code change histories and bug reports
+Multimodal Retrieval using Mutual Information based Textual Query Reformulation
+An Eye-Tracking Study of Query Reformulation
+Tracking Dabbing Using Search Query Surveillance: A Case Study in the United States
+Google Search Queries About Neurosurgical Topics: Are They a Suitable Guide for Neurosurgeons?
+Long-Term Priming of Visual Search Prevails Against the Passage of Time and Counteracting Instructions
+Techniques for efficient query expansion
+Scatter search and memetic approaches to the error correcting code problem
+Adoption of green electricity policies: Investigating the role of environmental attitudes via big data-driven search-queries
+Examining the Relationship Between Past Orientation and US Suicide Rates: An Analysis Using Big Data-Driven Google Search Queries
+Googling environmental issues Web search queries as a measurement of public attention on environmental issues
+Optimized Search-and-Compute Circuits and Their Application to Query Evaluation on Encrypted Data
+Can the Use of Types and Query Expansion Help Improve Large-Scale Code Search?
+New version of the three-term conjugate gradient method based on spectral scaling conjugacy condition that generates descent search direction
+An improved gravitational search algorithm for solving short-term economic/environmental hydrothermal scheduling
+Searching for backyard birds in virtual worlds: Internet queries mirror real species distributions
+Some specific features of spectral bands location in the infrared spectra of crystals and liquids
+Poorly differentiated adenocarcinoma of the colon: subsite location and clinicopathologic features
+Identifying complications of interventional procedures from UK routine healthcare databases: a systematic search for methods using clinical codes
+Gene expression profile in long-term non progressor HIV infected patients: In search of potential resistance factors
+Influences on Query Reformulation in Collaborative Web Search
+Improved Semantic Retrieval of Spoken Content by Document/Query Expansion with Random Walk Over Acoustic Similarity Graphs
+Real-coded genetic algorithm with uniform random local search
+Top Down Code Search to Locate An Optimum Code and Reduction in Code Blocking for CDMA Networks
+Improving document retrieval by automatic query expansion using collaborative learning of term-based concepts
+Supporting concept location through identifier parsing and ontology extraction
+Collective Evolutionary Concept Distance Based Query Expansion for Effective Web Document Retrieval
+Perceptual Learning With Complex Visual Stimuli Is Based on Location, Rather Than Content, of Discriminating Features
+FACILITATING OPEN VOCABULARY SPOKEN TERM DETECTION USING A MULTIPLE PASS HYBRID SEARCH ALGORITHM
+Cache-Based Query Processing for Search Engines
+Orthogonal Polyphase Code Sets Design for MIMO Radar Using Tabu Search
+A Fast Searching Method for the Construction of QC-LDPC Codes with Large Girth
+Natural language technology and query expansion: issues, state-of-the-art and perspectives
+Static Index Pruning in Web Search Engines: Combining Term and Document Popularities with Query Views
+Semantic Web search based on ontological conjunctive queries
+Top-Down Gaze Movement Control in Target Search Using Population Cell Coding of Visual Context
+FAST NETWORK QUERYING ALGORITHM FOR SEARCHING LARGE-SCALE BIOLOGICAL NETWORKS
+Identifying Aspects for Web-Search Queries
+SOFTWARE-BUG LOCALIZATION WITH GRAPH MINING
+Search Computing Managing Complex Search Queries
+Location of the stigmatic areas in Mutisia speciosa Aiton ex Hook. a new floral feature in Asteraceae
+Query expansion using an immune-inspired biclustering algorithm
+Using fuzzy ontology for query refinement in a personalized abstract search engine
+Separating codes and a new combinatorial search model
+Pseudo-relevance feedback and statistical query expansion for web snippet generation
+Post-Silicon Bug Localization for Processors Using IFRA
+Pump failure death and sudden cardiac death in patients with cardiac dysfunction: A search for prognostic predictive factors-A long-term follow-up study
+Relationship between substorm onset locations and nightside convection pattern features
+Learning to Disambiguate Search Queries from Short Sessions
+Query Sampling for Ranking Learning in Web Search
+Query Result Clustering for Object-level Search
+Fast AFC technique using a code estimation and binary search algorithm for wideband frequency synthesis
+HQE: A hybrid method for query expansion
+Search for a more adequate test to predict the long-term migration from the PVC gaskets of metal lids into oily foods in glass jars
+Long-term contracts in the NHS: A solution in search of a problem?
+Perceiving spatially inseparable objects: Evidence for feature-eased object selection not mediated by location
+Search, dealers, and the terms of trade
+Nonlinear time series analysis of northern and southern solar hemisphere daily sunspot numbers in search of short-term chaotic behavior
+Mining term association rules for automatic global query expansion: Methodology and preliminary results
+Search for short-term variations in the E > 50 MeV gamma-ray emission of the Crab pulsar
+Enhanced query expansion in English-Arabic CLIR
+Improving query expansion with stemming terms: A new genetic algorithm approach
+Space-efficient private search with applications to rateless codes
+Improving MEDLINE document retrieval using automatic query expansion
+High precision location algorithm for optical feature of vision measurement
+Query modifications patterns during web searching
+Computational modeling of individual differences in short term memory search
+Multi-term web query expansion using WordNet
+Efficient query expansion with auxiliary data structures
+Noun phrases in interactive query expansion and document ranking
+Internet search: Subdivision-based interactive query expansion and the soft semantic web
+WRAPIN: New generation health search engine using UMLS knowledge sources for MeSH term extraction from health documentation
+Transactional query identification in Web search
+Fast approximate search algorithm for nearest neighbor queries in high dimensions
+On the similarities between binary-coded GA and real-coded GA in wide search space
+Localization of the photoreceptor for photoperiodism in the stink bug, Plautia crossota stali
+Physician assistant self-directed search Holland codes
+From the search problem through query formulation to results on the web
+Primary (1 degrees) tumor location as an independent prognostic marker from molecular features for overall survival (OS) in patients (pts) with metastatic colorectal cancer (mCRC): Analysis of CALGB / SWOG 80405 (Alliance).
+Development and empirical user-centered evaluation of semantically-based query recommendation for an electronic health record search engine
+Effective Multi-Query Expansions: Collaborative Deep Networks for Robust Landmark Retrieval
+Using Search Engine Query Data to Explore the Epidemiology of Common Gastrointestinal Symptoms
+Mutation Location on the RAS Oncogene Affects Pathologic Features and Survival After Resection of Colorectal Liver Metastases
+OntoADR a semantic resource describing adverse drug reactions to support searching, coding, and information retrieval
+Arabic Query Expansion Using WordNet and Association Rules
+Understanding location- and feature-based processing along the human intraparietal sulcus
+On Term Selection Techniques for Patent Prior Art Search
+Improving biomedical information retrieval by linear combinations of different query expansion techniques
+Clinicopathological features of 49 primary gastrointestinal diffuse large B-cell lymphoma cases; comparison with location, cell-of-origin, and frequency of MYD88 L265P
+Anastomosing hemangiomas: locations of occurrence, imaging features, and diagnosis with percutaneous biopsy
+Chiari malformation Type I surgery in pediatric patients. Part 1: validation of an ICD-9-CM code search algorithm
+Code search with input/output queries: Generalizing, ranking, and assessment
+Implicit short- and long-term memory direct our gaze in visual search
+Application of non-dominated sorting gravitational search algorithm with disruption operator for stochastic multiobjective short term hydrothermal scheduling
+CodeExchange Supporting Reformulation of Internet-Scale Code Queries in Context
+Positive surgical margins in radical prostatectomy patients do not predict long-term oncological outcomes: results from the Shared Equal Access Regional Cancer Hospital (SEARCH) cohort
+Use of Internet Search Queries to Enhance Surveillance of Foodborne Illness
+Reverse Keyword Search for Spatio-Textual Top-k Queries in Location-Based Services
+How Developers Use Multi-Recommendation System in Local Code Search
+Feature-location analyses for identification of urban tree species from very high resolution remote sensing data
+The Use of Text Retrieval and Natural Language Processing in Software Engineering
+Combining information in different color-coding mechanisms to facilitate visual search
+Privacy-Preserving Ranked Multi-keyword Fuzzy Search on Cloud Encrypted Data Supporting Range Query
+Versatile Query Scrambling for Private Web Search
+TextRank Based Search Term Identification for Software Change Tasks
+Enabling improved IR-based feature location
+Co-occurrence and Semantic Similarity Based Hybrid Approach for Improving Automatic Query Expansion in Information Retrieval
+Increasing the detectability of external influence on precipitation by correcting feature location in GCMs
+Feature-Based Object Location of IC Pins by Using Fast Run Length Encoding BLOB Analysis

@@ -1,0 +1,19 @@
+  ("query reformulation"
+  OR
+  "query expansion"
+  OR
+  "query reduction"
+  ) 
+
+ AND 
+ (
+ "bug localization"
+ OR
+ "concept location"
+ OR
+ "feature location"
+ OR
+ "concern location"
+ OR
+ "code search" 
+ )

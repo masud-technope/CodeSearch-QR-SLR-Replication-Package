@@ -1,0 +1,201 @@
+200
+On the use of relevance feedback in IR-based concept location
+Clustering support for static concept location in source code
+Text retrieval approaches for concept location in source code
+Can better identifier splitting techniques help feature location?
+On the Effect of the Query in IR-based Concept Location
+Bug localization using latent dirichlet allocation
+The effect of lexicon bad smells on concept location in source code
+Link analysis algorithms for static concept location: an empirical assessment
+Boosting bug-report-oriented fault localization with segmentation and stack-trace analysis
+How developers search for code: a case study
+Rethinking user interfaces for feature location
+Automatically Detecting the Quality of the Query and its Implications in IR-based Concept Location
+On the use of positional proximity in IR-based feature location
+Natural language-based software analyses and tools for software maintenance
+Bug localization using version history
+Thesaurus-based automatic query expansion for interface-driven code search
+Analyzing and mining a code search engine usage log
+Which feature location technique is better?
+An empirical study of BM25 and BM25F based feature location techniques
+Can the use of types and query expansion help improve large-scale code search?
+Enabling improved ir-based feature location
+Query-based configuration of text retrieval solutions for software engineering tasks
+Inferring links between concerns and methods with multi-abstraction vector space model
+A survey of concepts location enhancement for program comprehension and maintenance
+Learning to rank improves IR in SE
+STRICT: Information retrieval based search term identification for concept location
+Exploiting spatial code proximity and order for improved source code retrieval for bug localization
+Extracting development tasks to navigate software documentation
+Repairing programs with semantic code search (t)
+Enhancing Software Visualization with Information Retrieval
+Locating user interface concepts in source code
+Predicting query quality for applications of text retrieval to software engineering tasks
+Combining information retrieval modules and structural information for source code bug localization and feature location
+Supporting query formulation for text retrieval applications in software engineering
+The common place of law: Stories from everyday life
+Fusing multi-abstraction vector space models for concern localization
+Towards a Benchmark and Automatic Calibration for IR-Based Concept Location
+Supporting text retrieval query formulation in software engineering
+Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization
+Exploring the use of concern element role information in feature location evaluation
+Towards feature location in models through a learning to rank approach
+The need for software specific natural language techniques
+An incremental update framework for efficient retrieval from software libraries for bug localization
+Automatic query reformulations for feature location in a model-based family of software products
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Improved query reformulation for concept location using CodeRank and document structures
+Are Bug Reports Enough for Text Retrieval-based Bug Localization?
+BEHIND THE PAPER
+Leveraging textual properties of bug reports to localize relevant source files
+Analyzing the Impact of Information Retrieval and Relevance Feedback Techniques on Concept Location Tasks
+RACK: Code search in the IDE using crowdsourced knowledge
+Improving Code Search Using Learning-to-Rank and Query Reformulation Techniques
+Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
+Introducing Collaboration for Locating Features in Models: Approach and Industrial Evaluation
+On The Relationship Between The Vocabulary Of Bug Reports And Source Code
+Using the structural location of terms to improve the results of text retrieval based approaches to feature location
+Evolutionary Algorithm for Bug Localization in the Reconfigurations of Models at Runtime
+Source code retrieval from large software libraries for automatic bug localization
+Multimodal Code Search
+Fragment retrieval on models for model maintenance: Applying a multi-objective perspective to an industrial case study
+Evolving human competitive spectra-based fault localisation techniques
+The impact of vocabulary normalization
+Integrating natural language and program structure information to improve software search and exploration
+Improving software text retrieval using conceptual knowledge in source code
+Network localities: Identity, place, and digital media
+Supporting Source Code Comprehension During Software Evolution and Maintenance
+A survey of software fault localization
+Biological data integration using Semantic Web technologies
+A call graph mining and matching based defect localization technique
+On use of dependency and semantics information in incremental change
+Recommending frequently encountered bugs
+Exploring action unit granularity of source code for supporting software maintenance
+Putting the cart behind the horse: rethinking localization quality management
+Place identity, guides, and sustainable tourism in Canada's Yukon Territory
+Estimating semantic relatedness in source code
+Configuring and Assembling Information Retrieval based Solutions for Software Engineering Tasks
+Facilitating internet-scale code retrieval
+Network-Clustered Multi-Modal Bug Localization
+APPROVAL PAGE
+Are automated debugging techniques actually helping programmers?
+Mining software repair models for reasoning on the search space of automated program fixing
+An automated approach to program repair with semantic code search
+Between a rock and a hard place: Public theology in a post-secular age
+A survey on software fault localization
+Large-scale information retrieval in software engineering-an experience report from industrial application
+A heuristic-based approach to locate concepts in execution traces
+Making their place: Feminism after socialism in Eastern Germany
+Moral progress in human geography: transcending the place of good fortune
+Search-based test input generation for string data types using the results of web queries
+Code variants and their retrieval using knowledge discovery based approaches
+Context-based search, retrieval, and awareness
+Eventful archaeology: the place of space in structural transformation
+Seeking the user interface
+Constructions of place, culture, and identity in historic preservation: A case study of Hickory Ground, Alabama
+Writing for culture: Why a successful concept should not be discarded
+Critical ethnographies from Houston: Distinctive features and directions
+The Tourist G (r) aze: Understanding place and identity through holiday food and drink
+Sovereignty matters: Locations of contestation and possibility in indigenous struggles for self-determination
+Land Loss: Attachment, Place and Identity in Coastal Louisiana
+An Exploration of Place-Based TESOL
+SUMMARIZATION OF SOFTWARE ARTIFACTS: A
+An effective change recommendation approach for supplementary bug fixes
+Localizing knowledge in a globalizing world: Recasting the area studies debate
+On and Off the Page: Mapping Place in Text and Culture
+Resumption strategies for interrupted programming tasks
+Particle filtering for real-time camera localisation
+… upon continuously-evolving search query that is based at least in part upon phrase suggestion, search engine uses previous result sets performing additional search …
+Contemporary African literature in English: Global locations, postcolonial identifications
+The Silence of the Dead: Ethical and Juridical Significances of the Exhumations at Prestwich Place, Cape Town, 2003-2005
+Familiar Places in Global Spaces: Networking and Place-making of American English Teachers in Sanlitun, Beijing
+Mindful Place-based Education
+Mindful Place-based Education: Incorporating Mindfulness as a Tool for Place-based Educators
+Adolescent geographies in the classroom: Interactions with place-and community-based education
+Apparatus and method for decomposing database queries for database management system including multiprocessor digital data processing system
+Discipline and Practice:“The Field�? as Site, Method, and Location in Anthropology
+Intentional Communities: Place-Based Articulations of Social Critique
+Logical Information Systems
+Thinking Continental: Writing the Planet One Place at a Time
+Human performance: Cognition, stress, and individual differences
+Code quality: the open source perspective
+Trust in modern societies: The search for the bases of social order
+Dynamic client interaction for search
+Privacy
+How Software Developers Solve Problems by Searching for Source Code on the Web: Studies on Judgments in Evaluation of Results and Information Use
+Automated Debugging and Bug Fixing Solutions: A Systematic Literature Review and Classification
+Jan Scherer
+What would 'google'do? users' mental models of a digital library search engine
+Raymond and Beverly Sackler Faculty of Exact Science The Blavatnik School of Computer Science Tiesto-Source Code and Binary Preserving Unit-Tests …
+each one of us contains a set Of persons each will be: Oh, how I wish my own next self Would take the place of me!
+The imagined world made real: Towards a natural science of culture
+Querypoint Debugging (Semi-Automated Inspection of Buggy Execution)
+Software faults Diagnosis in Complex, OTS-based, critical systems
+Systems and methods for retrieving tabular data from textual sources
+Moving cultures: Mobile communication in everyday life
+Information systems interoperability: What lies beneath?
+American domesticity: from how-to manual to Hollywood melodrama
+Distributed Localization
+Improved fuzzy rule promotion-based localized crop knowledge dissemination system for farmers of Punjab (India) using mobile phone technology
+Homelessness and citizenship: exploring the meaning and negotiation of place, space and geography for rough sleepers.
+The semantic web: crafting infrastructure for agency
+Spoken from this Urban Place, from These Dark Lips: Using Space, Place and Poetry to Investigate my Lived Experience as a Woman of African Descent in the New …
+Web Search, Web Tutorials & Software Applications: Characterizing and Supporting the Coordinated Use of Online Resources for Performing Work in Feature-Rich …
+Query Concept Learning
+Data intensive computing for biodiversity
+Intent-aware search
+Mobiilsete otsinguülesannete mõõtmine Androidi platvormil
+Relational peer to peer database management systems: A survey
+No place like home: trauma and the moral subject in contemporary Argentine cinema
+State of the art, concepts and specification for the “Early software architecture�?
+Database performance tuning and optimization: Using Oracle
+Computer Vision I
+The Place of Culture in English Language Teaching: An Exploration of Non-native ESOL Teachers' Attitudes towards Intercultural Competence
+Search engine bias: the structuration of traffic on the World-Wide Web
+Mining, indexing and similarity search in large graph data sets
+With place love begins--: the philosophy of Luce Irigaray, the issue of dwelling, feminism and architecure
+Common Ground: For a Sociology of Code
+Interactive Language-Based Task Library Instruction and Management for Single and Multiple Robots
+GEMS: User Control for Cooperative Scientific Repositories
+Localizing Software Bugs using the Edit Distance of Call Traces
+Symbolic interactionism and cultural studies: The politics of interpretation
+Foundations of Pierre Bourdieu's class analysis
+Foundations of mobile media studies: Essential texts on the formation of a field
+Basic features in vision. An analysis of constraints on perceptually relevant sensory properties.
+Automating program verification and repair using invariant analysis and test input generation
+Code theory and changing pedagogic discourse
+Diagnosing architectural run-time failures
+Writing the Book of the World
+Automated synchronization of design features in disparate code components using type differencing
+DRAFT June 16 Interactive Language-Based Task Library Instruction and Management for Single and Multiple Robots
+The integration and disintegration of ancient Maya urban centres: charting households and community at Buenavista del Cayo, Belize
+User interface for information retrieval system
+GAMBLING ON THE EDGE
+Machine learning in wireless sensor networks: Algorithms, strategies, and applications
+Extraction and analysis of knowledge for automatic software repair
+Implementing Lensless Cameras in Autonomous Robotic Systems
+Intelligent Integration of Information: A Special Double Issue of the Journal of Intelligent Information Sytems Volume 6, Numbers 2/3 May, 1996
+Automatic software repair of C programs with genetic programming and fix patterns
+It's about being a resident of a place: A case study of practicing civic engagement through community-based art and oral history in Harlan County, Kentucky
+Applications of mobile agents in healthcare domain: a literature survey
+Large scale scene matching for graphics and vision
+Digital artifacts as quasi�?objects: Qualification, mediation, and materiality
+Supporting requirements to code traceability through refactoring
+The proper treatment of events
+Machine Learning Model for Level-Based Categorization of Natural Language Parameters
+Representation and recognition in vision
+Intimate collisions: Identity, community, and place in the Kansas dirt-track auto racing sphere
+Semantic image similarity based on deep knowledge for effective image retrieval
+Personal mediated communication and the concept of community in theory and practice
+(Re) Placing Nation: Postcolonial Women's Contestations of Spatial Discourse
+Fault lines of globalization: Legal order and the politics of a-legality
+Globalization and the experience of culture: The resilience of nationhood
+Loop Analysis and Transformation towards STL Algorithms
+Staging urban change, reimaging the city: The politics of place marketing in the'New Berlin'(1989-2004)
+Data Localization and Summarization Techniques in P2P Systems
+Towards visual-inertial slam for mobile augmented reality
+Cosmopolitanism and the Geographies of Freedom
+Remix and reuse of source code in software production
+Spectrum-Based Fault Diagnosis in Multi-Agent Systems
+Foundations of large-scale multimedia information management and retrieval: mathematics of perception
+Visualising web server logs for a Web 1.0 audience using Web 2.0 technologies: eliciting attributes for recommendation and profiling systems

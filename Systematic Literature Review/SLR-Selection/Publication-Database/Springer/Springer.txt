@@ -1,0 +1,314 @@
+313
+Text Retrieval Approaches for Concept Location in Source Code
+Leveraging Source Code Search for Reuse
+Natural Language-Based Software Analyses and Tools for Software Maintenance
+Reuse-Oriented Code Recommendation Systems
+MOOGLE: a metamodel-based model search engine
+Search in Source Code Based on Identifying Popular Fragments
+From Specification to Experimentation: A Software Component Search Engine Architecture
+An Improved Method Level Bug Localization Approach Using Minimized Code Space
+RESource: A Framework for Online Matching of Assembly with Open Source Code
+Using the Web as a Reuse Repository
+On the Synergy between Search-Based and Search-Driven Software Engineering
+Introducing Collaboration for Locating Features in Models: Approach and Industrial Evaluation
+Conclave: Ontology-Driven Measurement of Semantic Relatedness between Source Code Elements and Problem Domain Concepts
+Flow-Augmented Call Graph: A New Foundation for Taming API Complexity
+On the influence of program constructs on bug localization effectiveness
+Roundtable: Research Opportunities and Challenges for Large-Scale Software Systems
+Improving the Effectiveness of Multimedia Summarization of Judicial Debates through Ontological Query Expansion
+Improving the Performance of Pipelined Query Processing with Skipping
+Inference Based Query Expansion Using User’s Real Time Implicit Feedback
+Using Concept Lattices for Text Retrieval and Mining
+MOOGLE: A Model Search Engine
+Unified Multimodal Search Framework for Multimedia Information Retrieval
+Overview Scrollbar: A Scrollbar Showing an Entire Document as an Overview
+A new indexing method based on word proximity for Chinese text retrieval
+Improving Relevance of Keyword Extraction from the Web Utilizing Visual Style Information
+Semantic Web Search System Founded on Case-Based Reasoning and Ontology Learning
+A Continuous Query Processing Method in Broadcast Environments
+Privacy-Enhancing Range Query Processing over Encrypted Cloud Databases
+Knowledge Sifter: Agent-Based Ontology-Driven Search over Heterogeneous Databases Using Semantic Web Services
+An Improved Text Retrieval Algorithm Based on Suffix Tree Similarity Measure
+Chapter 8: Multimedia and Multimodal Information Retrieval
+Toward a Web Search Personalization Approach Based on Temporal Context
+A free-text retrieval index-server on a massively parallel machine
+Towards Perception Based Image Retrieval
+Improving Interoperability Using Query Interpretation in Semantic Vector Spaces
+Spoken versus Written Queries for Mobile Information Access
+Cluster-Based Exploration for Effective Keyword Search over Semantic Datasets
+Peer-to-Peer Full-Text Keyword Search of the Web
+Finding Similar Queries to Satisfy Searches Based on Query Traces
+Spatial Keyword Querying
+Research on Ontology-Driven Information Retrieval
+An object-centered approach for manipulating hierarchically complex objects
+Search Support in Data Management Systems
+Relationship-Based Top-K Concept Retrieval for Ontology Search
+EITH – A Unifying Representation for Database Schema and Application Code in Enterprise Knowledge Extraction
+Exploring the Referral and Usage of Science Fiction in HCI Literature
+Query Terms Abstraction Layers
+Phrase Queries with Inverted + Direct Indexes
+Multi-Agent Based Web Search with Heterogeneous Semantics
+Large Scale Rich Media Information Search: Challenges and Opportunities
+The application of the comparable corpora in Chinese-English Cross-Lingual Information Retrieval
+A Pool of Topics: Interactive Relational Topic Visualization for Information Discovery
+Centrality Indices for Web Search Engine Results Understanding
+Supporting Framework Use via Automatically Extracted Concept-Implementation Templates
+Database Selection and Result Merging in P2P Web Search
+Voronoi diagrams of moving points in the plane
+The Dynamic Web Presentations with a Generality Model on the News Domain
+Beomap: Ad Hoc Topic Maps for Enhanced Exploration of Social Media Data
+Data management in Peer-to-Peer environment: A perspective of BestPeer
+PowerDB-XML: A Platform for Data–Centric and Document–Centric XML Processing
+Modeling Uncertainty in Object-Oriented Databases
+Concept Search
+On the role of semantics in automated requirements tracing
+Cluster Recovery for Fault Tolerance of Spatial Database Cluster in Sensor Networks
+Performance of Annotation-Based Image Retrieval
+Semantics and Machine Learning: A New Generation of Court Management Systems
+A Review on the Variants of Information Retrieval
+A Formal Concept Analysis-Based Domain-Specific Thesaurus and Its Application in Document Representation
+Intuitionistic Interpretation of Deductive Databases with Incomplete Information
+A universal relation model for a single nested relation
+Supporting Agile Reuse Through Extreme Harvesting
+Entity-Centric Search for Enterprise Services
+A Model-Based Approach to Semantic-Based Retrieval of Visual Information
+PQL: A language for specifying abstract program views
+Research on Web Articles Retrieval Based on N-VSM
+Natix: A Technology Overview
+Adaptive Processing for Continuous Query over Data Stream
+Mining Generalized Association Rules on Biomedical Literature
+Reuse of verified design templates through extended pattern matching
+HPRD: A High Performance RDF Database
+Estimating the Influence of Documents in IR Systems: A Marked Indexing Approach
+Processing complex similarity queries with distance-based access methods
+Using visual ER query systems in real world applications
+The YPA – An Assistant for Classified Directory Enquiries
+Research on Image Emotional Semantic Retrieval Mechanism Based on Cognitive Quantification Model
+Indexing XML Data for Path Expression Queries
+DLPR: A Distributed Locality Preserving Dimension Reduction Algorithm
+AquaLog: An Ontology-Portable Question Answering System for the Semantic Web
+DeFacto - Deep Fact Validation
+A Complete-Computerised Delphi Process with a Multi-Agent System
+Aggregate Operations in the Information Source Tracking Method
+Dimensions and Metrics for Evaluating Recommendation Systems
+Ranked Reverse Boolean Spatial Keyword Nearest Neighbors Search
+Chinese question-answering system
+D2R2: Disk-Oriented Deductive Reasoning in a RISC-Style RDF Engine
+Benchmarking
+Structured Collaborative Tagging: Is It Practical for Web Service Discovery?
+On the Convergence of Structured Search, Information Retrieval and Trust Management in Distributed Systems
+Evaluating k Nearest Neighbor Query on Road Networks with no Information Leakage
+EQL: Event Query Language for the Sharing of Internet-of-Things Infrastructure and Collaborative Applications Development
+Data Intensive Supercomputing Solutions
+InfoHarness: Use of automatically generated metadata for search and retrieval of heterogeneous information
+Introduction
+A Search Tool Using Genetic Algorithm
+Automatic document classification based on latent semantic analysis
+Reverse Furthest Neighbors Query in Road Networks
+Query Performance Prediction for Information Retrieval Based on Covering Topic Score
+Summarizing Software Artifacts: A Literature Review
+A Profile-Based Aggregation Model in a Peer-To-Peer Information Retrieval System
+XQuery Processing with Relevance Ranking
+Two Variations on Ontology Alignment Evaluation: Methodological Issues
+A Study of Concurrency Bugs in an Open Source Software
+Symbolic Automata for Static Specification Mining
+Chapter 15: Search Computing and the Life Sciences
+The Scenario-Oriented Method for Recording and Playing-Back Healthcare Information
+HySpirit — A probabilistic inference engine for hypermedia retrieval in large databases
+Towards New Architectures for Distributed Autonomous Database Applications
+The processing and improvement of multi-statement queries in Chiql
+Annotated RDF
+Enhanced Search in Peer-to-Peer Networks Using Fuzzy Logic
+Adaptive Classification of Web Documents to Users Interests
+Improving Web Search by Categorization, Clustering, and Personalization
+Hybrid Reasoning for Web Services Discovery
+A Simple Probability Based Term Weighting Scheme for Automated Text Classification
+Performance Analysis of Mobile Systems
+An Architecture for the UniFrame Resource Discovery Service
+A Compositional Theory of Refinement for Branching Time
+Restructuring Object-Oriented Applications into Component-Oriented Applications by Using Consistency with Execution Traces
+Applying User Feedback and Query Learning Methods to Multiple Communities
+In Search of Unstructured Documents Categorization
+LILOG-DB: Database Support for Knowledge-Based Systems
+Optimal Genetic Query Algorithm for Information Retrieval
+Approaching Wordnets through a Structural Point of View
+The null extended nested relational model
+A Semantic Searching Scheme in Heterogeneous Unstructured P2P Networks
+An Energy Efficient Filtering Approach to In-Network Join Processing in Sensor Network Databases
+A Dynamic Key Length Based Approach for Real-Time Security Verification of Big Sensing Data Stream
+mNIR: Diversifying Search Results Based on a Mixture of Novelty, Intention and Relevance
+A distributed algorithm for determining minimal covers of acyclic database schemes
+Uncertainty as a Function of Expertise
+Software Mining Studies: Goals, Approaches, Artifacts, and Replicability
+Relation Extraction from Documents for the Automatic Construction of Ontologies
+The underlying database models
+Information Retrieval in Folksonomies: Search and Ranking
+On the ubiquity of information services and the absence of guaranteed service quality
+Text Categorization Based on Fuzzy Soft Set Theory
+Efficient Set-Correlation Operator Inside Databases
+A Context Aware Data-Centric Storage Scheme in Wireless Sensor Networks
+Query evaluation with null values: How complex is completeness?
+OSCAR: OpenStreetMap Planet at Your Fingertips via OSm Cell ARrangements
+A basic scheme for concurrent logic programming
+Semantic Information Retrieval on Peer-to-Peer Networks
+Reasoning with Temporal Constraints in RDF
+Ontological Engineering: Principles, Methods, Tools and Languages
+Temporal RDF
+A Focused Crawler with Ontology-Supported Website Models for Information Agents
+Content-based image retrieval methods
+GraSS: An Efficient Method for RDF Subgraph Matching
+Automatic Selection of Noun Phrases as Document Descriptors in an FCA-Based Information Retrieval System
+Geospatial Semantic Web
+Finger on the Pulse: The Value of the Activity Stream in the Enterprise
+A Location Dependent Semantic Cache Replacement Strategy in Mobile Environment
+Optimization of Analytic Data Flows for Next Generation Business Intelligence Applications
+Browsing a Component Library Using Non-functional Information
+Connecting Legacy Code, Business Rules and Documentation
+On what Linda is: Formal description of Linda as a reactive system
+Platform Independent Software Development Monitoring: Design of an Architecture
+Exploiting Title-Keywords Relation to Develop Concept Classifier for Scientific Community
+Multimedia Retrieval Algorithmics
+Automatic Short Text Annotation for Question Answering System
+Evolution-Driven Trace Acquisition in Eclipse-Based Product Line Workspaces
+A Quantitative Analysis of Semantic Information Retrieval Research Progress in China
+A Greedy Approach for Adapting Web Content for Mobile Devices
+How to Rank Terminology Extracted by Exterlog
+Encoding Spatial Context for Large-Scale Partial-Duplicate Web Image Retrieval
+Proxemic Conceptual Network Based on Ontology Enrichment for Representing Documents in IR
+Information Foraging Theory as a Form of Collective Intelligence for Social Search
+Representing topological relationships among heterogeneous Geometry-Collection features
+On Querying Temporal Deductive Databases
+Multivariate and multidimensional OLAP
+Techniques for process analysis and unification
+An Approach to Semantic Information Retrieval Based on Natural Language Query Understanding
+S3C: Using Service Discovery to Support Requirements Elicitation in the ERP Domain
+I Am the Future: Machine Learning in Action
+Representation of Complex Concepts for Semantic Routed Network
+Selection Based Comparative Summarization of Search Results Using Concept Based segmentation
+Twinder: A Search Engine for Twitter Streams
+Decentralized Mobile Search and Retrieval Using SMS and HTTP to Support Social Change
+Peer-to-Peer Computing in Mobile Ad Hoc Networks
+Length-Changeable Incremental Extreme Learning Machine
+An Approach for Conceptual Modeling and Extracting Expressive Semantics from Dance Videos
+References
+An algebraic construction of the well-founded model
+Stateful Mobile Modules for Sensor Networks
+Communities: Concept-Based Querying for Mobile Services
+Functional-Logic Programming for Web Knowledge Representation, Sharing and Querying
+Learning Query Ambiguity Models by Using Search Logs
+Counterexample Guided Spotlight Abstraction Refinement
+Enhancing Social Search: A Computational Collective Intelligence Model of Behavioural Traits, Trust and Time
+Overview of the S3 Contest: Performance Evaluation of Semantic Service Matchmakers
+OPOSSUM: Indexing Techniques for an Order-of-Magnitude Improvement of Service Matchmaking Times
+FASTDB: An Array Database System for Efficient Storing and Analyzing Massive Scientific Data
+An Efficient Packing Algorithm for Spatial Keyword Queries
+ECS: A Framework for Diversified and Relevant Search in the Internet of Things
+Euro-Mediterranean Centre for Climate Change Data Grid
+Multi-attribute Hashing of Wireless Data for Content-Based Queries
+Adaptive User Modelling in an Intelligent Telephone Assistant
+ULYSSES: A lattice-based multiple interaction strategy retrieval interface
+A Survey of Commonsense Knowledge Acquisition
+WorldTravel: A Testbed for Service-Oriented Applications
+Insights into Entity Name Evolution on Wikipedia
+Incorporating negation
+Leveraging Exemplar and Saliency Model for Image Search Reranking
+A Clustering-Based Approach for Tracing Object-Oriented Design to Requirement
+Methods for automatic term recognition in domain-specific text collections: A survey
+A Proposal for Making Argumentation Computationally Capable of Handling Large Repositories of Uncertain Data
+Software Development Support for Shared Sensing Infrastructures: A Generative and Dynamic Approach
+Chaotic fixpoint iteration guided by dynamic dependency
+Let the fingers do the walking: Object manipulation in an NF2 database editor
+Propagating differences: An efficient new fixpoint algorithm for distributive constraint systems
+Recommendation Systems in-the-Small
+Parallel and Distributed Solutions for the Optimal Binary Search Tree Problem
+Managing Large Repositories of Natural Language Requirements
+Natural and formal language processing
+Enhancing the P2P Protocols to Support Advanced Multi-keyword Queries
+Cost Models and Performance Evaluation of Similarity Search in the HON P2P System
+Towards a Better Semantic Matching for Indexation Improvement of Error-Prone (Semi-)Structured XML Documents
+Semantic Structure Matching for Assessing Web-Service Similarity
+ELA—A new Approach for Learning Agents
+XSPARQL: Traveling between the XML and RDF Worlds – and Avoiding the XSLT Pilgrimage
+Event Processing over a Distributed JSON Store: Design and Performance
+Developing SBVR Vocabularies and Business Rules from OWL2 Ontologies
+Building Theories from Multiple Evidence Sources
+A categorial theory of objects as observed processes
+From Subject Directories to Subject Meta-directories via Declarative Programming
+Place in Perspective: Extracting Online Information about Points of Interest
+ITTALKS: An application of agents in the Semantic Web
+Agents Making Sense of the Semantic Web
+OMIT: Domain Ontology and Knowledge Acquisition in MicroRNA Target Prediction
+POTENTIAL: A highly adaptive core of parallel database system
+Using Speech Recognition and Intelligent Search Tools to Enhance Information Accessibility
+Can Social Features Help Learning to Rank YouTube Videos?
+Nontraditional applications of automata theory
+EReX: A Conceptual Model for XML
+Monitoring Research Collaborations Using Semantic Web Technologies
+Performance Analysis of Storage Systems
+On the power of subsumption and context checks
+PAGE: A Distributed Infrastructure for Fostering RDF-Based Interoperability
+User Relevance for Item-Based Collaborative Filtering
+Quality of Business Process Models
+A Systematic Review of Software Requirements Selection and Prioritization Using SBSE Approaches
+Adaptiveness in Linda-Based Coordination Models
+An Efficient and Robust Routing Protocol for Data Aggregation
+Detecting Healthcare Fraud through Patient Sharing Schemes
+A Comparison of Reasoning Techniques for Querying Large Description Logic ABoxes
+Towards a Context-Aware Mobile Recommendation Architecture
+First Steps to an Audio Ontology-Based Classifier for Telemedicine
+Conjunctive Query Answering in Probabilistic Datalog+/– Ontologies
+Deductive object databases
+ReFlO: an interactive tool for pipe-and-filter domain specification and program generation
+MurO: A Multi-representation Ontology as a Foundation of Enterprise Information Systems
+Architecture for Media Streaming Delivery over P2P Networks
+A Knowledge Portal for Cultural Information Resources: Towards an Architecture
+PIM Meets Web 2.0
+Efficient Stream Processing in the Cloud
+The Influence of Client Platform on Web Page Content: Measurements, Analysis, and Implications
+Routing in Mobile Ad-hoc and Peer-to-Peer Networks A Comparison
+Semantic Process Retrieval with iSPARQL
+Similarity Search over Personal Process Description Graph
+Introducing CAPER, a Collaborative Platform for Open and Closed Information Acquisition, Processing and Linking
+Knowledgebase Representation Language Interoperation Tool
+Applying User-Centered Techniques to Develop a Radiology Teaching File System
+Digital Neighbourhoods: Partitioning the Web for information indexing and searching
+Extended Rules in Knowledge-Based Data Access
+Expressing and Configuring Quality of Data in Multi-purpose Wireless Sensor Networks
+Context-driven information base update
+The development of an Object-Oriented Multimedia Information System
+An Interactive Framework for Document Retrieval and Presentation with Question-Answering Function in Restricted Domain
+Concept framework for audio information retrieval: ARF
+A Comparison of Methods for Automatic Term Extraction for Domain Analysis
+Towards Ontological Commitments with Ω-RIDL Markup Language
+Exploiting E-C-A Rules for Defining and Processing Context-Aware Push Messages
+An Efficient Location-Aware Publish/Subscribe Index with Boolean Expressions
+Hierarchical Clustering of Metamodels for Comparative Analysis and Visualization
+Automatic Building of Socio-semantic Networks for Requirements Analysis
+Process and Product Approaches in Knowledge Management
+Combining RDF Vocabularies for Expert Finding
+Near-Duplicate Mail Detection Based on URL Information for Spam Filtering
+A RuleML Study on Integrating Geographical and Health Information
+Applying the Methodology to a Payables Processing System
+Building eCommerce Systems from Shared Micro-schemas
+The tree inclusion problem
+Automatically Solving Simultaneous Type Equations for Type Difference Transformations That Redesign Code
+Managing Knowledge in the Human Genetic Variation (HGV) Testing Context
+Exploring very large state spaces using genetic algorithms
+Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions
+Are RESTful APIs Well-Designed? Detection of their Linguistic (Anti)Patterns
+Inductive Databases and Constraint-Based Data Mining
+A Custom Browser Architecture to Execute Web Navigation Sequences
+Auction Scenarios of Cultural Products over the WWW
+GSPD: A Middleware That Supports Publication and Discovery of Grid Services
+Proactive knowledge delivery for enterprise knowledge management
+Social Networks as Vital Resources for Adults’ Learning
+On developing a repository structure tailored for reuse with improvement
+Improved relevance ranking in WebGather
+A browser for software reuse
+Software Process Simulation Modeling: An Extended Systematic Review
+The Diffusion of Pastebin Tools to Enhance Communication in FLOSS Mailing Lists
+Toolkits for Generating Wrappers
+5. First and Second Generation of Peer-to-Peer Systems
+Distributed Context Models in Support of Ubiquitous Mobile Awareness Services
+Service Discovery and Orchestration for Distributed Service Repositories
+Query Monitoring and Analysis for Database Privacy - A Security Automata Model Approach

@@ -1,0 +1,79 @@
+#header CL FL BL TR ICS
+# A = true positive
+# 1 = Not related.
+#CL = Concept Location
+#FL = Feature Location
+#BL = Bug Localization
+#TR= Traceability
+#ICS = Internet-scale Code Search
+
+    1 A 1 1 1 
+    1 1 1 1 A 
+    1 1 1 1 A 
+    1 1 1 1 A
+    1 1 1 1 A
+    1 1 A 1 1 
+    1 1 1 1 A 
+    A 1 1 1 1 
+    1 A 1 1 1 
+    A 1 1 1 1 
+    A 1 1 1 1 
+    A 1 1 1 1 
+    1 1 1 1 A 
+    1 1 1 1 A 
+    1 1 1 1 A
+    1 1 1 1 A 
+    A 1 1 1 1 
+    1 1 1 1 A
+    1 1 1 1 A 
+    1 1 1 1 A 
+    1 1 A 1 1 
+    A 1 1 1 1 
+    1 A 1 1 1 
+    1 A 1 1 1 
+    1 1 A 1 1 
+    1 1 1 1 A
+    1 A 1 1 1 
+    1 A 1 1 1 
+    1 1 A 1 1 
+    A 1 1 1 1 
+    A 1 1 1 1 
+    A 1 1 1 A 
+    1 1 1 1 A 
+    1 1 1 1 A 
+    1 1 1 1 A 
+    A 1 1 1 1 
+    1 1 1 1 A 
+    A 1 1 1 1 
+    1 1 1 1 A 
+    A 1 1 1 1 
+    1 1 1 1 A 
+    1 1 1 1 A 
+    A 1 1 1 1 
+    1 1 A 1 1 
+    A 1 1 1 1 
+    1 1 1 1 A
+    A 1 1 1 1 
+    A 1 1 1 1 
+    1 1 1 1 A
+    A 1 1 1 1 
+    1 1 1 A 1 
+    1 1 1 A 1 
+    A 1 1 1 1 
+    1 A 1 1 1 
+    1 1 1 1 A    
+    1 1 A 1 1    
+    1 1 A 1 1    
+    1 1 1 1 A    
+    1 A 1 1 1    
+    1 1 1 1 A   
+    1 1 A 1 1    
+    1 1 A 1 1   
+    1 1 1 1 A    
+    1 A 1 1 1    
+    1 1 1 1 A    
+    1 1 1 1 A    
+    1 1 A 1 1    
+    1 1 A 1 1    
+    1 A 1 1 1    
+    1 1 1 1 A                    

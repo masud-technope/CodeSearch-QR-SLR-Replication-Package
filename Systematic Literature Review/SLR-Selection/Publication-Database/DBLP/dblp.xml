@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="33116">query* reformulation*</query>
+<status code="200">OK</status>
+<time unit="msecs">46.04</time>
+<completions total="2" computed="2" sent="2">
+<c sc="199" dc="196" oc="199" id="20466462">reformulation</c>
+<c sc="24" dc="24" oc="24" id="20466463">reformulations</c>
+</completions>
+<hits total="220" computed="220" sent="220" first="0">
+<hit score="3" id="195769">
+<info><authors><author>Diego Calvanese</author><author>Enrico Franconi</author></authors><title>First-Order Ontology Mediated Database Querying via Query Reformulation.</title><venue>A Comprehensive Guide Through the Italian Database Research</venue><pages>169-185</pages><year>2018</year><type>Parts in Books or Collections</type><key>books/sp/18/CalvaneseF18</key><doi>10.1007/978-3-319-61893-7_10</doi><ee>https://doi.org/10.1007/978-3-319-61893-7_10</ee><url>https://dblp.org/rec/books/sp/18/CalvaneseF18</url></info>
+<url>URL#195769</url>
+</hit>
+<hit score="3" id="461746">
+<info><authors><author>Jay Patel 0004</author><author>Vikram Singh</author></authors><title>Query Morphing - A Proximity-Based Approach for Data Exploration and Query Reformulation.</title><venue>MIKE</venue><pages>261-273</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mike/PatelS17</key><doi>10.1007/978-3-319-71928-3_26</doi><ee>https://doi.org/10.1007/978-3-319-71928-3_26</ee><url>https://dblp.org/rec/conf/mike/PatelS17</url></info>
+<url>URL#461746</url>
+</hit>
+<hit score="3" id="1755724">
+<info><authors><author>Guanyuan Zhang</author><author>Kai Lu</author><author>Bin Wang 0004</author></authors><title>Query Reformulation Based on User Habits for Query-by-Humming Systems.</title><venue>AIRS</venue><pages>386-395</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/airs/ZhangLW12</key><doi>10.1007/978-3-642-35341-3_34</doi><ee>https://doi.org/10.1007/978-3-642-35341-3_34</ee><url>https://dblp.org/rec/conf/airs/ZhangLW12</url></info>
+<url>URL#1755724</url>
+</hit>
+<hit score="3" id="1773045">
+<info><authors><author>Zhen Yue</author><author>Jiepu Jiang</author><author>Shuguang Han</author><author>Daqing He</author></authors><title>Where do the query terms come from? - an analysis of query reformulation in collaborative web search.</title><venue>CIKM</venue><pages>2595-2598</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/cikm/YueJHH12</key><doi>10.1145/2396761.2398700</doi><ee>http://doi.acm.org/10.1145/2396761.2398700</ee><url>https://dblp.org/rec/conf/cikm/YueJHH12</url></info>
+<url>URL#1773045</url>
+</hit>
+<hit score="3" id="1927752">
+<info><authors><author>Carola Carstens</author><author>Dorothea Mildner</author></authors><title>Query Reformulation Behavior in an Interactive Query Expansion Environment.</title><venue>Datenbank-Spektrum</venue><volume>11</volume><number>3</number><pages>161-172</pages><year>2011</year><type>Journal Articles</type><key>journals/dbsk/CarstensM11</key><doi>10.1007/S13222-011-0069-Z</doi><ee>https://doi.org/10.1007/s13222-011-0069-z</ee><url>https://dblp.org/rec/journals/dbsk/CarstensM11</url></info>
+<url>URL#1927752</url>
+</hit>
+<hit score="3" id="2338067">
+<info><authors><author>Karim Filali</author><author>Anish Nair</author><author>Chris Leggetter</author></authors><title>Transitive history-based query disambiguation for query reformulation.</title><venue>SIGIR</venue><pages>849-850</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/sigir/FilaliNL10</key><doi>10.1145/1835449.1835647</doi><ee>http://doi.acm.org/10.1145/1835449.1835647</ee><url>https://dblp.org/rec/conf/sigir/FilaliNL10</url></info>
+<url>URL#2338067</url>
+</hit>
+<hit score="3" id="2369980">
+<info><authors><author>Radja Messai</author></authors><title>Ontologies et services aux patients - Application à la reformulation des requêtes. (Ontologies and Services for Patients - Application in Query Reformulation Tasks).</title><year>2009</year><type>Books and Theses</type><key>phd/hal/Messai09</key><ee>https://tel.archives-ouvertes.fr/tel-00952564</ee><url>https://dblp.org/rec/phd/hal/Messai09</url></info>
+<url>URL#2369980</url>
+</hit>
+<hit score="3" id="2739264">
+<info><authors><author>Youjin Chang</author><author>Jun Wang</author><author>Mounia Lalmas</author></authors><title>Generation of Query-Biased Concepts Using Content and Structure for Query Reformulation.</title><venue>NLDB</venue><pages>136-141</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/nldb/ChangWL08</key><doi>10.1007/978-3-540-69858-6_14</doi><ee>https://doi.org/10.1007/978-3-540-69858-6_14</ee><url>https://dblp.org/rec/conf/nldb/ChangWL08</url></info>
+<url>URL#2739264</url>
+</hit>
+<hit score="3" id="2778119">
+<info><authors><author>Dimitre Kostadinov</author></authors><title>Personnalisation de l&apos;information - une approche de gestion de profils et de reformulation de requêtes. (Data Personalization - an approach for profile management and query reformulation).</title><year>2007</year><type>Books and Theses</type><key>phd/hal/Kostadinov07</key><ee>https://tel.archives-ouvertes.fr/tel-00323543</ee><url>https://dblp.org/rec/phd/hal/Kostadinov07</url></info>
+<url>URL#2778119</url>
+</hit>
+<hit score="3" id="2917519">
+<info><authors><author>Michael Huggett</author><author>Joel Lanir</author></authors><title>Static reformulation - a user study of static hypertext for query-based reformulation.</title><venue>JCDL</venue><pages>319-328</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/jcdl/HuggettL07</key><doi>10.1145/1255175.1255238</doi><ee>http://doi.acm.org/10.1145/1255175.1255238</ee><url>https://dblp.org/rec/conf/jcdl/HuggettL07</url></info>
+<url>URL#2917519</url>
+</hit>
+<hit score="3" id="2988972">
+<info><authors><author>Youjin Chang</author><author>Iadh Ounis</author><author>Minkoo Kim</author></authors><title>Query reformulation using automatically generated query concepts from a document space.</title><venue>Inf. Process. Manage.</venue><volume>42</volume><number>2</number><pages>453-468</pages><year>2006</year><type>Journal Articles</type><key>journals/ipm/ChangOK06</key><doi>10.1016/J.IPM.2005.03.025</doi><ee>https://doi.org/10.1016/j.ipm.2005.03.025</ee><url>https://dblp.org/rec/journals/ipm/ChangOK06</url></info>
+<url>URL#2988972</url>
+</hit>
+<hit score="2" id="27506">
+<info><authors><author>Francisca Pérez</author><author>Jaime Font</author><author>Lorena Arcega</author><author>Carlos Cetina</author></authors><title>Automatic query reformulations for feature location in a model-based family of software products.</title><venue>Data Knowl. Eng.</venue><volume>116</volume><pages>159-176</pages><year>2018</year><type>Journal Articles</type><key>journals/dke/PerezFAC18</key><doi>10.1016/J.DATAK.2018.06.001</doi><ee>https://doi.org/10.1016/j.datak.2018.06.001</ee><url>https://dblp.org/rec/journals/dke/PerezFAC18</url></info>
+<url>URL#27506</url>
+</hit>
+<hit score="2" id="35521">
+<info><authors><author>Zhipeng Huang 0001</author><author>Yuqiu Qian</author><author>Nikos Mamoulis</author></authors><title>Location-aware query reformulation for search engines.</title><venue>GeoInformatica</venue><volume>22</volume><number>4</number><pages>869-893</pages><year>2018</year><type>Journal Articles</type><key>journals/geoinformatica/HuangQM18</key><doi>10.1007/S10707-018-0334-5</doi><ee>https://doi.org/10.1007/s10707-018-0334-5</ee><url>https://dblp.org/rec/journals/geoinformatica/HuangQM18</url></info>
+<url>URL#35521</url>
+</hit>
+<hit score="2" id="50231">
+<info><authors><author>Barbara M. Wildemuth</author><author>Diane Kelly 0001</author><author>Emma Boettcher</author><author>Erin Moore</author><author>Gergana Dimitrova</author></authors><title>Examining the impact of domain and cognitive complexity on query formulation and reformulation.</title><venue>Inf. Process. Manage.</venue><volume>54</volume><number>3</number><pages>433-450</pages><year>2018</year><type>Journal Articles</type><key>journals/ipm/WildemuthKBMD18</key><doi>10.1016/J.IPM.2018.01.009</doi><ee>https://doi.org/10.1016/j.ipm.2018.01.009</ee><url>https://dblp.org/rec/journals/ipm/WildemuthKBMD18</url></info>
+<url>URL#50231</url>
+</hit>
+<hit score="2" id="50391">
+<info><authors><author>Claudia Diamantini</author><author>Domenico Potena</author><author>Emanuele Storti</author></authors><title>Multidimensional query reformulation with measure decomposition.</title><venue>Inf. Syst.</venue><volume>78</volume><pages>23-39</pages><year>2018</year><type>Journal Articles</type><key>journals/is/DiamantiniPS18</key><doi>10.1016/J.IS.2018.05.002</doi><ee>https://doi.org/10.1016/j.is.2018.05.002</ee><url>https://dblp.org/rec/journals/is/DiamantiniPS18</url></info>
+<url>URL#50391</url>
+</hit>
+<hit score="2" id="118484">
+<info><authors><author>Manirupa Das</author><author>Eric Fosler-Lussier</author><author>Simon Lin</author><author>Soheil Moosavinasab</author><author>David Chen</author><author>Steve Rust</author><author>Yungui Huang</author><author>Rajiv Ramnath</author></authors><title>Phrase2VecGLM - Neural generalized language model-based semantic tagging for complex query reformulation in medical IR.</title><venue>BioNLP</venue><pages>118-128</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/bionlp/DasFLMCRHR18</key><ee>https://aclanthology.info/papers/W18-2313/w18-2313</ee><url>https://dblp.org/rec/conf/bionlp/DasFLMCRHR18</url></info>
+<url>URL#118484</url>
+</hit>
+<hit score="2" id="120530">
+<info><authors><author>Rongjie Cai</author><author>Yiqun Liu</author><author>Min Zhang</author><author>Shaoping Ma</author></authors><title>Translating Embeddings for Modeling Query Reformulation.</title><venue>CCIR</venue><pages>3-15</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ccir/CaiLZM18</key><doi>10.1007/978-3-030-01012-6_1</doi><ee>https://doi.org/10.1007/978-3-030-01012-6_1</ee><url>https://dblp.org/rec/conf/ccir/CaiLZM18</url></info>
+<url>URL#120530</url>
+</hit>
+<hit score="2" id="123464">
+<info><authors><author>Jyun-Yu Jiang</author><author>Wei Wang</author></authors><title>RIN - Reformulation Inference Network for Context-Aware Query Suggestion.</title><venue>CIKM</venue><pages>197-206</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/cikm/JiangW18</key><doi>10.1145/3269206.3271808</doi><ee>http://doi.acm.org/10.1145/3269206.3271808</ee><url>https://dblp.org/rec/conf/cikm/JiangW18</url></info>
+<url>URL#123464</url>
+</hit>
+<hit score="2" id="156316">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchai K. Roy</author></authors><title>Improving bug localization with report quality dynamics and query reformulation.</title><venue>ICSE</venue><pages>348-349</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/icse/RahmanR18</key><doi>10.1145/3183440.3195003</doi><ee>http://doi.acm.org/10.1145/3183440.3195003</ee><url>https://dblp.org/rec/conf/icse/RahmanR18</url></info>
+<url>URL#156316</url>
+</hit>
+<hit score="2" id="157104">
+<info><authors><author>Shihao Zou</author><author>Guanyu Tao</author><author>Jun Wang</author><author>Weinan Zhang</author><author>Dell Zhang</author></authors><title>On the Equilibrium of Query Reformulation and Document Retrieval.</title><venue>ICTIR</venue><pages>43-50</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ictir/ZouTWZZ18</key><doi>10.1145/3234944.3234962</doi><ee>http://doi.acm.org/10.1145/3234944.3234962</ee><url>https://dblp.org/rec/conf/ictir/ZouTWZZ18</url></info>
+<url>URL#157104</url>
+</hit>
+<hit score="2" id="158749">
+<info><authors><author>Giorgio Maria Di Nunzio</author><author>Federica Vezzani</author></authors><title>A Study on Manual Query Reformulation for Systematic Medical Reviews.</title><venue>IIR</venue><year>2018</year><type>Conference and Workshop Papers</type><key>conf/iir/NunzioV18</key><ee>http://ceur-ws.org/Vol-2140/paper14.pdf</ee><url>https://dblp.org/rec/conf/iir/NunzioV18</url></info>
+<url>URL#158749</url>
+</hit>
+<hit score="2" id="184963">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Improving IR-based bug localization with context-aware query reformulation.</title><venue>ESEC/SIGSOFT FSE</venue><pages>621-632</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/sigsoft/0001R18</key><doi>10.1145/3236024.3236065</doi><ee>http://doi.acm.org/10.1145/3236024.3236065</ee><url>https://dblp.org/rec/conf/sigsoft/0001R18</url></info>
+<url>URL#184963</url>
+</hit>
+<hit score="2" id="218404">
+<info><authors><author>Shihao Zou</author><author>Guanyu Tao</author><author>Jun Wang</author><author>Weinan Zhang</author><author>Dell Zhang</author></authors><title>On the Equilibrium of Query Reformulation and Document Retrieval.</title><venue>CoRR</venue><volume>abs/1807.02299</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1807-02299</key><ee>http://arxiv.org/abs/1807.02299</ee><url>https://dblp.org/rec/journals/corr/abs-1807-02299</url></info>
+<url>URL#218404</url>
+</hit>
+<hit score="2" id="218598">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>QUICKAR - Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge.</title><venue>CoRR</venue><volume>abs/1807.02964</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1807-02964</key><ee>http://arxiv.org/abs/1807.02964</ee><url>https://dblp.org/rec/journals/corr/abs-1807-02964</url></info>
+<url>URL#218598</url>
+</hit>
+<hit score="2" id="219057">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Improved Query Reformulation for Concept Location using CodeRank and Document Structures.</title><venue>CoRR</venue><volume>abs/1807.04488</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1807-04488</key><ee>http://arxiv.org/abs/1807.04488</ee><url>https://dblp.org/rec/journals/corr/abs-1807-04488</url></info>
+<url>URL#219057</url>
+</hit>
+<hit score="2" id="219952">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Poster - Improving Bug Localization with Report Quality Dynamics and Query Reformulation.</title><venue>CoRR</venue><volume>abs/1807.07676</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1807-07676</key><ee>http://arxiv.org/abs/1807.07676</ee><url>https://dblp.org/rec/journals/corr/abs-1807-07676</url></info>
+<url>URL#219952</url>
+</hit>
+<hit score="2" id="220309">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics.</title><venue>CoRR</venue><volume>abs/1807.08798</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1807-08798</key><ee>http://arxiv.org/abs/1807.08798</ee><url>https://dblp.org/rec/journals/corr/abs-1807-08798</url></info>
+<url>URL#220309</url>
+</hit>
+<hit score="2" id="221420">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Improving IR-Based Bug Localization with Context-Aware Query Reformulation.</title><venue>CoRR</venue><volume>abs/1808.00594</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1808-00594</key><ee>http://arxiv.org/abs/1808.00594</ee><url>https://dblp.org/rec/journals/corr/abs-1808-00594</url></info>
+<url>URL#221420</url>
+</hit>
+<hit score="2" id="227519">
+<info><authors><author>Rodrigo Nogueira</author><author>Jannis Bulian</author><author>Massimiliano Ciaramita</author></authors><title>Learning to Coordinate Multiple Reinforcement Learning Agents for Diverse Query Reformulation.</title><venue>CoRR</venue><volume>abs/1809.10658</volume><year>2018</year><type>Informal Publications</type><key>journals/corr/abs-1809-10658</key><ee>http://arxiv.org/abs/1809.10658</ee><url>https://dblp.org/rec/journals/corr/abs-1809-10658</url></info>
+<url>URL#227519</url>
+</hit>
+<hit score="2" id="266829">
+<info><authors><author>Deepanwita Datta</author><author>Shubham Varma</author><author>C. Ravindranath Chowdary</author><author>Sanjay Kumar Singh</author></authors><title>Multimodal Retrieval using Mutual Information based Textual Query Reformulation.</title><venue>Expert Syst. Appl.</venue><volume>68</volume><pages>81-92</pages><year>2017</year><type>Journal Articles</type><key>journals/eswa/DattaVCS17</key><doi>10.1016/J.ESWA.2016.09.039</doi><ee>https://doi.org/10.1016/j.eswa.2016.09.039</ee><url>https://dblp.org/rec/journals/eswa/DattaVCS17</url></info>
+<url>URL#266829</url>
+</hit>
+<hit score="2" id="291832">
+<info><authors><author>Kun Lu 0001</author><author>Soohyung Joo</author><author>Taehun Lee</author><author>Rong Hu</author></authors><title>Factors that influence query reformulations and search performance in health information retrieval - A multilevel modeling approach.</title><venue>JASIST</venue><volume>68</volume><number>8</number><pages>1886-1898</pages><year>2017</year><type>Journal Articles</type><key>journals/jasis/LuJLH17</key><doi>10.1002/ASI.23872</doi><ee>https://doi.org/10.1002/asi.23872</ee><url>https://dblp.org/rec/journals/jasis/LuJLH17</url></info>
+<url>URL#291832</url>
+</hit>
+<hit score="2" id="310598">
+<info><authors><author>Deepanwita Datta</author><author>Sanjay Kumar Singh</author><author>C. Ravindranath Chowdary</author></authors><title>Bridging the gap - effect of text query reformulation in multimodal retrieval.</title><venue>Multimedia Tools Appl.</venue><volume>76</volume><number>21</number><pages>22871-22888</pages><year>2017</year><type>Journal Articles</type><key>journals/mta/DattaSC17</key><doi>10.1007/S11042-016-4262-9</doi><ee>https://doi.org/10.1007/s11042-016-4262-9</ee><url>https://dblp.org/rec/journals/mta/DattaSC17</url></info>
+<url>URL#310598</url>
+</hit>
+<hit score="2" id="365266">
+<info><authors><author>Eun Youp Rha</author><author>Wei Shi</author><author>Nicholas J. Belkin</author></authors><title>An exploration of reasons for query reformulations.</title><venue>ASIST</venue><pages>337-346</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/asist/RhaSB17</key><doi>10.1002/PRA2.2017.14505401037</doi><ee>https://doi.org/10.1002/pra2.2017.14505401037</ee><url>https://dblp.org/rec/conf/asist/RhaSB17</url></info>
+<url>URL#365266</url>
+</hit>
+<hit score="2" id="369300">
+<info><authors><author>Yueyao Wang</author><author>Qinmin Hu</author><author>Yang Song</author><author>Liang He 0001</author></authors><title>Potentiality of healthcare big data - Improving search by automatic query reformulation.</title><venue>BigData</venue><pages>807-816</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/bigdataconf/WangHSH17</key><doi>10.1109/BIGDATA.2017.8257996</doi><ee>https://doi.org/10.1109/BigData.2017.8257996</ee><url>https://dblp.org/rec/conf/bigdataconf/WangHSH17</url></info>
+<url>URL#369300</url>
+</hit>
+<hit score="2" id="377606">
+<info><authors><author>Hengyi Fu</author></authors><title>Query Reformulation Patterns of Mixed Language Queries in Different Search Intents.</title><venue>CHIIR</venue><pages>249-252</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/chiir/Fu17</key><doi>10.1145/3020165.3022126</doi><ee>http://doi.acm.org/10.1145/3020165.3022126</ee><url>https://dblp.org/rec/conf/chiir/Fu17</url></info>
+<url>URL#377606</url>
+</hit>
+<hit score="2" id="391675">
+<info><authors><author>Xinyi Li</author><author>Maarten de Rijke</author></authors><title>Do Topic Shift and Query Reformulation Patterns Correlate in Academic Search?</title><venue>ECIR</venue><pages>146-159</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ecir/LiR17</key><doi>10.1007/978-3-319-56608-5_12</doi><ee>https://doi.org/10.1007/978-3-319-56608-5_12</ee><url>https://dblp.org/rec/conf/ecir/LiR17</url></info>
+<url>URL#391675</url>
+</hit>
+<hit score="2" id="395307">
+<info><authors><author>Rodrigo Nogueira</author><author>Kyunghyun Cho</author></authors><title>Task-Oriented Query Reformulation with Reinforcement Learning.</title><venue>EMNLP</venue><pages>574-583</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/emnlp/NogueiraC17</key><ee>https://aclanthology.info/papers/D17-1061/d17-1061</ee><url>https://dblp.org/rec/conf/emnlp/NogueiraC17</url></info>
+<url>URL#395307</url>
+</hit>
+<hit score="2" id="399900">
+<info><authors><author>Asad Ullah</author></authors><title>User Information Needs Through Query Reformulation.</title><venue>FDIA</venue><year>2017</year><type>Conference and Workshop Papers</type><key>conf/fdia/Ullah17</key><doi>10.14236/EWIC/FDIA2017.13</doi><ee>https://doi.org/10.14236/ewic/FDIA2017.13</ee><url>https://dblp.org/rec/conf/fdia/Ullah17</url></info>
+<url>URL#399900</url>
+</hit>
+<hit score="2" id="442622">
+<info><authors><author>Saraschandra Karanam</author><author>Herre van Oostendorp</author></authors><title>Age-Related Effects of Task Difficulty on the Semantic Relevance of Query Reformulations.</title><venue>INTERACT</venue><pages>77-96</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/interact/KaranamO17</key><doi>10.1007/978-3-319-67744-6_6</doi><ee>https://doi.org/10.1007/978-3-319-67744-6_6</ee><url>https://dblp.org/rec/conf/interact/KaranamO17</url></info>
+<url>URL#442622</url>
+</hit>
+<hit score="2" id="455993">
+<info><authors><author>Dan Wu</author><author>Renmin Bi</author></authors><title>Query Reformulation Patterns in Cross-Device OPAC Search.</title><venue>JCDL</venue><pages>328-329</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/jcdl/WuB17</key><doi>10.1109/JCDL.2017.7991613</doi><ee>https://doi.org/10.1109/JCDL.2017.7991613</ee><url>https://dblp.org/rec/conf/jcdl/WuB17</url></info>
+<url>URL#455993</url>
+</hit>
+<hit score="2" id="456188">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Improved query reformulation for concept location using CodeRank and document structures.</title><venue>ASE</venue><pages>428-439</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/kbse/0001R17</key><doi>10.1109/ASE.2017.8115655</doi><ee>https://doi.org/10.1109/ASE.2017.8115655</ee><url>https://dblp.org/rec/conf/kbse/0001R17</url></info>
+<url>URL#456188</url>
+</hit>
+<hit score="2" id="456916">
+<info><authors><author>Rubén Manrique</author><author>Olga Mariño</author></authors><title>Diversified Semantic Query Reformulation.</title><venue>KESW</venue><pages>23-37</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/kesw/ManriqueM17</key><doi>10.1007/978-3-319-69548-8_3</doi><ee>https://doi.org/10.1007/978-3-319-69548-8_3</ee><url>https://dblp.org/rec/conf/kesw/ManriqueM17</url></info>
+<url>URL#456916</url>
+</hit>
+<hit score="2" id="517235">
+<info><authors><author>Rodrigo Nogueira</author><author>Kyunghyun Cho</author></authors><title>Task-Oriented Query Reformulation with Reinforcement Learning.</title><venue>CoRR</venue><volume>abs/1704.04572</volume><year>2017</year><type>Informal Publications</type><key>journals/corr/NogueiraC17</key><ee>http://arxiv.org/abs/1704.04572</ee><url>https://dblp.org/rec/journals/corr/NogueiraC17</url></info>
+<url>URL#517235</url>
+</hit>
+<hit score="2" id="537834">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>Improved query reformulation for concept location using CodeRank and document structures.</title><venue>PeerJ PrePrints</venue><volume>5</volume><pages>e3186</pages><year>2017</year><type>Informal Publications</type><key>journals/peerjpre/0001R17</key><doi>10.7287/PEERJ.PREPRINTS.3186V2</doi><ee>https://doi.org/10.7287/peerj.preprints.3186v2</ee><url>https://dblp.org/rec/journals/peerjpre/0001R17</url></info>
+<url>URL#537834</url>
+</hit>
+<hit score="2" id="542430">
+<info><authors><author>Michael Benedikt</author><author>Julien Leblay</author><author>Balder ten Cate</author><author>Efthymia Tsamoura</author></authors><title>Generating Plans from Proofs - The Interpolation-based Approach to Query Reformulation</title><venue>Synthesis Lectures on Data Management</venue><publisher>Morgan &amp; Claypool Publishers</publisher><year>2016</year><type>Books and Theses</type><key>series/synthesis/2016Benedikt</key><doi>10.2200/S00703ED1V01Y201602DTM043</doi><ee>https://doi.org/10.2200/S00703ED1V01Y201602DTM043</ee><url>https://dblp.org/rec/series/synthesis/2016Benedikt</url></info>
+<url>URL#542430</url>
+</hit>
+<hit score="2" id="663652">
+<info><authors><author>Hengyi Fu</author></authors><title>Analysis of chinese-english mixed language query reformulation strategies and patterns during web searching.</title><venue>ASIST</venue><pages>1-5</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/asist/Fu16</key><doi>10.1002/PRA2.2016.14505301086</doi><ee>https://doi.org/10.1002/pra2.2016.14505301086</ee><url>https://dblp.org/rec/conf/asist/Fu16</url></info>
+<url>URL#663652</url>
+</hit>
+<hit score="2" id="663712">
+<info><authors><author>Eun Youp Rha</author><author>Matthew Mitsui</author><author>Nicholas J. Belkin</author><author>Chirag Shah</author></authors><title>Exploring the relationships between search intentions and query reformulations.</title><venue>ASIST</venue><pages>1-9</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/asist/RhaMBS16</key><doi>10.1002/PRA2.2016.14505301048</doi><ee>https://doi.org/10.1002/pra2.2016.14505301048</ee><url>https://dblp.org/rec/conf/asist/RhaMBS16</url></info>
+<url>URL#663712</url>
+</hit>
+<hit score="2" id="666601">
+<info><authors><author>Mohammad Alsulmi</author><author>Ben Carterette</author></authors><title>Improving clinical case search using semantic based query reformulations.</title><venue>BIBM</venue><pages>694-698</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/bibm/AlsulmiC16</key><doi>10.1109/BIBM.2016.7822602</doi><ee>https://doi.org/10.1109/BIBM.2016.7822602</ee><url>https://dblp.org/rec/conf/bibm/AlsulmiC16</url></info>
+<url>URL#666601</url>
+</hit>
+<hit score="2" id="676236">
+<info><authors><author>Debanjan Ghosh</author></authors><title>Effects of Topic Familiarity on Query Reformulation Strategies.</title><venue>CHIIR</venue><pages>261-264</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/chiir/Ghosh16</key><doi>10.1145/2854946.2855001</doi><ee>http://doi.acm.org/10.1145/2854946.2855001</ee><url>https://dblp.org/rec/conf/chiir/Ghosh16</url></info>
+<url>URL#676236</url>
+</hit>
+<hit score="2" id="676247">
+<info><authors><author>Jiepu Jiang</author><author>Chaoqun Ni</author></authors><title>What Affects Word Changes in Query Reformulation During a Task-based Search Session?</title><venue>CHIIR</venue><pages>111-120</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/chiir/JiangN16</key><doi>10.1145/2854946.2854978</doi><ee>http://doi.acm.org/10.1145/2854946.2854978</ee><url>https://dblp.org/rec/conf/chiir/JiangN16</url></info>
+<url>URL#676247</url>
+</hit>
+<hit score="2" id="676264">
+<info><authors><author>Ning Sa</author></authors><title>Improving Query Reformulation in Voice Search System.</title><venue>CHIIR</venue><pages>365-367</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/chiir/Sa16</key><doi>10.1145/2854946.2854951</doi><ee>http://doi.acm.org/10.1145/2854946.2854951</ee><url>https://dblp.org/rec/conf/chiir/Sa16</url></info>
+<url>URL#676264</url>
+</hit>
+<hit score="2" id="691035">
+<info><authors><author>Fernando Diaz 0001</author></authors><title>Pseudo-Query Reformulation.</title><venue>ECIR</venue><pages>521-532</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ecir/Diaz16</key><doi>10.1007/978-3-319-30671-1_38</doi><ee>https://doi.org/10.1007/978-3-319-30671-1_38</ee><url>https://dblp.org/rec/conf/ecir/Diaz16</url></info>
+<url>URL#691035</url>
+</hit>
+<hit score="2" id="740415">
+<info><authors><author>Zhixing Li</author><author>Tao Wang 0006</author><author>Yang Zhang</author><author>Yun Zhan</author><author>Gang Yin</author></authors><title>Query reformulation by leveraging crowd wisdom for scenario-based software search.</title><venue>Internetware</venue><pages>36-44</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/internetware/LiWZZY16</key><doi>10.1145/2993717.2993723</doi><ee>http://doi.acm.org/10.1145/2993717.2993723</ee><url>https://dblp.org/rec/conf/internetware/LiWZZY16</url></info>
+<url>URL#740415</url>
+</hit>
+<hit score="2" id="753538">
+<info><authors><author>Mohammad Masudur Rahman 0001</author><author>Chanchal K. Roy</author></authors><title>QUICKAR - automatic query reformulation for concept location using crowdsourced knowledge.</title><venue>ASE</venue><pages>220-225</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/kbse/RahmanR16</key><doi>10.1145/2970276.2970362</doi><ee>http://doi.acm.org/10.1145/2970276.2970362</ee><url>https://dblp.org/rec/conf/kbse/RahmanR16</url></info>
+<url>URL#753538</url>
+</hit>
+<hit score="2" id="813562">
+<info><authors><author>Liangjie Hong</author><author>Yue Shi</author><author>Suju Rajan</author></authors><title>Learning Optimal Card Ranking from Query Reformulation.</title><venue>CoRR</venue><volume>abs/1606.06816</volume><year>2016</year><type>Informal Publications</type><key>journals/corr/HongSR16</key><ee>http://arxiv.org/abs/1606.06816</ee><url>https://dblp.org/rec/journals/corr/HongSR16</url></info>
+<url>URL#813562</url>
+</hit>
+<hit score="2" id="823103">
+<info><authors><author>Marc Sloan</author><author>Hui Yang</author><author>Jun Wang 0012</author></authors><title>A Term-Based Methodology for Query Reformulation Understanding.</title><venue>CoRR</venue><volume>abs/1601.04615</volume><year>2016</year><type>Informal Publications</type><key>journals/corr/SloanYW16</key><ee>http://arxiv.org/abs/1601.04615</ee><url>https://dblp.org/rec/journals/corr/SloanYW16</url></info>
+<url>URL#823103</url>
+</hit>
+<hit score="2" id="881429">
+<info><authors><author>Marc Sloan</author><author>Hui Yang</author><author>Jun Wang 0012</author></authors><title>A term-based methodology for query reformulation understanding.</title><venue>Inf. Retr. Journal</venue><volume>18</volume><number>2</number><pages>145-165</pages><year>2015</year><type>Journal Articles</type><key>journals/ir/SloanYW15</key><doi>10.1007/S10791-015-9251-5</doi><ee>https://doi.org/10.1007/s10791-015-9251-5</ee><url>https://dblp.org/rec/journals/ir/SloanYW15</url></info>
+<url>URL#881429</url>
+</hit>
+<hit score="2" id="908969">
+<info><authors><author>Damian Bursztyn</author><author>François Goasdoué</author><author>Ioana Manolescu</author></authors><title>Reformulation-based query answering in RDF - alternatives and performance.</title><venue>PVLDB</venue><volume>8</volume><number>12</number><pages>1888-1891</pages><year>2015</year><type>Journal Articles</type><key>journals/pvldb/BursztynGM15</key><doi>10.14778/2824032.2824093</doi><ee>http://www.vldb.org/pvldb/vol8/p1888-bursztyn.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BursztynGM15</url></info>
+<url>URL#908969</url>
+</hit>
+<hit score="2" id="932190">
+<info><authors><author>Lidong Bing</author><author>Wai Lam</author><author>Tak-Lam Wong</author><author>Shoaib Jameel</author></authors><title>Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context.</title><venue>ACM Trans. Inf. Syst.</venue><volume>33</volume><number>2</number><pages>6:1-6:38</pages><year>2015</year><type>Journal Articles</type><key>journals/tois/BingLWJ15</key><doi>10.1145/2699666</doi><ee>http://doi.acm.org/10.1145/2699666</ee><url>https://dblp.org/rec/journals/tois/BingLWJ15</url></info>
+<url>URL#932190</url>
+</hit>
+<hit score="2" id="963704">
+<info><authors><author>Ahmed Hassan Awadallah</author><author>Ranjitha Gurunath Kulkarni</author><author>Umut Ozertem</author><author>Rosie Jones</author></authors><title>Characterizing and Predicting Voice Query Reformulation.</title><venue>CIKM</venue><pages>543-552</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/cikm/AwadallahKOJ15</key><doi>10.1145/2806416.2806491</doi><ee>http://doi.acm.org/10.1145/2806416.2806491</ee><url>https://dblp.org/rec/conf/cikm/AwadallahKOJ15</url></info>
+<url>URL#963704</url>
+</hit>
+<hit score="2" id="966535">
+<info><authors><author>Rahul Pramanik</author><author>Sukomal Pal</author><author>Manajit Chakraborty</author></authors><title>What the user does not want? - query reformulation through term inclusion-exclusion.</title><venue>CODS</venue><pages>116-117</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/cods/PramanikPC15</key><doi>10.1145/2732587.2732606</doi><ee>http://doi.acm.org/10.1145/2732587.2732606</ee><url>https://dblp.org/rec/conf/cods/PramanikPC15</url></info>
+<url>URL#966535</url>
+</hit>
+<hit score="2" id="973856">
+<info><authors><author>Damian Bursztyn</author><author>François Goasdoué</author><author>Ioana Manolescu</author></authors><title>Efficient Query Answering in DL-Lite through FOL Reformulation (Extended Abstract).</title><venue>Description Logics</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/dlog/BursztynGM15</key><ee>http://ceur-ws.org/Vol-1350/paper-15.pdf</ee><url>https://dblp.org/rec/conf/dlog/BursztynGM15</url></info>
+<url>URL#973856</url>
+</hit>
+<hit score="2" id="976596">
+<info><authors><author>Damian Bursztyn</author><author>François Goasdoué</author><author>Ioana Manolescu</author></authors><title>Optimizing Reformulation-based Query Answering in RDF.</title><venue>EDBT</venue><pages>265-276</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/edbt/BursztynGM15</key><doi>10.5441/002/EDBT.2015.24</doi><ee>https://doi.org/10.5441/002/edbt.2015.24</ee><url>https://dblp.org/rec/conf/edbt/BursztynGM15</url></info>
+<url>URL#976596</url>
+</hit>
+<hit score="2" id="980131">
+<info><authors><author>Azilawati Azizan</author><author>Zainab Abu Bakar</author></authors><title>Query Reformulation Using Crop Characteristic in Specific Domain Search.</title><venue>EMS</venue><pages>374-379</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ems/AzizanB15</key><doi>10.1109/EMS.2015.88</doi><ee>https://doi.org/10.1109/EMS.2015.88</ee><url>https://dblp.org/rec/conf/ems/AzizanB15</url></info>
+<url>URL#980131</url>
+</hit>
+<hit score="2" id="984646">
+<info><authors><author>Bissan Audeh</author><author>Philippe Beaune</author><author>Michel Beigbeder</author></authors><title>SMERA - Semantic Mixed Approach for Web Query Expansion and Reformulation.</title><venue>EGC</venue><pages>159-180</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/f-egc/AudehBB15</key><doi>10.1007/978-3-319-45763-5_9</doi><ee>https://doi.org/10.1007/978-3-319-45763-5_9</ee><url>https://dblp.org/rec/conf/f-egc/AudehBB15</url></info>
+<url>URL#984646</url>
+</hit>
+<hit score="2" id="999862">
+<info><authors><author>Erin Hea-Jin Kim</author><author>Jung Sun Oh</author><author>Min Song 0001</author></authors><title>Exploring Context-Sensitive Query Reformulation in a Biomedical Digital Library.</title><venue>ICADL</venue><pages>94-106</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icadl/KimOS15</key><doi>10.1007/978-3-319-27974-9_10</doi><ee>https://doi.org/10.1007/978-3-319-27974-9_10</ee><url>https://dblp.org/rec/conf/icadl/KimOS15</url></info>
+<url>URL#999862</url>
+</hit>
+<hit score="2" id="999890">
+<info><authors><author>Mohamed Reda Bouadjenek</author><author>Scott Sanner</author><author>Gabriela Ferraro</author></authors><title>A study of query reformulation for patent prior art search with partial patent applications.</title><venue>ICAIL</venue><pages>23-32</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icail/BouadjenekSF15</key><doi>10.1145/2746090.2746092</doi><ee>http://doi.acm.org/10.1145/2746090.2746092</ee><url>https://dblp.org/rec/conf/icail/BouadjenekSF15</url></info>
+<url>URL#999890</url>
+</hit>
+<hit score="2" id="1019886">
+<info><authors><author>Azilawati Azizan</author><author>Zainab Abu Bakar</author></authors><title>Query reformulation for specific domain search - Keywords, ontology, domain name.</title><venue>ICTC</venue><pages>1283-1287</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ictc/AzizanB15</key><doi>10.1109/ICTC.2015.7354797</doi><ee>https://doi.org/10.1109/ICTC.2015.7354797</ee><url>https://dblp.org/rec/conf/ictc/AzizanB15</url></info>
+<url>URL#1019886</url>
+</hit>
+<hit score="2" id="1041690">
+<info><authors><author>Anna Mikkonen</author><author>Pertti Vakkari</author></authors><title>Books&apos; Interest Grading and Fiction Readers&apos; Search Actions During Query Reformulation Intervals.</title><venue>JCDL</venue><pages>27-36</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/jcdl/MikkonenV15</key><doi>10.1145/2756406.2756922</doi><ee>http://doi.acm.org/10.1145/2756406.2756922</ee><url>https://dblp.org/rec/conf/jcdl/MikkonenV15</url></info>
+<url>URL#1041690</url>
+</hit>
+<hit score="2" id="1042201">
+<info><authors><author>Davide Mottin</author><author>Francesco Bonchi</author><author>Francesco Gullo</author></authors><title>Graph Query Reformulation with Diversity.</title><venue>KDD</venue><pages>825-834</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/kdd/MottinBG15</key><doi>10.1145/2783258.2783343</doi><ee>http://doi.acm.org/10.1145/2783258.2783343</ee><url>https://dblp.org/rec/conf/kdd/MottinBG15</url></info>
+<url>URL#1042201</url>
+</hit>
+<hit score="2" id="1067432">
+<info><authors><author>Carsten Eickhoff</author><author>Sebastian Dungs</author><author>Vu Tran 0001</author></authors><title>An Eye-Tracking Study of Query Reformulation.</title><venue>SIGIR</venue><pages>13-22</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/sigir/EickhoffDT15</key><doi>10.1145/2766462.2767703</doi><ee>http://doi.acm.org/10.1145/2766462.2767703</ee><url>https://dblp.org/rec/conf/sigir/EickhoffDT15</url></info>
+<url>URL#1067432</url>
+</hit>
+<hit score="2" id="1067751">
+<info><authors><author>Gautam Das 0001</author></authors><title>Principled Optimization Frameworks for Query Reformulation of Database Queries.</title><venue>ExploreDB@SIGMOD/PODS</venue><pages>2</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/sigmod/Das15</key><doi>10.1145/2795218.2795227</doi><ee>http://doi.acm.org/10.1145/2795218.2795227</ee><url>https://dblp.org/rec/conf/sigmod/Das15</url></info>
+<url>URL#1067751</url>
+</hit>
+<hit score="2" id="1095359">
+<info><authors><author>Fernando Diaz 0001</author></authors><title>Pseudo-Query Reformulation.</title><venue>CoRR</venue><volume>abs/1507.03928</volume><year>2015</year><type>Informal Publications</type><key>journals/corr/Diaz15</key><ee>http://arxiv.org/abs/1507.03928</ee><url>https://dblp.org/rec/journals/corr/Diaz15</url></info>
+<url>URL#1095359</url>
+</hit>
+<hit score="2" id="1132836">
+<info><authors><author>Zhen Yue</author><author>Shuguang Han</author><author>Daqing He</author><author>Jiepu Jiang</author></authors><title>Influences on Query Reformulation in Collaborative Web Search.</title><venue>IEEE Computer</venue><volume>47</volume><number>3</number><pages>46-53</pages><year>2014</year><type>Journal Articles</type><key>journals/computer/YueHHJ14</key><doi>10.1109/MC.2014.62</doi><ee>https://doi.org/10.1109/MC.2014.62</ee><url>https://dblp.org/rec/journals/computer/YueHHJ14</url></info>
+<url>URL#1132836</url>
+</hit>
+<hit score="2" id="1165504">
+<info><authors><author>Saad Aloteibi</author><author>Mark Sanderson</author></authors><title>Analyzing geographic query reformulation - An exploratory study.</title><venue>JASIST</venue><volume>65</volume><number>1</number><pages>13-24</pages><year>2014</year><type>Journal Articles</type><key>journals/jasis/AloteibiS14</key><doi>10.1002/ASI.22961</doi><ee>https://doi.org/10.1002/asi.22961</ee><url>https://dblp.org/rec/journals/jasis/AloteibiS14</url></info>
+<url>URL#1165504</url>
+</hit>
+<hit score="2" id="1184232">
+<info><authors><author>Hajer Baazaoui Zghal</author><author>Antonio Moreno</author></authors><title>A system for information retrieval in a medical digital library based on modular ontologies and query reformulation.</title><venue>Multimedia Tools Appl.</venue><volume>72</volume><number>3</number><pages>2393-2412</pages><year>2014</year><type>Journal Articles</type><key>journals/mta/ZghalM14</key><doi>10.1007/S11042-013-1527-4</doi><ee>https://doi.org/10.1007/s11042-013-1527-4</ee><url>https://dblp.org/rec/journals/mta/ZghalM14</url></info>
+<url>URL#1184232</url>
+</hit>
+<hit score="2" id="1210740">
+<info><authors><author>Angela Bonifati</author><author>Gianvito Summa</author><author>Esther Pacitti</author><author>Fady Draidi</author></authors><title>Query Reformulation in PDMS Based on Social Relevance.</title><venue>Trans. Large-Scale Data- and Knowledge-Centered Systems</venue><volume>13</volume><pages>59-90</pages><year>2014</year><type>Journal Articles</type><key>journals/tlsdkcs/BonifatiSPD14</key><doi>10.1007/978-3-642-54426-2_3</doi><ee>https://doi.org/10.1007/978-3-642-54426-2_3</ee><url>https://dblp.org/rec/journals/tlsdkcs/BonifatiSPD14</url></info>
+<url>URL#1210740</url>
+</hit>
+<hit score="2" id="1232270">
+<info><authors><author>K. Veningston</author><author>R. Shanmugalakshmi</author></authors><title>Efficient Implementation of Web Search Query Reformulation Using Ant Colony Optimization.</title><venue>BDA</venue><pages>80-94</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/bigda/VeningstonS14a</key><doi>10.1007/978-3-319-13820-6_7</doi><ee>https://doi.org/10.1007/978-3-319-13820-6_7</ee><url>https://dblp.org/rec/conf/bigda/VeningstonS14a</url></info>
+<url>URL#1232270</url>
+</hit>
+<hit score="2" id="1242747">
+<info><authors><author>Issam Sahmoudi</author><author>Abdelmonaime Lachkar</author></authors><title>Interactive system based on web search results clustering for Arabic query reformulation.</title><venue>CIST</venue><pages>300-305</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/cist/SahmoudiL14</key><doi>10.1109/CIST.2014.7016636</doi><ee>https://doi.org/10.1109/CIST.2014.7016636</ee><url>https://dblp.org/rec/conf/cist/SahmoudiL14</url></info>
+<url>URL#1242747</url>
+</hit>
+<hit score="2" id="1252953">
+<info><authors><author>Bryan Brancotte</author><author>Bastien Rance</author><author>Alain Denise</author><author>Sarah Cohen Boulakia</author></authors><title>ConQuR-Bio - Consensus Ranking with Query Reformulation for Biological Data.</title><venue>DILS</venue><pages>128-142</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/dils/BrancotteRDB14</key><doi>10.1007/978-3-319-08590-6_13</doi><ee>https://doi.org/10.1007/978-3-319-08590-6_13</ee><url>https://dblp.org/rec/conf/dils/BrancotteRDB14</url></info>
+<url>URL#1252953</url>
+</hit>
+<hit score="2" id="1267192">
+<info><authors><author>Hajer Baazaoui Zghal</author><author>Henda Ben Ghézala</author></authors><title>A fuzzy-ontology-driven method for a personalized query reformulation.</title><venue>FUZZ-IEEE</venue><pages>1640-1647</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/fuzzIEEE/ZghalG14</key><doi>10.1109/FUZZ-IEEE.2014.6891820</doi><ee>https://doi.org/10.1109/FUZZ-IEEE.2014.6891820</ee><url>https://dblp.org/rec/conf/fuzzIEEE/ZghalG14</url></info>
+<url>URL#1267192</url>
+</hit>
+<hit score="2" id="1339150">
+<info><authors><author>Bissan Audeh</author><author>Philippe Beaune</author><author>Michel Beigbeder</author></authors><title>Exploring query reformulation for named entity expansion in information retrieval.</title><venue>SAC</venue><pages>929-930</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/sac/AudehBB14</key><doi>10.1145/2554850.2555128</doi><ee>http://doi.acm.org/10.1145/2554850.2555128</ee><url>https://dblp.org/rec/conf/sac/AudehBB14</url></info>
+<url>URL#1339150</url>
+</hit>
+<hit score="2" id="1344526">
+<info><authors><author>Abu Shamim Mohammad Arif</author><author>Jia Tina Du</author><author>Ivan Lee</author></authors><title>Examining collaborative query reformulation - a case of travel information searching.</title><venue>SIGIR</venue><pages>875-878</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/sigir/ArifDL14</key><doi>10.1145/2600428.2609463</doi><ee>http://doi.acm.org/10.1145/2600428.2609463</ee><url>https://dblp.org/rec/conf/sigir/ArifDL14</url></info>
+<url>URL#1344526</url>
+</hit>
+<hit score="2" id="1344617">
+<info><authors><author>Jyun-Yu Jiang</author><author>Yen-Yu Ke</author><author>Pao-Yu Chien</author><author>Pu-Jen Cheng</author></authors><title>Learning user reformulation behavior for query auto-completion.</title><venue>SIGIR</venue><pages>445-454</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/sigir/JiangKCC14</key><doi>10.1145/2600428.2609614</doi><ee>http://doi.acm.org/10.1145/2600428.2609614</ee><url>https://dblp.org/rec/conf/sigir/JiangKCC14</url></info>
+<url>URL#1344617</url>
+</hit>
+<hit score="2" id="1344733">
+<info><authors><author>Milad Shokouhi</author><author>Rosie Jones</author><author>Umut Ozertem</author><author>Karthik Raghunathan</author><author>Fernando Diaz 0001</author></authors><title>Mobile query reformulations.</title><venue>SIGIR</venue><pages>1011-1014</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/sigir/ShokouhiJORD14</key><doi>10.1145/2600428.2609497</doi><ee>http://doi.acm.org/10.1145/2600428.2609497</ee><url>https://dblp.org/rec/conf/sigir/ShokouhiJORD14</url></info>
+<url>URL#1344733</url>
+</hit>
+<hit score="2" id="1345049">
+<info><authors><author>Ioana Ileana</author><author>Bogdan Cautis</author><author>Alin Deutsch</author><author>Yannis Katsis</author></authors><title>Complete yet practical search for minimal query reformulations under constraints.</title><venue>SIGMOD Conference</venue><pages>1015-1026</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/sigmod/IleanaCDK14</key><doi>10.1145/2588555.2593683</doi><ee>http://doi.acm.org/10.1145/2588555.2593683</ee><url>https://dblp.org/rec/conf/sigmod/IleanaCDK14</url></info>
+<url>URL#1345049</url>
+</hit>
+<hit score="2" id="1352555">
+<info><authors><author>Luca Soldaini</author><author>Arman Cohan</author><author>Andrew Yates</author><author>Nazli Goharian</author><author>Ophir Frieder</author></authors><title>Query Reformulation for Clinical Decision Support Search.</title><venue>TREC</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/trec/SoldainiCYGF14</key><ee>http://trec.nist.gov/pubs/trec23/papers/pro-georgetown_ir_clinical.pdf</ee><url>https://dblp.org/rec/conf/trec/SoldainiCYGF14</url></info>
+<url>URL#1352555</url>
+</hit>
+<hit score="2" id="1431427">
+<info><authors><author>Nesrine Ben Mustapha</author><author>Hajer Baazaoui Zghal</author><author>Antonio Moreno</author><author>Henda Ben Ghézala</author></authors><title>A dynamic composition of ontology modules approach - application to web query reformulation.</title><venue>IJMSO</venue><volume>8</volume><number>4</number><pages>309-321</pages><year>2013</year><type>Journal Articles</type><key>journals/ijmso/MustaphaZMG13</key><doi>10.1504/IJMSO.2013.058414</doi><ee>https://doi.org/10.1504/IJMSO.2013.058414</ee><url>https://dblp.org/rec/journals/ijmso/MustaphaZMG13</url></info>
+<url>URL#1431427</url>
+</hit>
+<hit score="2" id="1438359">
+<info><authors><author>Enrico Franconi</author><author>Volha Kerhet</author><author>Nhung Ngo</author></authors><title>Exact Query Reformulation over Databases with First-order and Description Logics Ontologies.</title><venue>J. Artif. Intell. Res.</venue><volume>48</volume><pages>885-922</pages><year>2013</year><type>Journal Articles</type><key>journals/jair/FranconiKN13</key><doi>10.1613/JAIR.4058</doi><ee>https://doi.org/10.1613/jair.4058</ee><url>https://dblp.org/rec/journals/jair/FranconiKN13</url></info>
+<url>URL#1438359</url>
+</hit>
+<hit score="2" id="1483640">
+<info><authors><author>Xiaobing Xue</author><author>W. Bruce Croft</author></authors><title>Modeling reformulation using query distributions.</title><venue>ACM Trans. Inf. Syst.</venue><volume>31</volume><number>2</number><pages>6</pages><year>2013</year><type>Journal Articles</type><key>journals/tois/XueC13</key><doi>10.1145/2457465.2457466</doi><ee>http://doi.acm.org/10.1145/2457465.2457466</ee><url>https://dblp.org/rec/journals/tois/XueC13</url></info>
+<url>URL#1483640</url>
+</hit>
+<hit score="2" id="1501276">
+<info><authors><author>Rong Hu</author><author>Kun Lu 0001</author><author>Soohyung Joo</author></authors><title>Effects of topic familiarity and search skills on query reformulation behavior.</title><venue>ASIST</venue><pages>1-9</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/asist/HuLJ13</key><doi>10.1002/MEET.14505001062</doi><ee>https://doi.org/10.1002/meet.14505001062</ee><url>https://dblp.org/rec/conf/asist/HuLJ13</url></info>
+<url>URL#1501276</url>
+</hit>
+<hit score="2" id="1513542">
+<info><authors><author>Ahmed Hassan Awadallah</author><author>Xiaolin Shi</author><author>Nick Craswell</author><author>Bill Ramsey</author></authors><title>Beyond clicks - query reformulation as a predictor of search satisfaction.</title><venue>CIKM</venue><pages>2019-2028</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/cikm/HassanSCR13</key><doi>10.1145/2505515.2505682</doi><ee>http://doi.acm.org/10.1145/2505515.2505682</ee><url>https://dblp.org/rec/conf/cikm/HassanSCR13</url></info>
+<url>URL#1513542</url>
+</hit>
+<hit score="2" id="1529937">
+<info><authors><author>Ahmed Hassan</author></authors><title>Identifying Web Search Query Reformulation using Concept based Matching.</title><venue>EMNLP</venue><pages>1000-1010</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/emnlp/Hassan13</key><ee>http://aclweb.org/anthology/D/D13/D13-1102.pdf</ee><url>https://dblp.org/rec/conf/emnlp/Hassan13</url></info>
+<url>URL#1529937</url>
+</hit>
+<hit score="2" id="1530811">
+<info><authors><author>Steph Jesper</author><author>Paul D. Clough</author><author>Mark M. Hall</author></authors><title>Regional Effects on Query Reformulation Patterns.</title><venue>TPDL</venue><pages>382-385</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ercimdl/JesperCH13</key><doi>10.1007/978-3-642-40501-3_42</doi><ee>https://doi.org/10.1007/978-3-642-40501-3_42</ee><url>https://dblp.org/rec/conf/ercimdl/JesperCH13</url></info>
+<url>URL#1530811</url>
+</hit>
+<hit score="2" id="1566370">
+<info><authors><author>Sonia Haiduc</author><author>Gabriele Bavota</author><author>Andrian Marcus</author><author>Rocco Oliveto</author><author>Andrea De Lucia</author><author>Tim Menzies</author></authors><title>Automatic query reformulations for text retrieval in software engineering.</title><venue>ICSE</venue><pages>842-851</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/icse/HaiducBMOLM13</key><doi>10.1109/ICSE.2013.6606630</doi><ee>https://doi.org/10.1109/ICSE.2013.6606630</ee><url>https://dblp.org/rec/conf/icse/HaiducBMOLM13</url></info>
+<url>URL#1566370</url>
+</hit>
+<hit score="2" id="1566371">
+<info><authors><author>Sonia Haiduc</author><author>Giuseppe De Rosa</author><author>Gabriele Bavota</author><author>Rocco Oliveto</author><author>Andrea De Lucia</author><author>Andrian Marcus</author></authors><title>Query quality prediction and reformulation for source code search - the refoqus tool.</title><venue>ICSE</venue><pages>1307-1310</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/icse/HaiducRBOLM04</key><doi>10.1109/ICSE.2013.6606704</doi><ee>https://doi.org/10.1109/ICSE.2013.6606704</ee><url>https://dblp.org/rec/conf/icse/HaiducRBOLM04</url></info>
+<url>URL#1566371</url>
+</hit>
+<hit score="2" id="1597109">
+<info><authors><author>Bunyamin Sisman</author><author>Avinash C. Kak</author></authors><title>Assisting code search with automatic query reformulation for bug localization.</title><venue>MSR</venue><pages>309-318</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/msr/SismanK13</key><doi>10.1109/MSR.2013.6624044</doi><ee>https://doi.org/10.1109/MSR.2013.6624044</ee><url>https://dblp.org/rec/conf/msr/SismanK13</url></info>
+<url>URL#1597109</url>
+</hit>
+<hit score="2" id="1608721">
+<info><authors><author>Kazutoshi Umemoto</author><author>Takehiro Yamamoto</author><author>Satoshi Nakamura</author><author>Katsumi Tanaka</author></authors><title>Predicting query reformulation type from user behavior.</title><venue>SAC</venue><pages>894-901</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/sac/UmemotoYNT13</key><doi>10.1145/2480362.2480534</doi><ee>http://doi.acm.org/10.1145/2480362.2480534</ee><url>https://dblp.org/rec/conf/sac/UmemotoYNT13</url></info>
+<url>URL#1608721</url>
+</hit>
+<hit score="2" id="1613522">
+<info><authors><author>Jiepu Jiang</author><author>Wei Jeng</author><author>Daqing He</author></authors><title>How do users respond to voice input errors? - lexical and phonetic query reformulation in voice search.</title><venue>SIGIR</venue><pages>143-152</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/sigir/JiangJH13</key><doi>10.1145/2484028.2484092</doi><ee>http://doi.acm.org/10.1145/2484028.2484092</ee><url>https://dblp.org/rec/conf/sigir/JiangJH13</url></info>
+<url>URL#1613522</url>
+</hit>
+<hit score="2" id="1618721">
+<info><authors><author>Amarnath Gupta</author><author>Anita Bandrowski</author><author>Christopher Condit</author><author>Xufei Qian</author><author>Jeffrey S. Grethe</author><author>Maryann E. Martone</author></authors><title>Semantic query reformulation - the NIF experience.</title><venue>SSDBM</venue><pages>35:1-35:4</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ssdbm/GuptaBCQGM13</key><doi>10.1145/2484838.2484839</doi><ee>http://doi.acm.org/10.1145/2484838.2484839</ee><url>https://dblp.org/rec/conf/ssdbm/GuptaBCQGM13</url></info>
+<url>URL#1618721</url>
+</hit>
+<hit score="2" id="1699657">
+<info><authors><author>Matteo Golfarelli</author><author>Federica Mandreoli</author><author>Wilma Penzo</author><author>Stefano Rizzi</author><author>Elisa Turricchia</author></authors><title>OLAP query reformulation in peer-to-peer data warehousing.</title><venue>Inf. Syst.</venue><volume>37</volume><number>5</number><pages>393-411</pages><year>2012</year><type>Journal Articles</type><key>journals/is/GolfarelliMPRT12</key><doi>10.1016/J.IS.2011.06.003</doi><ee>https://doi.org/10.1016/j.is.2011.06.003</ee><url>https://dblp.org/rec/journals/is/GolfarelliMPRT12</url></info>
+<url>URL#1699657</url>
+</hit>
+<hit score="2" id="1706415">
+<info><authors><author>Anh Tuan Luu</author><author>Jung-jae Kim</author></authors><title>Automatic Suggestion for PubMed Query Reformulation.</title><venue>JCSE</venue><volume>6</volume><number>2</number><pages>161-167</pages><year>2012</year><type>Journal Articles</type><key>journals/jcse/LuuK12</key><doi>10.5626/JCSE.2012.6.2.161</doi><ee>https://doi.org/10.5626/JCSE.2012.6.2.161</ee><url>https://dblp.org/rec/journals/jcse/LuuK12</url></info>
+<url>URL#1706415</url>
+</hit>
+<hit score="2" id="1740254">
+<info><authors><author>Chih-Yi Chiu</author><author>Sheng-Yang Li</author><author>Cheng-Yu Hsieh</author></authors><title>Video Query Reformulation for Near-Duplicate Detection.</title><venue>IEEE Trans. Information Forensics and Security</venue><volume>7</volume><number>5</number><pages>1594-1603</pages><year>2012</year><type>Journal Articles</type><key>journals/tifs/ChiuLH12</key><doi>10.1109/TIFS.2012.2207115</doi><ee>https://doi.org/10.1109/TIFS.2012.2207115</ee><url>https://dblp.org/rec/journals/tifs/ChiuLH12</url></info>
+<url>URL#1740254</url>
+</hit>
+<hit score="2" id="1754466">
+<info><authors><author>Khamsum Kinley</author><author>Dian Tjondronegoro</author><author>Helen Partridge</author><author>Sylvia L. Edwards</author></authors><title>Relationship between the nature of the search task types and query reformulation behaviour.</title><venue>ADCS</venue><pages>39-46</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/adcs/KinleyTPE12</key><doi>10.1145/2407085.2407091</doi><ee>http://doi.acm.org/10.1145/2407085.2407091</ee><url>https://dblp.org/rec/conf/adcs/KinleyTPE12</url></info>
+<url>URL#1754466</url>
+</hit>
+<hit score="2" id="1758819">
+<info><authors><author>Bruno F. F. Souza</author><author>Maria da Conceição Moraes Batista</author><author>Ana Carolina Salgado</author></authors><title>Semantic Loss in Query Reformulation in Dynamic Distributed Environments.</title><venue>AMW</venue><pages>220-224</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/amw/SouzaBS12</key><ee>http://ceur-ws.org/Vol-866/poster3.pdf</ee><url>https://dblp.org/rec/conf/amw/SouzaBS12</url></info>
+<url>URL#1758819</url>
+</hit>
+<hit score="2" id="1760863">
+<info><authors><author>Kyoungsik Na</author><author>Min Sook Park</author></authors><title>Searcher&apos;s perceptions for query reformulation behavior on the web.</title><venue>ASIST</venue><pages>1-4</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/asist/NaP12</key><doi>10.1002/MEET.14504901333</doi><ee>https://doi.org/10.1002/meet.14504901333</ee><url>https://dblp.org/rec/conf/asist/NaP12</url></info>
+<url>URL#1760863</url>
+</hit>
+<hit score="2" id="1772647">
+<info><authors><author>Van Dang</author><author>Giridhar Kumaran</author><author>Adam D. Troy</author></authors><title>Domain dependent query reformulation for web search.</title><venue>CIKM</venue><pages>1045-1054</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/cikm/DangKT12</key><doi>10.1145/2396761.2398401</doi><ee>http://doi.acm.org/10.1145/2396761.2398401</ee><url>https://dblp.org/rec/conf/cikm/DangKT12</url></info>
+<url>URL#1772647</url>
+</hit>
+<hit score="2" id="1772691">
+<info><authors><author>Sreenivas Gollapudi</author><author>Samuel Ieong</author><author>Anitha Kannan</author></authors><title>Structured query reformulations in commerce search.</title><venue>CIKM</venue><pages>1890-1894</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/cikm/GollapudiIK12</key><doi>10.1145/2396761.2398538</doi><ee>http://doi.acm.org/10.1145/2396761.2398538</ee><url>https://dblp.org/rec/conf/cikm/GollapudiIK12</url></info>
+<url>URL#1772691</url>
+</hit>
+<hit score="2" id="1772731">
+<info><authors><author>Jiepu Jiang</author><author>Daqing He</author><author>Shuguang Han</author><author>Zhen Yue</author><author>Chaoqun Ni</author></authors><title>Contextual evaluation of query reformulations in a search session by user simulation.</title><venue>CIKM</venue><pages>2635-2638</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/cikm/JiangHHYN12</key><doi>10.1145/2396761.2398710</doi><ee>http://doi.acm.org/10.1145/2396761.2398710</ee><url>https://dblp.org/rec/conf/cikm/JiangHHYN12</url></info>
+<url>URL#1772731</url>
+</hit>
+<hit score="2" id="1773992">
+<info><authors><author>Jorge Vivaldi</author><author>Iria da Cunha</author></authors><title>INEX Tweet Contextualization Track at CLEF 2012 - Query Reformulation using Terminological Patterns and Automatic Summarization.</title><venue>CLEF</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/clef/VivaldiC12</key><ee>http://ceur-ws.org/Vol-1178/CLEF2012wn-INEX-VivaldiEt2012.pdf</ee><url>https://dblp.org/rec/conf/clef/VivaldiC12</url></info>
+<url>URL#1773992</url>
+</hit>
+<hit score="2" id="1783263">
+<info><authors><author>Enrico Franconi</author><author>Volha Kerhet</author><author>Nhung Ngo</author></authors><title>Exact Query Reformulation over SHOQ DBoxes.</title><venue>Description Logics</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/dlog/FranconiKN12</key><ee>http://ceur-ws.org/Vol-846/paper_64.pdf</ee><url>https://dblp.org/rec/conf/dlog/FranconiKN12</url></info>
+<url>URL#1783263</url>
+</hit>
+<hit score="2" id="1785203">
+<info><authors><author>M-Dyaa Albakour</author><author>Udo Kruschwitz</author><author>Nikolaos Nanas</author><author>Ibrahim Adeyanju</author><author>Dawei Song 0001</author><author>Maria Fasli</author><author>Anne N. De Roeck</author></authors><title>Analysis of Query Reformulations in a Search Engine of a Local Web Site.</title><venue>ECIR</venue><pages>517-521</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/ecir/AlbakourKNASFR12</key><doi>10.1007/978-3-642-28997-2_54</doi><ee>https://doi.org/10.1007/978-3-642-28997-2_54</ee><url>https://dblp.org/rec/conf/ecir/AlbakourKNASFR12</url></info>
+<url>URL#1785203</url>
+</hit>
+<hit score="2" id="1803692">
+<info><authors><author>Ramakrishna Kolikipogu</author><author>B. Padmaja Rani</author><author>Vijayalaxmi Kakulapati</author></authors><title>Reformulation of Telugu web query using word semantic relationships.</title><venue>ICACCI</venue><pages>774-780</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/icacci/KolikipoguRK12</key><doi>10.1145/2345396.2345523</doi><ee>http://doi.acm.org/10.1145/2345396.2345523</ee><url>https://dblp.org/rec/conf/icacci/KolikipoguRK12</url></info>
+<url>URL#1803692</url>
+</hit>
+<hit score="2" id="1810643">
+<info><authors><author>Junjie Yao</author><author>Bin Cui 0001</author><author>Liansheng Hua</author><author>Yuxin Huang</author></authors><title>Keyword Query Reformulation on Structured Data.</title><venue>ICDE</venue><pages>953-964</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/icde/YaoCHH12</key><doi>10.1109/ICDE.2012.76</doi><ee>https://doi.org/10.1109/ICDE.2012.76</ee><url>https://dblp.org/rec/conf/icde/YaoCHH12</url></info>
+<url>URL#1810643</url>
+</hit>
+<hit score="2" id="1844787">
+<info><authors><author>Enrico Franconi</author><author>Volha Kerhet</author><author>Nhung Ngo</author></authors><title>Exact Query Reformulation with First-Order Ontologies and Databases.</title><venue>JELIA</venue><pages>202-214</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/jelia/FranconiKN12</key><doi>10.1007/978-3-642-33353-8_16</doi><ee>https://doi.org/10.1007/978-3-642-33353-8_16</ee><url>https://dblp.org/rec/conf/jelia/FranconiKN12</url></info>
+<url>URL#1844787</url>
+</hit>
+<hit score="2" id="1845316">
+<info><authors><author>Safa El Kafsi</author><author>Nesrine Ben Mustapha</author><author>Hajer Baazaoui Zghal</author><author>Antonio Moreno</author></authors><title>Sem-PubMed - a Semantic Medical Digital Library that Integrates Ontology Learning and Query Reformulation.</title><venue>KES</venue><pages>1932-1941</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/kes/KafsiMZM12</key><ee>http://www.booksonline.iospress.nl/Content/View.aspx?piid=32134</ee><url>https://dblp.org/rec/conf/kes/KafsiMZM12</url></info>
+<url>URL#1845316</url>
+</hit>
+<hit score="2" id="1857156">
+<info><authors><author>Khamsum Kinley</author><author>Dian Tjondronegoro</author><author>Helen Partridge</author><author>Sylvia L. Edwards</author></authors><title>Human-computer interaction - the impact of users&apos; cognitive styles on query reformulation behaviour during web searching.</title><venue>OZCHI</venue><pages>299-307</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/ozchi/KinleyTPE12</key><doi>10.1145/2414536.2414586</doi><ee>http://doi.acm.org/10.1145/2414536.2414586</ee><url>https://dblp.org/rec/conf/ozchi/KinleyTPE12</url></info>
+<url>URL#1857156</url>
+</hit>
+<hit score="2" id="1857843">
+<info><authors><author>José M. Perea-Ortega</author><author>Miguel Ángel García Cumbreras</author><author>Luis Alfonso Ureña López</author></authors><title>Applying NLP Techniques for Query Reformulation to Information Retrieval with Geographical References.</title><venue>PAKDD Workshops</venue><pages>57-69</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/pakdd/Perea-OrtegaCL12</key><doi>10.1007/978-3-642-36778-6_6</doi><ee>https://doi.org/10.1007/978-3-642-36778-6_6</ee><url>https://dblp.org/rec/conf/pakdd/Perea-OrtegaCL12</url></info>
+<url>URL#1857843</url>
+</hit>
+<hit score="2" id="1866740">
+<info><authors><author>Matteo Golfarelli</author><author>Federica Mandreoli</author><author>Wilma Penzo</author><author>Stefano Rizzi</author><author>Elisa Turricchia</author></authors><title>A Query Reformulation Framework for P2P OLAP.</title><venue>SEBD</venue><pages>147-154</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/sebd/GolfarelliMPRT12</key><ee>http://sebd2012.dei.unipd.it/documents/188475/cc01ed18-f1c7-464d-820f-56f1235d2f21</ee><url>https://dblp.org/rec/conf/sebd/GolfarelliMPRT12</url></info>
+<url>URL#1866740</url>
+</hit>
+<hit score="2" id="1876090">
+<info><authors><author>Romain Deveaud</author><author>Patrice Bellot</author></authors><title>Combinaison de ressources générales pour une contextualisation implicite de requêtes (Query Contextualization and Reformulation by Combining External Corpora) [in French].</title><venue>JEP-TALN-RECITAL</venue><pages>479-486</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/taln/DeveaudB12</key><ee>https://aclanthology.info/papers/F12-2043/f12-2043</ee><url>https://dblp.org/rec/conf/taln/DeveaudB12</url></info>
+<url>URL#1876090</url>
+</hit>
+<hit score="2" id="1899973">
+<info><authors><author>Sreenivas Gollapudi</author><author>Samuel Ieong</author><author>Anitha Kannan</author></authors><title>Structured Query Reformulations in Commerce Search</title><venue>CoRR</venue><volume>abs/1208.2478</volume><year>2012</year><type>Informal Publications</type><key>journals/corr/abs-1208-2478</key><ee>http://arxiv.org/abs/1208.2478</ee><url>https://dblp.org/rec/journals/corr/abs-1208-2478</url></info>
+<url>URL#1899973</url>
+</hit>
+<hit score="2" id="1908540">
+<info><authors><author>Ounas Asfari</author></authors><title>Personalized Access to Contextual Information by using an Assistant for Query Reformulation. (Personnalisation et Adaptation de L&apos;accès à L&apos;information Contextuelle en utilisant un Assistant Intelligent).</title><year>2011</year><type>Books and Theses</type><key>phd/hal/Asfari11</key><ee>https://tel.archives-ouvertes.fr/tel-00650115</ee><url>https://dblp.org/rec/phd/hal/Asfari11</url></info>
+<url>URL#1908540</url>
+</hit>
+<hit score="2" id="1950574">
+<info><authors><author>Paolo Boldi</author><author>Francesco Bonchi</author><author>Carlos Castillo 0001</author><author>Sebastiano Vigna</author></authors><title>Query reformulation mining - models, patterns, and applications.</title><venue>Inf. Retr.</venue><volume>14</volume><number>3</number><pages>257-289</pages><year>2011</year><type>Journal Articles</type><key>journals/ir/BoldiBCV11</key><doi>10.1007/S10791-010-9155-3</doi><ee>https://doi.org/10.1007/s10791-010-9155-3</ee><url>https://dblp.org/rec/journals/ir/BoldiBCV11</url></info>
+<url>URL#1950574</url>
+</hit>
+<hit score="2" id="2001366">
+<info><authors><author>Yuqing Mao</author><author>Haifeng Shen</author><author>Chengzheng Sun</author></authors><title>A Probabilistic Topic Model with Social Tags for Query Reformulation in Informational Search.</title><venue>ADMA</venue><pages>109-123</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/adma/MaoSS11</key><doi>10.1007/978-3-642-25853-4_9</doi><ee>https://doi.org/10.1007/978-3-642-25853-4_9</ee><url>https://dblp.org/rec/conf/adma/MaoSS11</url></info>
+<url>URL#2001366</url>
+</hit>
+<hit score="2" id="2005339">
+<info><authors><author>Soohyung Joo</author><author>Jee Yeon Lee</author></authors><title>Assessing effectiveness of query reformulations - Analysis of user-generated information retrieval diaries.</title><venue>ASIST</venue><pages>1-2</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/asist/JooL11</key><doi>10.1002/MEET.2011.14504801272</doi><ee>https://doi.org/10.1002/meet.2011.14504801272</ee><url>https://dblp.org/rec/conf/asist/JooL11</url></info>
+<url>URL#2005339</url>
+</hit>
+<hit score="2" id="2016467">
+<info><authors><author>Van Dang</author><author>Xiaobing Xue</author><author>W. Bruce Croft</author></authors><title>Inferring query aspects from reformulations using clustering.</title><venue>CIKM</venue><pages>2117-2120</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/cikm/DangXC11</key><doi>10.1145/2063576.2063904</doi><ee>http://doi.acm.org/10.1145/2063576.2063904</ee><url>https://dblp.org/rec/conf/cikm/DangXC11</url></info>
+<url>URL#2016467</url>
+</hit>
+<hit score="2" id="2016480">
+<info><authors><author>Huizhong Duan</author><author>Rui Li</author><author>ChengXiang Zhai</author></authors><title>Automatic query reformulation with syntactic operators to alleviate search difficulty.</title><venue>CIKM</venue><pages>2037-2040</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/cikm/DuanLZ11</key><doi>10.1145/2063576.2063884</doi><ee>http://doi.acm.org/10.1145/2063576.2063884</ee><url>https://dblp.org/rec/conf/cikm/DuanLZ11</url></info>
+<url>URL#2016480</url>
+</hit>
+<hit score="2" id="2049004">
+<info><authors><author>Jiali Zuo</author><author>Mingwen Wang</author></authors><title>A Query Reformulation Model Using Markov Graphic Method.</title><venue>IALP</venue><pages>119-122</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ialp/ZuoW11</key><doi>10.1109/IALP.2011.62</doi><ee>https://doi.org/10.1109/IALP.2011.62</ee><url>https://dblp.org/rec/conf/ialp/ZuoW11</url></info>
+<url>URL#2049004</url>
+</hit>
+<hit score="2" id="2049243">
+<info><authors><author>Nikos Kirtsis</author><author>Sofia Stamou</author></authors><title>Query Reformulation for Task-Oriented Web Searches.</title><venue>Web Intelligence/IAT Workshops</venue><pages>289-292</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/iat/KirtsisS11</key><doi>10.1109/WI-IAT.2011.20</doi><ee>https://doi.org/10.1109/WI-IAT.2011.20</ee><url>https://dblp.org/rec/conf/iat/KirtsisS11</url></info>
+<url>URL#2049243</url>
+</hit>
+<hit score="2" id="2049703">
+<info><authors><author>Mohamed Ben Aouicha</author><author>Inès Kamoun Fourati</author><author>Mohamed Tmar</author><author>Abdelmajid Ben Hamadou</author></authors><title>Structure-based Interrogation and Automatic Query Reformulation.</title><venue>KMIS</venue><pages>123-128</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ic3k/AouichaFTH11</key><url>https://dblp.org/rec/conf/ic3k/AouichaFTH11</url></info>
+<url>URL#2049703</url>
+</hit>
+<hit score="2" id="2069421">
+<info><authors><author>Manel Elloumi-Chaabene</author><author>Nesrine Ben Mustapha</author><author>Hajer Baazaoui Zghal</author><author>Antonio Moreno</author><author>David Sánchez 0001</author></authors><title>Semantic-based Composition of Modular Ontologies Applied to Web Query Reformulation.</title><venue>ICSOFT</venue><pages>305-308</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/icsoft/Elloumi-ChaabeneMZMS11</key><url>https://dblp.org/rec/conf/icsoft/Elloumi-ChaabeneMZMS11</url></info>
+<url>URL#2069421</url>
+</hit>
+<hit score="2" id="2092904">
+<info><authors><author>Ying-Hsang Liu</author></authors><title>Individual Difference, Query Reformulation and Search Performance in Ad-hoc Search Task.</title><venue>LWA</venue><pages>191-198</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/lwa/Liu11</key><url>https://dblp.org/rec/conf/lwa/Liu11</url></info>
+<url>URL#2092904</url>
+</hit>
+<hit score="2" id="2116234">
+<info><authors><author>Jinming Min</author><author>Gareth J. F. Jones</author></authors><title>External Query Reformulation for Text-Based Image Retrieval.</title><venue>SPIRE</venue><pages>249-260</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/spire/MinJ11</key><doi>10.1007/978-3-642-24583-1_24</doi><ee>https://doi.org/10.1007/978-3-642-24583-1_24</ee><url>https://dblp.org/rec/conf/spire/MinJ11</url></info>
+<url>URL#2116234</url>
+</hit>
+<hit score="2" id="2127005">
+<info><authors><author>Daniel Sheldon</author><author>Milad Shokouhi</author><author>Martin Szummer</author><author>Nick Craswell</author></authors><title>LambdaMerge - merging the results of query reformulations.</title><venue>WSDM</venue><pages>795-804</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/wsdm/SheldonSSC11</key><doi>10.1145/1935826.1935930</doi><ee>http://doi.acm.org/10.1145/1935826.1935930</ee><url>https://dblp.org/rec/conf/wsdm/SheldonSSC11</url></info>
+<url>URL#2127005</url>
+</hit>
+<hit score="2" id="2140417">
+<info><authors><author>Abdelkrim Bouramoul</author><author>Mohamed-Khireddine Kholladi</author><author>Bich-Liên Doan</author></authors><title>PRESY - A Context Based Query Reformulation Tool for Information Retrieval on the Web</title><venue>CoRR</venue><volume>abs/1106.2289</volume><year>2011</year><type>Informal Publications</type><key>journals/corr/abs-1106-2289</key><ee>http://arxiv.org/abs/1106.2289</ee><url>https://dblp.org/rec/journals/corr/abs-1106-2289</url></info>
+<url>URL#2140417</url>
+</hit>
+<hit score="2" id="2144446">
+<info><authors><author>Angela Bonifati</author><author>Gianvito Summa</author><author>Esther Pacitti</author><author>Fady Draidi</author></authors><title>Semantic Query Reformulation in Social PDMS</title><venue>CoRR</venue><volume>abs/1111.6084</volume><year>2011</year><type>Informal Publications</type><key>journals/corr/abs-1111-6084</key><ee>http://arxiv.org/abs/1111.6084</ee><url>https://dblp.org/rec/journals/corr/abs-1111-6084</url></info>
+<url>URL#2144446</url>
+</hit>
+<hit score="2" id="2148534">
+<info><authors><author>Rodolfo Stecher</author></authors><title>Lightweight information integration through partial mapping and query reformulation.</title><pages>1-149</pages><year>2010</year><type>Books and Theses</type><key>phd/de/Stecher2010</key><ee>http://edok01.tib.uni-hannover.de/edoks/e01dh10/627443974.pdf</ee><url>https://dblp.org/rec/phd/de/Stecher2010</url></info>
+<url>URL#2148534</url>
+</hit>
+<hit score="2" id="2191760">
+<info><authors><author>Sooyoung Yoo</author><author>Jinwook Choi</author></authors><title>On the query reformulation technique for effective MEDLINE document retrieval.</title><venue>Journal of Biomedical Informatics</venue><volume>43</volume><number>5</number><pages>686-693</pages><year>2010</year><type>Journal Articles</type><key>journals/jbi/YooC10</key><doi>10.1016/J.JBI.2010.04.005</doi><ee>https://doi.org/10.1016/j.jbi.2010.04.005</ee><url>https://dblp.org/rec/journals/jbi/YooC10</url></info>
+<url>URL#2191760</url>
+</hit>
+<hit score="2" id="2240116">
+<info><authors><author>Chang Liu 0007</author><author>Jacek Gwizdka</author><author>Jingjing Liu</author><author>Tao Xu 0007</author><author>Nicholas J. Belkin</author></authors><title>Analysis and evaluation of query reformulations in different task types.</title><venue>ASIST</venue><pages>1-9</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/asist/0007GLXB10</key><doi>10.1002/MEET.14504701214</doi><ee>https://doi.org/10.1002/meet.14504701214</ee><url>https://dblp.org/rec/conf/asist/0007GLXB10</url></info>
+<url>URL#2240116</url>
+</hit>
+<hit score="2" id="2240258">
+<info><authors><author>Catherine L. Smith</author><author>Nina Wacholder</author></authors><title>Developing a detailed view of query reformulation - One step in an incremental approach.</title><venue>ASIST</venue><pages>1-8</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/asist/SmithW10</key><doi>10.1002/MEET.14504701268</doi><ee>https://doi.org/10.1002/meet.14504701268</ee><url>https://dblp.org/rec/conf/asist/SmithW10</url></info>
+<url>URL#2240258</url>
+</hit>
+<hit score="2" id="2259065">
+<info><authors><author>Matteo Golfarelli</author><author>Federica Mandreoli</author><author>Wilma Penzo</author><author>Stefano Rizzi</author><author>Elisa Turricchia</author></authors><title>Towards OLAP query reformulation in peer-to-peer data warehousing.</title><venue>DOLAP</venue><pages>37-44</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/dolap/GolfarelliMPRT10</key><doi>10.1145/1871940.1871950</doi><ee>http://doi.acm.org/10.1145/1871940.1871950</ee><url>https://dblp.org/rec/conf/dolap/GolfarelliMPRT10</url></info>
+<url>URL#2259065</url>
+</hit>
+<hit score="2" id="2265247">
+<info><authors><author>Radja Messai</author><author>Michel Simonet</author><author>Nathalie Bricon-Souf</author><author>Mireille Mousseau</author></authors><title>Analyzing Health Consumer Terminology for Query Reformulation Tasks.</title><venue>EGC</venue><pages>191-211</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/f-egc/MessaiSBM10</key><doi>10.1007/978-3-642-25838-1_11</doi><ee>https://doi.org/10.1007/978-3-642-25838-1_11</ee><url>https://dblp.org/rec/conf/f-egc/MessaiSBM10</url></info>
+<url>URL#2265247</url>
+</hit>
+<hit score="2" id="2270514">
+<info><authors><author>Nuno Cardoso</author><author>Mário J. Silva</author></authors><title>A GIR architecture with semantic-flavored query reformulation.</title><venue>GIR</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/gir/CardosoS10</key><doi>10.1145/1722080.1722091</doi><ee>http://doi.acm.org/10.1145/1722080.1722091</ee><url>https://dblp.org/rec/conf/gir/CardosoS10</url></info>
+<url>URL#2270514</url>
+</hit>
+<hit score="2" id="2275849">
+<info><authors><author>Ounas Asfari</author><author>Bich-Liên Doan</author><author>Yolaine Bourda</author><author>Jean-Paul Sansonnet</author></authors><title>A Context-based Model for Web Query Reformulation.</title><venue>KDIR</venue><pages>288-293</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/ic3k/AsfariDBS10</key><url>https://dblp.org/rec/conf/ic3k/AsfariDBS10</url></info>
+<url>URL#2275849</url>
+</hit>
+<hit score="2" id="2282352">
+<info><authors><author>Ali Shiri</author></authors><title>Query reformulation strategies in an interdisciplinary digital library - The case of nanoscience and technology.</title><venue>ICDIM</venue><pages>200-206</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icdim/Shiri10</key><doi>10.1109/ICDIM.2010.5664718</doi><ee>https://doi.org/10.1109/ICDIM.2010.5664718</ee><url>https://dblp.org/rec/conf/icdim/Shiri10</url></info>
+<url>URL#2282352</url>
+</hit>
+<hit score="2" id="2297147">
+<info><authors><author>Prabhat Kumar Mahanti</author><author>Mohammed Al-Fayoumi</author><author>Soumya Banerjee</author><author>Feras Al-Obeidat</author></authors><title>Web Query Reformulation Using Differential Evolution.</title><venue>IEA/AIE</venue><pages>484-493</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/ieaaie/MahantiABA10</key><doi>10.1007/978-3-642-13025-0_50</doi><ee>https://doi.org/10.1007/978-3-642-13025-0_50</ee><url>https://dblp.org/rec/conf/ieaaie/MahantiABA10</url></info>
+<url>URL#2297147</url>
+</hit>
+<hit score="2" id="2300544">
+<info><authors><author>Chang Liu 0007</author><author>Jacek Gwizdka</author><author>Jingjing Liu</author></authors><title>Helping identify when users find useful documents - examination of query reformulation intervals.</title><venue>IIiX</venue><pages>215-224</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/iiix/LiuGL10</key><doi>10.1145/1840784.1840816</doi><ee>http://doi.acm.org/10.1145/1840784.1840816</ee><url>https://dblp.org/rec/conf/iiix/LiuGL10</url></info>
+<url>URL#2300544</url>
+</hit>
+<hit score="2" id="2300804">
+<info><authors><author>Thiago Arruda</author><author>Damires Souza</author><author>Ana Carolina Salgado</author></authors><title>PSemRef - personalized query reformulation based on user preferences.</title><venue>iiWAS</venue><pages>683-686</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/iiwas/ArrudaSS10</key><doi>10.1145/1967486.1967595</doi><ee>http://doi.acm.org/10.1145/1967486.1967595</ee><url>https://dblp.org/rec/conf/iiwas/ArrudaSS10</url></info>
+<url>URL#2300804</url>
+</hit>
+<hit score="2" id="2326118">
+<info><authors><author>Nuno Cardoso</author><author>Mário J. Silva</author></authors><title>Experiments with Semantic-flavored Query Reformulation of Geo-Temporal Queries.</title><venue>NTCIR</venue><pages>173-180</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/ntcir/CardosoS10</key><ee>http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings8/NTCIR/05-NTCIR8-GeoTime-CardosoN.pdf</ee><url>https://dblp.org/rec/conf/ntcir/CardosoS10</url></info>
+<url>URL#2326118</url>
+</hit>
+<hit score="2" id="2338049">
+<info><authors><author>Van Dang</author><author>Michael Bendersky</author><author>W. Bruce Croft</author></authors><title>Learning to rank query reformulations.</title><venue>SIGIR</venue><pages>807-808</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/sigir/DangBC10</key><doi>10.1145/1835449.1835626</doi><ee>http://doi.acm.org/10.1145/1835449.1835626</ee><url>https://dblp.org/rec/conf/sigir/DangBC10</url></info>
+<url>URL#2338049</url>
+</hit>
+<hit score="2" id="2338083">
+<info><authors><author>Amac Herdagdelen</author><author>Massimiliano Ciaramita</author><author>Daniel Mahler</author><author>Maria Holmqvist</author><author>Keith B. Hall</author><author>Stefan Riezler</author><author>Enrique Alfonseca</author></authors><title>Generalized syntactic and semantic models of query reformulation.</title><venue>SIGIR</venue><pages>283-290</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/sigir/HerdagdelenCMHHRA10</key><doi>10.1145/1835449.1835498</doi><ee>http://doi.acm.org/10.1145/1835449.1835498</ee><url>https://dblp.org/rec/conf/sigir/HerdagdelenCMHHRA10</url></info>
+<url>URL#2338083</url>
+</hit>
+<hit score="2" id="2351237">
+<info><authors><author>Van Dang</author><author>W. Bruce Croft</author></authors><title>Query reformulation using anchor text.</title><venue>WSDM</venue><pages>41-50</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/wsdm/DangC10</key><doi>10.1145/1718487.1718493</doi><ee>http://doi.acm.org/10.1145/1718487.1718493</ee><url>https://dblp.org/rec/conf/wsdm/DangC10</url></info>
+<url>URL#2351237</url>
+</hit>
+<hit score="2" id="2351742">
+<info><authors><author>Filip Radlinski</author><author>Martin Szummer</author><author>Nick Craswell</author></authors><title>Inferring query intent from reformulations and clicks.</title><venue>WWW</venue><pages>1171-1172</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/www/RadlinskiSC10</key><doi>10.1145/1772690.1772859</doi><ee>http://doi.acm.org/10.1145/1772690.1772859</ee><url>https://dblp.org/rec/conf/www/RadlinskiSC10</url></info>
+<url>URL#2351742</url>
+</hit>
+<hit score="2" id="2351763">
+<info><authors><author>Rodrygo L. T. Santos</author><author>Craig Macdonald</author><author>Iadh Ounis</author></authors><title>Exploiting query reformulations for web search result diversification.</title><venue>WWW</venue><pages>881-890</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/www/SantosMO10</key><doi>10.1145/1772690.1772780</doi><ee>http://doi.acm.org/10.1145/1772690.1772780</ee><url>https://dblp.org/rec/conf/www/SantosMO10</url></info>
+<url>URL#2351763</url>
+</hit>
+<hit score="2" id="2361475">
+<info><authors><author>Yannis Delveroudis</author><author>Paraskevas V. Lekeas</author></authors><title>Managing Semantic Loss during Query Reformulation in Peer Data Management Systems</title><venue>CoRR</venue><volume>abs/1005.5514</volume><year>2010</year><type>Informal Publications</type><key>journals/corr/abs-1005-5514</key><ee>http://arxiv.org/abs/1005.5514</ee><url>https://dblp.org/rec/journals/corr/abs-1005-5514</url></info>
+<url>URL#2361475</url>
+</hit>
+<hit score="2" id="2383920">
+<info><authors><author>Tadeusz Pankowski</author></authors><title>Schema mapping and query reformulation in peer-to-peer XML data integration system.</title><venue>Control and Cybernetics</venue><volume>38</volume><number>1</number><pages>173-192</pages><year>2009</year><type>Journal Articles</type><key>journals/control/Pankowski09</key><ee>http://control.ibspan.waw.pl:3000/contents/export?filename=2009-1-09_pankowski.pdf</ee><url>https://dblp.org/rec/journals/control/Pankowski09</url></info>
+<url>URL#2383920</url>
+</hit>
+<hit score="2" id="2410271">
+<info><authors><author>Bernard J. Jansen</author><author>Danielle L. Booth</author><author>Amanda Spink</author></authors><title>Patterns of query reformulation during Web searching.</title><venue>JASIST</venue><volume>60</volume><number>7</number><pages>1358-1371</pages><year>2009</year><type>Journal Articles</type><key>journals/jasis/JansenBS09</key><doi>10.1002/ASI.21071</doi><ee>https://doi.org/10.1002/asi.21071</ee><url>https://dblp.org/rec/journals/jasis/JansenBS09</url></info>
+<url>URL#2410271</url>
+</hit>
+<hit score="2" id="2455865">
+<info><authors><author>Jeff Huang 0002</author><author>Efthimis N. Efthimiadis</author></authors><title>Studying query reformulation strategies in search logs.</title><venue>ASIST</venue><pages>1-3</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/asist/0002E09</key><doi>10.1002/MEET.2009.14504603117</doi><ee>https://doi.org/10.1002/meet.2009.14504603117</ee><url>https://dblp.org/rec/conf/asist/0002E09</url></info>
+<url>URL#2455865</url>
+</hit>
+<hit score="2" id="2456053">
+<info><authors><author>JungWon Yoon</author><author>EunKyung Chung</author></authors><title>Image query reformulation over different search stages.</title><venue>ASIST</venue><pages>1-5</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/asist/YoonC09</key><doi>10.1002/MEET.2009.14504603121</doi><ee>https://doi.org/10.1002/meet.2009.14504603121</ee><url>https://dblp.org/rec/conf/asist/YoonC09</url></info>
+<url>URL#2456053</url>
+</hit>
+<hit score="2" id="2464328">
+<info><authors><author>Bernard J. Jansen</author><author>Danielle L. Booth</author><author>Amanda Spink</author></authors><title>Predicting query reformulation during web searching.</title><venue>CHI Extended Abstracts</venue><pages>3907-3912</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/chi/JansenBS09</key><doi>10.1145/1520340.1520592</doi><ee>http://doi.acm.org/10.1145/1520340.1520592</ee><url>https://dblp.org/rec/conf/chi/JansenBS09</url></info>
+<url>URL#2464328</url>
+</hit>
+<hit score="2" id="2465883">
+<info><authors><author>Jeff Huang 0002</author><author>Efthimis N. Efthimiadis</author></authors><title>Analyzing and evaluating query reformulation strategies in web search logs.</title><venue>CIKM</venue><pages>77-86</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/cikm/HuangE09</key><doi>10.1145/1645953.1645966</doi><ee>http://doi.acm.org/10.1145/1645953.1645966</ee><url>https://dblp.org/rec/conf/cikm/HuangE09</url></info>
+<url>URL#2465883</url>
+</hit>
+<hit score="2" id="2484771">
+<info><authors><author>Imen Taktak</author><author>Mohamed Tmar</author><author>Abdelmajid Ben Hamadou</author></authors><title>Query Reformulation Based on Relevance Feedback.</title><venue>FQAS</venue><pages>134-144</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/fqas/TaktakTH09</key><doi>10.1007/978-3-642-04957-6_12</doi><ee>https://doi.org/10.1007/978-3-642-04957-6_12</ee><url>https://dblp.org/rec/conf/fqas/TaktakTH09</url></info>
+<url>URL#2484771</url>
+</hit>
+<hit score="2" id="2559819">
+<info><authors><author>Paolo Boldi</author><author>Francesco Bonchi</author><author>Carlos Castillo 0001</author><author>Sebastiano Vigna</author></authors><title>From &quot;Dango&quot; to &quot;Japanese Cakes&quot; - Query Reformulation Models and Patterns.</title><venue>Web Intelligence</venue><pages>183-190</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/webi/BoldiBCV09</key><doi>10.1109/WI-IAT.2009.34</doi><ee>https://doi.org/10.1109/WI-IAT.2009.34</ee><url>https://dblp.org/rec/conf/webi/BoldiBCV09</url></info>
+<url>URL#2559819</url>
+</hit>
+<hit score="2" id="2572091">
+<info><title>Query Reformulation.</title><venue>Encyclopedia of Database Systems</venue><pages>2308</pages><year>2009</year><type>Reference Works</type><key>reference/db/X09xtw</key><doi>10.1007/978-0-387-39940-9_3395</doi><ee>https://doi.org/10.1007/978-0-387-39940-9_3395</ee><url>https://dblp.org/rec/reference/db/X09xtw</url></info>
+<url>URL#2572091</url>
+</hit>
+<hit score="2" id="2616775">
+<info><authors><author>Christina Lioma</author><author>Iadh Ounis</author></authors><title>A syntactically-based query reformulation technique for information retrieval.</title><venue>Inf. Process. Manage.</venue><volume>44</volume><number>1</number><pages>143-162</pages><year>2008</year><type>Journal Articles</type><key>journals/ipm/LiomaO08</key><doi>10.1016/J.IPM.2006.12.005</doi><ee>https://doi.org/10.1016/j.ipm.2006.12.005</ee><url>https://dblp.org/rec/journals/ipm/LiomaO08</url></info>
+<url>URL#2616775</url>
+</hit>
+<hit score="2" id="2626004">
+<info><authors><author>Seungmin Rho</author><author>Byeong-jun Han</author><author>Eenjun Hwang</author><author>Minkoo Kim</author></authors><title>MUSEMBLE - A novel music retrieval system with automatic voice query transcription and reformulation.</title><venue>Journal of Systems and Software</venue><volume>81</volume><number>7</number><pages>1065-1080</pages><year>2008</year><type>Journal Articles</type><key>journals/jss/RhoHHK08</key><doi>10.1016/J.JSS.2007.05.038</doi><ee>https://doi.org/10.1016/j.jss.2007.05.038</ee><url>https://dblp.org/rec/journals/jss/RhoHHK08</url></info>
+<url>URL#2626004</url>
+</hit>
+<hit score="2" id="2670618">
+<info><authors><author>Xuanhui Wang</author><author>ChengXiang Zhai</author></authors><title>Mining term association patterns from search logs for effective query reformulation.</title><venue>CIKM</venue><pages>479-488</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/cikm/WangZ08</key><doi>10.1145/1458082.1458147</doi><ee>http://doi.acm.org/10.1145/1458082.1458147</ee><url>https://dblp.org/rec/conf/cikm/WangZ08</url></info>
+<url>URL#2670618</url>
+</hit>
+<hit score="2" id="2670635">
+<info><authors><author>Yang Xu</author><author>Fan Ding</author><author>Bin Wang 0004</author></authors><title>Entity-based query reformulation using wikipedia.</title><venue>CIKM</venue><pages>1441-1442</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/cikm/XuDW08</key><doi>10.1145/1458082.1458322</doi><ee>http://doi.acm.org/10.1145/1458082.1458322</ee><url>https://dblp.org/rec/conf/cikm/XuDW08</url></info>
+<url>URL#2670635</url>
+</hit>
+<hit score="2" id="2672397">
+<info><authors><author>José M. Perea-Ortega</author><author>Luis Alfonso Ureña López</author><author>Manuel García Vega</author><author>Miguel Angel García Cumbreras</author></authors><title>Using Query Reformulation and Keywords in the Geographic Information Retrieval Task.</title><venue>CLEF</venue><pages>855-862</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/clef/Perea-OrtegaLVC08</key><doi>10.1007/978-3-642-04447-2_112</doi><ee>https://doi.org/10.1007/978-3-642-04447-2_112</ee><url>https://dblp.org/rec/conf/clef/Perea-OrtegaLVC08</url></info>
+<url>URL#2672397</url>
+</hit>
+<hit score="2" id="2684176">
+<info><authors><author>Anna Mastora</author><author>Maria Monopoli</author><author>Sarantos Kapidakis</author></authors><title>Exploring Query Formulation and Reformulation - A Preliminary Study to Map Users&apos; Search Behaviour.</title><venue>ECDL</venue><pages>427-430</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/ercimdl/MastoraMK08</key><doi>10.1007/978-3-540-87599-4_54</doi><ee>https://doi.org/10.1007/978-3-540-87599-4_54</ee><url>https://dblp.org/rec/conf/ercimdl/MastoraMK08</url></info>
+<url>URL#2684176</url>
+</hit>
+<hit score="2" id="2695826">
+<info><authors><author>Rui P. Costa</author><author>Nuno Seco</author></authors><title>Hyponymy Extraction and Web Search Behavior Analysis Based on Query Reformulation.</title><venue>IBERAMIA</venue><pages>332-341</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/iberamia/CostaS08</key><doi>10.1007/978-3-540-88309-8_34</doi><ee>https://doi.org/10.1007/978-3-540-88309-8_34</ee><url>https://dblp.org/rec/conf/iberamia/CostaS08</url></info>
+<url>URL#2695826</url>
+</hit>
+<hit score="2" id="2714399">
+<info><authors><author>Kamran Munir</author><author>Mohammed Odeh</author><author>Richard McClatchey</author></authors><title>Ontology assisted query reformulation using the semantic and assertion capabilities of OWL-DL ontologies.</title><venue>IDEAS</venue><pages>81-90</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/ideas/MunirOM08</key><doi>10.1145/1451940.1451953</doi><ee>http://doi.acm.org/10.1145/1451940.1451953</ee><url>https://dblp.org/rec/conf/ideas/MunirOM08</url></info>
+<url>URL#2714399</url>
+</hit>
+<hit score="2" id="2717508">
+<info><authors><author>Ying-Hsang Liu</author><author>Nicholas J. Belkin</author></authors><title>Query reformulation, search performance, and term suggestion devices in question-answering tasks.</title><venue>IIiX</venue><pages>21-26</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/iiix/LiuB08</key><doi>10.1145/1414694.1414702</doi><ee>http://doi.acm.org/10.1145/1414694.1414702</ee><url>https://dblp.org/rec/conf/iiix/LiuB08</url></info>
+<url>URL#2717508</url>
+</hit>
+<hit score="2" id="2774637">
+<info><authors><author>Kamran Munir</author><author>Mohammed Odeh</author><author>Richard McClatchey</author></authors><title>Ontology Assisted Query Reformulation Using Semantic and Assertion Capabilities of OWL-DL Ontologies</title><venue>CoRR</venue><volume>abs/0812.2879</volume><year>2008</year><type>Informal Publications</type><key>journals/corr/abs-0812-2879</key><ee>http://arxiv.org/abs/0812.2879</ee><url>https://dblp.org/rec/journals/corr/abs-0812-2879</url></info>
+<url>URL#2774637</url>
+</hit>
+<hit score="2" id="2808624">
+<info><authors><author>Bernard J. Jansen</author><author>Mimi Zhang</author><author>Amanda Spink</author></authors><title>Patterns and transitions of query reformulation during web searching.</title><venue>IJWIS</venue><volume>3</volume><number>4</number><pages>328-340</pages><year>2007</year><type>Journal Articles</type><key>journals/ijwis/JansenZS07</key><doi>10.1108/17440080710848116</doi><ee>https://doi.org/10.1108/17440080710848116</ee><url>https://dblp.org/rec/journals/ijwis/JansenZS07</url></info>
+<url>URL#2808624</url>
+</hit>
+<hit score="2" id="2840465">
+<info><authors><author>Thorsten Joachims</author><author>Laura A. Granka</author><author>Bing Pan</author><author>Helene Hembrooke</author><author>Filip Radlinski</author><author>Geri Gay</author></authors><title>Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search.</title><venue>ACM Trans. Inf. Syst.</venue><volume>25</volume><number>2</number><pages>7</pages><year>2007</year><type>Journal Articles</type><key>journals/tois/JoachimsGPHRG07</key><doi>10.1145/1229179.1229181</doi><ee>http://doi.acm.org/10.1145/1229179.1229181</ee><url>https://dblp.org/rec/journals/tois/JoachimsGPHRG07</url></info>
+<url>URL#2840465</url>
+</hit>
+<hit score="2" id="2868916">
+<info><authors><author>Frédéric Roulland</author><author>Aaron N. Kaplan</author><author>Stefania Castellani</author><author>Claude Roux</author><author>Antonietta Grasso</author><author>Karin Pettersson</author><author>Jacki O&apos;Neill</author></authors><title>Query Reformulation and Refinement Using NLP-Based Sentence Clustering.</title><venue>ECIR</venue><pages>210-221</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/ecir/RoullandKCRGPO07</key><doi>10.1007/978-3-540-71496-5_21</doi><ee>https://doi.org/10.1007/978-3-540-71496-5_21</ee><url>https://dblp.org/rec/conf/ecir/RoullandKCRGPO07</url></info>
+<url>URL#2868916</url>
+</hit>
+<hit score="2" id="2937434">
+<info><authors><author>Alessandro Bozzon</author><author>Paul-Alexandru Chirita</author><author>Claudiu S. Firan</author><author>Wolfgang Nejdl</author></authors><title>Lexical analysis for modeling web query reformulation.</title><venue>SIGIR</venue><pages>739-740</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/sigir/BozzonCFN07</key><doi>10.1145/1277741.1277885</doi><ee>http://doi.acm.org/10.1145/1277741.1277885</ee><url>https://dblp.org/rec/conf/sigir/BozzonCFN07</url></info>
+<url>URL#2937434</url>
+</hit>
+<hit score="2" id="2950354">
+<info><authors><author>Xuefeng He</author><author>Jun Yan 0001</author><author>Jinwen Ma</author><author>Ning Liu 0001</author><author>Zheng Chen 0001</author></authors><title>Query topic detection for reformulation.</title><venue>WWW</venue><pages>1187-1188</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/www/HeYMLC07</key><doi>10.1145/1242572.1242758</doi><ee>http://doi.acm.org/10.1145/1242572.1242758</ee><url>https://dblp.org/rec/conf/www/HeYMLC07</url></info>
+<url>URL#2950354</url>
+</hit>
+<hit score="2" id="2959172">
+<info><authors><author>Jinmook Kim</author></authors><title>Relevance judgments and query reformulation by users interacting with a speech retrieval system.</title><year>2006</year><type>Books and Theses</type><key>phd/basesearch/Kim06d</key><ee>http://hdl.handle.net/1903/3509</ee><url>https://dblp.org/rec/phd/basesearch/Kim06d</url></info>
+<url>URL#2959172</url>
+</hit>
+<hit score="2" id="2989042">
+<info><authors><author>Soo Young Rieh</author><author>Hong (Iris) Xie</author></authors><title>Analysis of multiple query reformulations on the web - The interactive information retrieval context.</title><venue>Inf. Process. Manage.</venue><volume>42</volume><number>3</number><pages>751-768</pages><year>2006</year><type>Journal Articles</type><key>journals/ipm/RiehX06</key><doi>10.1016/J.IPM.2005.05.005</doi><ee>https://doi.org/10.1016/j.ipm.2005.05.005</ee><url>https://dblp.org/rec/journals/ipm/RiehX06</url></info>
+<url>URL#2989042</url>
+</hit>
+<hit score="2" id="3008213">
+<info><authors><author>Alin Deutsch</author><author>Lucian Popa 0001</author><author>Val Tannen</author></authors><title>Query reformulation with constraints.</title><venue>SIGMOD Record</venue><volume>35</volume><number>1</number><pages>65-73</pages><year>2006</year><type>Journal Articles</type><key>journals/sigmod/DeutschPT06</key><doi>10.1145/1121995.1122010</doi><ee>http://doi.acm.org/10.1145/1121995.1122010</ee><url>https://dblp.org/rec/journals/sigmod/DeutschPT06</url></info>
+<url>URL#3008213</url>
+</hit>
+<hit score="2" id="3031928">
+<info><authors><author>Nektarios Dourdas</author><author>Xiaohong Zhu</author><author>Neil A. M. Maiden</author><author>Sara Jones</author><author>Konstantinos Zachos</author></authors><title>Discovering Remote Software Services that Satisfy Requirements - Patterns for Query Reformulation.</title><venue>CAiSE</venue><pages>239-254</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/caise/DourdasZMJZ06</key><doi>10.1007/11767138_17</doi><ee>https://doi.org/10.1007/11767138_17</ee><url>https://dblp.org/rec/conf/caise/DourdasZMJZ06</url></info>
+<url>URL#3031928</url>
+</hit>
+<hit score="2" id="3036589">
+<info><authors><author>Krisztian Balog</author><author>Maarten de Rijke</author></authors><title>Index Combinations and Query Reformulations for Mixed Monolingual Web Retrieval.</title><venue>CLEF</venue><pages>830-833</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/clef/BalogR06</key><doi>10.1007/978-3-540-74999-8_104</doi><ee>https://doi.org/10.1007/978-3-540-74999-8_104</ee><url>https://dblp.org/rec/conf/clef/BalogR06</url></info>
+<url>URL#3036589</url>
+</hit>
+<hit score="2" id="3041179">
+<info><authors><author>Peter McBrien</author><author>Alexandra Poulovassilis</author></authors><title>P2P Query Reformulation over Both-As-View Data Transformation Rules.</title><venue>DBISP2P</venue><pages>310-322</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/dbisp2p/McBrienP06</key><doi>10.1007/978-3-540-71661-7_30</doi><ee>https://doi.org/10.1007/978-3-540-71661-7_30</ee><url>https://dblp.org/rec/conf/dbisp2p/McBrienP06</url></info>
+<url>URL#3041179</url>
+</hit>
+<hit score="2" id="3046477">
+<info><authors><author>Umberto Straccia</author><author>Raphaël Troncy</author></authors><title>Towards Distributed Information Retrieval in the Semantic Web - Query Reformulation Using the oMAP Framework.</title><venue>ESWC</venue><pages>378-392</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/esws/StracciaT06</key><doi>10.1007/11762256_29</doi><ee>https://doi.org/10.1007/11762256_29</ee><url>https://dblp.org/rec/conf/esws/StracciaT06</url></info>
+<url>URL#3046477</url>
+</hit>
+<hit score="2" id="3075740">
+<info><authors><author>Sharifullah Khan</author><author>Franck Morvan</author></authors><title>Identifying Relevant Sources in Query Reformulation.</title><venue>iiWAS</venue><pages>357-366</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/iiwas/KhanM06</key><url>https://dblp.org/rec/conf/iiwas/KhanM06</url></info>
+<url>URL#3075740</url>
+</hit>
+<hit score="2" id="3102870">
+<info><authors><author>Bernadette Farias Lóscio</author><author>Thiago Costa</author><author>Ana Carolina Salgado</author></authors><title>Query reformulation for an XML-based data integration system.</title><venue>SAC</venue><pages>498-502</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/sac/LoscioCS06</key><doi>10.1145/1141277.1141393</doi><ee>http://doi.acm.org/10.1145/1141277.1141393</ee><url>https://dblp.org/rec/conf/sac/LoscioCS06</url></info>
+<url>URL#3102870</url>
+</hit>
+<hit score="2" id="3114643">
+<info><authors><author>Biao Qin</author><author>Shan Wang</author><author>Xiaoyong Du</author></authors><title>A Framework for Query Reformulation Between Knowledge Base Peers.</title><venue>WAIM</venue><pages>544-556</pages><year>2006</year><type>Conference and Workshop Papers</type><key>conf/waim/QinWD06</key><doi>10.1007/11775300_46</doi><ee>https://doi.org/10.1007/11775300_46</ee><url>https://dblp.org/rec/conf/waim/QinWD06</url></info>
+<url>URL#3114643</url>
+</hit>
+<hit score="2" id="3124687">
+<info><authors><author>Sven Groppe</author></authors><title>XML Query reformulation for XPath, XSLT and XQuery.</title><pages>1-300</pages><year>2005</year><type>Books and Theses</type><key>phd/de/Groppe2005</key><ee>http://d-nb.info/978702352</ee><url>https://dblp.org/rec/phd/de/Groppe2005</url></info>
+<url>URL#3124687</url>
+</hit>
+<hit score="2" id="3187242">
+<info><authors><author>Tadeusz Pankowski</author></authors><title>Specifying Schema Mappings for Query Reformulation in Data Integration Systems.</title><venue>AWIC</venue><pages>361-366</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/awic/Pankowski05</key><doi>10.1007/11495772_56</doi><ee>https://doi.org/10.1007/11495772_56</ee><url>https://dblp.org/rec/conf/awic/Pankowski05</url></info>
+<url>URL#3187242</url>
+</hit>
+<hit score="2" id="3193475">
+<info><authors><author>Vivien Petras</author></authors><title>How One Word Can Make all the Difference - Using Subject Metadata for Automatic Query Expansion and Reformulation.</title><venue>CLEF</venue><year>2005</year><type>Conference and Workshop Papers</type><key>conf/clef/Petras05a</key><ee>http://ceur-ws.org/Vol-1171/CLEF2005wn-DomainSpecific-Petras2005.pdf</ee><url>https://dblp.org/rec/conf/clef/Petras05a</url></info>
+<url>URL#3193475</url>
+</hit>
+<hit score="2" id="3256822">
+<info><authors><author>Jens Grivolla</author></authors><title>Using Oracle for natural language document retrieval an automatic query reformulation approach.</title><venue>SIGIR</venue><pages>605-606</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/sigir/Grivolla05</key><doi>10.1145/1076034.1076150</doi><ee>http://doi.acm.org/10.1145/1076034.1076150</ee><url>https://dblp.org/rec/conf/sigir/Grivolla05</url></info>
+<url>URL#3256822</url>
+</hit>
+<hit score="2" id="3264748">
+<info><authors><author>Masaharu Yoshioka</author><author>Makoto Haraguchi</author></authors><title>An Appropriate Boolean Query Reformulation Interface for Information Retrieval Based on Adaptive Generalization.</title><venue>WIRI</venue><pages>145-150</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/wiri/YoshiokaH05</key><doi>10.1109/WIRI.2005.6</doi><ee>https://doi.org/10.1109/WIRI.2005.6</ee><url>https://dblp.org/rec/conf/wiri/YoshiokaH05</url></info>
+<url>URL#3264748</url>
+</hit>
+<hit score="2" id="3322789">
+<info><authors><author>Chokri Ben Necib</author><author>Johann Christoph Freytag</author></authors><title>Using Ontologies for Database Query Reformulation.</title><venue>ADBIS</venue><year>2004</year><type>Conference and Workshop Papers</type><key>conf/adbis/NecibF04</key><ee>http://www.sztaki.hu/conferences/ADBIS/14-Necib.pdf</ee><url>https://dblp.org/rec/conf/adbis/NecibF04</url></info>
+<url>URL#3322789</url>
+</hit>
+<hit score="2" id="3327434">
+<info><authors><author>Sven Groppe</author><author>Stefan Böttcher</author></authors><title>Query Reformulation for the XML standards XPath, XQuery and XSLT.</title><venue>Berliner XML Tage</venue><pages>53-64</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/bxml/GroppeB04</key><url>https://dblp.org/rec/conf/bxml/GroppeB04</url></info>
+<url>URL#3327434</url>
+</hit>
+<hit score="2" id="3337481">
+<info><authors><author>Anis Benammar</author></authors><title>Enhancing query reformulation by combinig content and hypertext analyses.</title><venue>ECIS</venue><pages>200-210</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/ecis/Benammar04</key><ee>http://aisel.aisnet.org/ecis2004/9</ee><url>https://dblp.org/rec/conf/ecis/Benammar04</url></info>
+<url>URL#3337481</url>
+</hit>
+<hit score="2" id="3374546">
+<info><authors><author>Diego Calvanese</author><author>Giuseppe De Giacomo</author><author>Domenico Lembo</author><author>Maurizio Lenzerini</author><author>Riccardo Rosati</author></authors><title>What to Ask to a Peer - Ontolgoy-based Query Reformulation.</title><venue>KR</venue><pages>469-478</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/kr/CalvaneseGLLR04</key><ee>http://www.aaai.org/Library/KR/2004/kr04-049.php</ee><url>https://dblp.org/rec/conf/kr/CalvaneseGLLR04</url></info>
+<url>URL#3374546</url>
+</hit>
+<hit score="2" id="3379201">
+<info><authors><author>Hal Daumé III</author><author>Eric Brill</author></authors><title>Web Search Intent Induction via Automatic Query Reformulation.</title><venue>HLT-NAACL</venue><year>2004</year><type>Conference and Workshop Papers</type><key>conf/naacl/DaumeB04</key><ee>https://aclanthology.info/papers/N04-4013/n04-4013</ee><url>https://dblp.org/rec/conf/naacl/DaumeB04</url></info>
+<url>URL#3379201</url>
+</hit>
+<hit score="2" id="3387231">
+<info><authors><author>Diego Calvanese</author><author>Giuseppe De Giacomo</author><author>Domenico Lembo</author><author>Maurizio Lenzerini</author><author>Riccardo Rosati</author></authors><title>Query Reformulation over Ontology-based Peers.</title><venue>SEBD</venue><pages>418-425</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/sebd/CalvaneseGLLR04</key><url>https://dblp.org/rec/conf/sebd/CalvaneseGLLR04</url></info>
+<url>URL#3387231</url>
+</hit>
+<hit score="2" id="3389439">
+<info><authors><author>Igor Tatarinov</author><author>Alon Y. Halevy</author></authors><title>Efficient Query Reformulation in Peer-Data Management Systems.</title><venue>SIGMOD Conference</venue><pages>539-550</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/sigmod/TatarinovH04</key><doi>10.1145/1007568.1007629</doi><ee>http://doi.acm.org/10.1145/1007568.1007629</ee><url>https://dblp.org/rec/conf/sigmod/TatarinovH04</url></info>
+<url>URL#3389439</url>
+</hit>
+<hit score="2" id="3502413">
+<info><authors><author>Qingyuan Bai</author><author>Jun Hong 0001</author><author>Michael F. McTear</author></authors><title>Scalable Query Reformulation Using Views in the Presence of Functional Dependencies.</title><venue>WAIM</venue><pages>471-482</pages><year>2003</year><type>Conference and Workshop Papers</type><key>conf/waim/BaiHM03</key><doi>10.1007/978-3-540-45160-0_46</doi><ee>https://doi.org/10.1007/978-3-540-45160-0_46</ee><url>https://dblp.org/rec/conf/waim/BaiHM03</url></info>
+<url>URL#3502413</url>
+</hit>
+<hit score="2" id="3612929">
+<info><authors><author>Nicholas J. Belkin</author><author>Colleen Cool</author><author>Diane Kelly 0001</author><author>Shin-jeng Lin</author><author>Soyeon Park</author><author>Jose Perez Carballo</author><author>C. Sikora</author></authors><title>Iterative exploration, design and evaluation of support for query reformulation in interactive information retrieval.</title><venue>Inf. Process. Manage.</venue><volume>37</volume><number>3</number><pages>403-434</pages><year>2001</year><type>Journal Articles</type><key>journals/ipm/BelkinCKLPCS01</key><doi>10.1016/S0306-4573(00)00055-8</doi><ee>https://doi.org/10.1016/S0306-4573(00)00055-8</ee><url>https://dblp.org/rec/journals/ipm/BelkinCKLPCS01</url></info>
+<url>URL#3612929</url>
+</hit>
+<hit score="2" id="3667641">
+<info><authors><author>Domenico Beneventano</author><author>Sonia Bergamaschi</author><author>Francesco Guerra 0001</author><author>Maurizio Vincini</author></authors><title>Exploiting Extensional Knowledge for Query Reformulation and Object Fusion in a Data Integration System.</title><venue>SEBD</venue><pages>257-271</pages><year>2001</year><type>Conference and Workshop Papers</type><key>conf/sebd/BeneventanoBGV01</key><url>https://dblp.org/rec/conf/sebd/BeneventanoBGV01</url></info>
+<url>URL#3667641</url>
+</hit>
+<hit score="2" id="3691535">
+<info><authors><author>Amanda Spink</author><author>Bernard J. Jansen</author><author>H. Cenk Ozmultu</author></authors><title>Use of query reformulation and relevance feedback by Excite users.</title><venue>Internet Research</venue><volume>10</volume><number>4</number><pages>317-328</pages><year>2000</year><type>Journal Articles</type><key>journals/intr/SpinkJO00</key><doi>10.1108/10662240010342621</doi><ee>https://doi.org/10.1108/10662240010342621</ee><url>https://dblp.org/rec/journals/intr/SpinkJO00</url></info>
+<url>URL#3691535</url>
+</hit>
+<hit score="2" id="3744749">
+<info><authors><author>Peter Bruza</author><author>Robert McArthur</author><author>Simon Dennis</author></authors><title>Interactive Internet search - keyword, directory and query reformulation mechanisms compared.</title><venue>SIGIR</venue><pages>280-287</pages><year>2000</year><type>Conference and Workshop Papers</type><key>conf/sigir/BruzaMD00</key><doi>10.1145/345508.345598</doi><ee>http://doi.acm.org/10.1145/345508.345598</ee><url>https://dblp.org/rec/conf/sigir/BruzaMD00</url></info>
+<url>URL#3744749</url>
+</hit>
+<hit score="2" id="3797454">
+<info><authors><author>Kriengkrai Porkaew</author><author>Michael Ortega</author><author>Sharad Mehrotra</author></authors><title>Query Reformulation for Content Based Multimedia Retrieval in MARS.</title><venue>ICMCS, Vol. 2</venue><pages>747-751</pages><year>1999</year><type>Conference and Workshop Papers</type><key>conf/icmcs/PorkaewOM99</key><doi>10.1109/MMCS.1999.778578</doi><ee>https://doi.org/10.1109/MMCS.1999.778578</ee><url>https://dblp.org/rec/conf/icmcs/PorkaewOM99</url></info>
+<url>URL#3797454</url>
+</hit>
+<hit score="2" id="3821532">
+<info><authors><author>Michael Rebhan</author><author>Vered Chalifa-Caspi</author><author>J. Prilusky</author><author>Doron Lancet</author></authors><title>GeneCards - a novel functional genomics compendium with automated data mining and query reformulation support.</title><venue>Bioinformatics</venue><volume>14</volume><number>8</number><pages>656-664</pages><year>1998</year><type>Journal Articles</type><key>journals/bioinformatics/RebhanCPL98</key><ee>http://bioinformatics.oxfordjournals.org/content/14/8/656.abstract</ee><url>https://dblp.org/rec/journals/bioinformatics/RebhanCPL98</url></info>
+<url>URL#3821532</url>
+</hit>
+<hit score="2" id="3850718">
+<info><authors><author>Jae-young Chang</author><author>Sang-goo Lee</author></authors><title>An Extended Query Reformulation Technique Using Materialized Views.</title><venue>DEXA Workshop</venue><pages>931-936</pages><year>1998</year><type>Conference and Workshop Papers</type><key>conf/dexaw/ChangL98</key><doi>10.1109/DEXA.1998.707517</doi><ee>https://doi.org/10.1109/DEXA.1998.707517</ee><url>https://dblp.org/rec/conf/dexaw/ChangL98</url></info>
+<url>URL#3850718</url>
+</hit>
+<hit score="2" id="3851164">
+<info><authors><author>Jae-young Chang</author><author>Sang-goo Lee</author></authors><title>Query Reformulation Using Materialized Views in Data Warehousing Environment.</title><venue>DOLAP</venue><pages>54-59</pages><year>1998</year><type>Conference and Workshop Papers</type><key>conf/dolap/ChangL98</key><doi>10.1145/294260.294272</doi><ee>http://doi.acm.org/10.1145/294260.294272</ee><url>https://dblp.org/rec/conf/dolap/ChangL98</url></info>
+<url>URL#3851164</url>
+</hit>
+<hit score="2" id="3890039">
+<info><authors><author>James C. French</author><author>Donald E. Brown</author><author>Nam-Ho Kim</author></authors><title>A Classification Approach to Boolean Query Reformulation.</title><venue>JASIS</venue><volume>48</volume><number>8</number><pages>694-706</pages><year>1997</year><type>Journal Articles</type><key>journals/jasis/FrenchBK97</key><doi>10.1002/(SICI)1097-4571(199708)48:8&lt;694::AID-ASI3&gt;3.0.CO;2-N</doi><ee>https://doi.org/10.1002/(SICI)1097-4571(199708)48:8&lt;694::AID-ASI3&gt;3.0.CO;2-N</ee><url>https://dblp.org/rec/journals/jasis/FrenchBK97</url></info>
+<url>URL#3890039</url>
+</hit>
+<hit score="2" id="3924649">
+<info><authors><author>Peter Bruza</author><author>Simon Dennis</author></authors><title>Query Reformulation on the Internet - Empirical Data and the Hyperindex Search Engine.</title><venue>RIAO</venue><pages>488-500</pages><year>1997</year><type>Conference and Workshop Papers</type><key>conf/riao/BruzaD97</key><url>https://dblp.org/rec/conf/riao/BruzaD97</url></info>
+<url>URL#3924649</url>
+</hit>
+<hit score="2" id="3927914">
+<info><authors><author>Wen-Syan Li</author><author>K. Selçuk Candan</author><author>Kyoji Hirata</author><author>Yoshinori Hara</author></authors><title>Facilitating Multimedia Database Exploration through Visual Interfaces and Perpetual Query Reformulations.</title><venue>VLDB</venue><pages>538-547</pages><year>1997</year><type>Conference and Workshop Papers</type><key>conf/vldb/LiCHH97</key><ee>http://www.vldb.org/conf/1997/P538.PDF</ee><url>https://dblp.org/rec/conf/vldb/LiCHH97</url></info>
+<url>URL#3927914</url>
+</hit>
+<hit score="2" id="3939116">
+<info><authors><author>Daniela Florescu</author><author>Louiqa Raschid</author><author>Patrick Valduriez</author></authors><title>A Methodology for Query Reformulation in CIS Using Semantic Knowledge.</title><venue>Int. J. Cooperative Inf. Syst.</venue><volume>5</volume><number>4</number><pages>431-468</pages><year>1996</year><type>Journal Articles</type><key>journals/ijcis/FlorescuRV96</key><doi>10.1142/S0218843096000166</doi><ee>https://doi.org/10.1142/S0218843096000166</ee><url>https://dblp.org/rec/journals/ijcis/FlorescuRV96</url></info>
+<url>URL#3939116</url>
+</hit>
+<hit score="2" id="3943075">
+<info><authors><author>Yigal Arens</author><author>Craig A. Knoblock</author><author>Wei-Min Shen</author></authors><title>Query Reformulation for Dynamic Information Integration.</title><venue>J. Intell. Inf. Syst.</venue><volume>6</volume><number>2/3</number><pages>99-130</pages><year>1996</year><type>Journal Articles</type><key>journals/jiis/ArensKS96</key><doi>10.1007/BF00122124</doi><ee>https://doi.org/10.1007/BF00122124</ee><url>https://dblp.org/rec/journals/jiis/ArensKS96</url></info>
+<url>URL#3943075</url>
+</hit>
+<hit score="2" id="4146906">
+<info><authors><author>Susan Gauch</author><author>John B. Smith</author></authors><title>Search Improvement via Automatic Query Reformulation.</title><venue>ACM Trans. Inf. Syst.</venue><volume>9</volume><number>3</number><pages>249-280</pages><year>1991</year><type>Journal Articles</type><key>journals/tois/GauchS91</key><doi>10.1145/125187.125193</doi><ee>http://doi.acm.org/10.1145/125187.125193</ee><url>https://dblp.org/rec/journals/tois/GauchS91</url></info>
+<url>URL#4146906</url>
+</hit>
+<hit score="2" id="4153019">
+<info><authors><author>Sang-goo Lee</author><author>Lawrence J. Henschen</author><author>Ghassan Z. Qadah</author></authors><title>Semantic Query Reformulation in Deductive Databases.</title><venue>ICDE</venue><pages>232-239</pages><year>1991</year><type>Conference and Workshop Papers</type><key>conf/icde/LeeHQ91</key><doi>10.1109/ICDE.1991.131470</doi><ee>https://doi.org/10.1109/ICDE.1991.131470</ee><url>https://dblp.org/rec/conf/icde/LeeHQ91</url></info>
+<url>URL#4153019</url>
+</hit>
+<hit score="2" id="4175814">
+<info><authors><author>Sang-goo Lee</author><author>Donghoon Shin</author></authors><title>Semantic and structural query reformulation for efficient manipulation of very large knowledge bases.</title><venue>COMPSAC</venue><pages>369-374</pages><year>1990</year><type>Conference and Workshop Papers</type><key>conf/compsac/LeeS90</key><doi>10.1109/CMPSAC.1990.139386</doi><ee>https://doi.org/10.1109/CMPSAC.1990.139386</ee><url>https://dblp.org/rec/conf/compsac/LeeS90</url></info>
+<url>URL#4175814</url>
+</hit>
+<hit score="2" id="4250957">
+<info><authors><author>Yvette Mathieu</author><author>Paul Sabatier</author></authors><title>INTERFACILE - Linguistic Coverage and Query Reformulation.</title><venue>COLING</venue><pages>46-49</pages><year>1986</year><type>Conference and Workshop Papers</type><key>conf/coling/MathieuS86</key><ee>http://aclweb.org/anthology/C/C86/C86-1009.pdf</ee><url>https://dblp.org/rec/conf/coling/MathieuS86</url></info>
+<url>URL#4250957</url>
+</hit>
+<hit score="2" id="4256946">
+<info><authors><author>P. M. da Silveira</author></authors><title>Database design and query reformulation with an inference machine.</title><year>1985</year><type>Books and Theses</type><key>phd/ethos/Silveira85</key><ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.356551</ee><url>https://dblp.org/rec/phd/ethos/Silveira85</url></info>
+<url>URL#4256946</url>
+</hit>
+</hits>
+</result>

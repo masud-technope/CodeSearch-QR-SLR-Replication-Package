@@ -1,0 +1,5 @@
+4
+Query expansion based on statistical learning from code changes
+Modeling multiple interactions with a Markov random field in query expansion for session search
+Impact of structural weighting on a latent Dirichlet allocation–based feature location technique
+Detecting temporal patterns of user queries

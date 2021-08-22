@@ -1,0 +1,8 @@
+M1: Term weighting and relevance feedback 
+M2: Dependency graph mining
+M3: Semantic relations, co-occurrences, and thesaurus 
+M4: Domain ontology and syntactic relations
+M5: Machine learning,  query difficulty analysis, and word embeddings
+M6: Data mining and API recommendation
+M7: Genetic algorithms
+M8: Miscellaneous

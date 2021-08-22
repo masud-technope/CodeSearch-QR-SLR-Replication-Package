@@ -1,0 +1,31 @@
+30
+Assisting code search with automatic Query Reformulation for bug localization
+Query quality prediction and reformulation for source code search: The Refoqus tool
+Query expansion via WordNet for effective code search
+Dictionary-Based Query Recommendation for Local Code Search
+Thesaurus-based automatic query expansion for interface-driven code search
+How developers use multi-recommendation system in local code search
+NL-based query refinement and contextualized code search results: A user study
+STRICT: Information retrieval based search term identification for concept location
+Design and evaluation of a multi-recommendation system for local code search
+Augmenting and structuring user queries to support efficient free-form code search
+RACK: Automatic API Recommendation Using Crowdsourced Knowledge
+Automatic search term identification for change tasks
+Improving bug localization with report quality dynamics and query reformulation
+Query Expansion Based on Crowd Knowledge for Code Search
+Precise and scalable querying of syntactical source code patterns using sample code snippets and a database
+Towards query formulation and visualization of structural search results
+Supporting query formulation for text retrieval applications in software engineering
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Improved query reformulation for concept location using CodeRank and document structures
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+QUICKAR : Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge
+Automatic query reformulations for feature location in a model-based family of software products
+Query reformulation by leveraging crowd wisdom for scenario-based software search
+Can the use of types and query expansion help improve large-scale code search?
+CONQUER: A tool for NL-based query refinement & contextualizing code search results
+A search log mining based query expansion technique to improve effectiveness in code search
+RACK: Code search in the IDE using crowdsourced knowledge
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Using thesaurus-based tag clouds to improve test-driven code search
+APIBook - An effective approach for finding APIs

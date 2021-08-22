@@ -1,0 +1,56 @@
+S1 a noun-based approach to feature location using time-aware term-weighting
+S2 a search log mining based query expansion technique to improve effectiveness in code search
+S3 a test-driven approach to code search and its application to the reuse of auxiliary functionality
+S4 active code search: incorporating user feedback to improve code search relevance
+S5 apibook: an effective approach for finding apis
+S6 assisting code search with automatic query reformulation for bug localization
+S7 augmenting and structuring user queries to support efficient free-form code search
+S8 automatic query performance assessment during the retrieval of software artifacts
+S9 automatic query reformulations for feature location in a model-based family of software products
+S10 automatic query reformulations for text retrieval in software engineering
+S11 automatic search term identification for change tasks
+S12 automatically capturing source code context of nl-queries for software maintenance and reuse
+S13 can the use of types and query expansion help improve large-scale code search?
+S14 codeexchange: supporting reformulation of internet-scale code queries in context
+S15 codehow: effective code search based on api understanding and extended boolean model
+S16 correlation-based software search by leveraging software term database
+S17 design and evaluation of a multi-recommendation system for local code search
+S18 discovering remote software services that satisfy requirements - patterns for query reformulation.
+S19 effective reformulation of query for code search using crowdsourced knowledge and extra-large data analytics
+S20 expanding queries for code search using semantically related api class-names
+S21 exploiting spatial code proximity and order for improved source code retrieval for bug localization
+S22 improved query reformulation for concept location using coderank and document structures
+S23 improving feature location by transforming the query from natural language into requirements
+S24 improving feature location practice with multi-faceted interactive exploration
+S25 improving ir-based bug localization with context-aware query reformulation
+S26 improving software text retrieval using conceptual knowledge in source code
+S27 swordnet: inferring semantically related words from software context
+S28 automatically mining software-based, semantically-similar words from comment-code mappings
+S29 on the reduction of verbose queries in text retrieval based software maintenance
+S30 on the use of relevance feedback in ir-based concept location
+S31 precise and scalable querying of syntactical source code patterns using sample code snippets and a database
+S32 predicting query quality for applications of text retrieval to software engineering tasks
+S33 query by example in large-scale code repositories
+S34 query expansion based on crowd knowledge for code search
+S35 query expansion based on statistical learning from code changes
+S36 query expansion via wordnet for effective code search
+S37 query reformulation by leveraging crowd wisdom for scenario-based software search
+S38 quickar : automatic query reformulation for concept location using crowdsourced knowledge
+S39 rack: automatic api recommendation using crowdsourced knowledge
+S40 strict: information retrieval based search term identification for concept location
+S41 swim: synthesizing what i mean: code search and idiomatic snippet synthesis
+S42 thesaurus-based automatic query expansion for interface-driven code search
+S43 using natural language program analysis to locate and understand action-oriented concerns
+S44 using observed behavior to reformulate queries during text retrieval-based bug localization
+S45 A dictionary to translate change tasks to source code
+S46 Interactive Synthesis Using Free-form Queries
+S47 Querying source code with natural language
+S48 Supporting developers with natural language queries
+S49 Anne: Improving Source Code Search using Entity Retrieval Approach
+S50 An information retrieval approach to concept location in source code
+S51 Towards Mining Replacement Queries for Hard-to-retrieve Traces
+S52 Learning effective query transformations for enhanced requirements trace retrieval
+S53 Understanding developers' natural language queries with interactive clarification
+S54 impact of structural weighting on a latent dirichlet allocation based feature location technique
+S55 SNIFF: A Search Engine for Java Using Free-Form Queries
+S56: AutoQuery: automatic construction of dependency queries for code search

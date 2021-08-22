@@ -1,0 +1,205 @@
+#Noise in search query and Unsolved vocabulary mismatch problem
+potential noise in query 8
+potential noise 2
+potential noise in candidate apis 2
+low quality query issue 2
+potential noise in term selection 1
+might be noisy for mutliple types per statement 1
+potential noise in extended query 1
+issues with low quality queries 1
+noisy query for code search 1
+redundant api classes 1
+low-quality-query-issue 1
+potential-for-noisy-query-keywords 1
+difficulty with noisy queries 1
+low-quality-bug-reports 1
+noisy/irrelevant code segments 1
+potential noise in terms 1
+potential noise from task contexts 1
+query verbosity 1
+noisy/low quality query issue 1
+low quality bug report 1
+misclassified-pos 1
+pos tagging issues 1
+potential misclassification of bug reports 1
+*vocabilary-mismatch-problem
+vocabulary mismatch problem 6
+out-of-vocabulary-issue 1
+subject-to-vocabulary-mismatch-problem 1
+*corpus-identifier-issues
+bad-identifier-naming-practices 2
+subject to documentation quality 2
+bad identifier naming practices 1
+v-do does not apply always 1
+software project naming ambiguity 1
+
+
+#Extra cognitive burden on the developers
+extra burden on developers 8
+developer feedback warranted 2
+software documentation warranted 2
+extra burden of test case generation 1
+developer involvement warranted in query reformulation 1
+potential information overload 1
+warrant up-front re-documentation of code 1
+well designed query needed 1
+learning curve in query 1
+suggested queries could be complex to understand 1
+some learning curve 1
+counter-intuitive motivation 1
+ginseng-guided query 1
+
+
+
+#Lack of generalizability
+lack of generalizability 19
+java specific systems 3
+one tr engine only 2
+open-source-project-only 1
+specific-to-java-systems-only 1
+one-subject-system-only 1
+single tr engine only 1
+limited to small queries 1
+oss vs closed source generalization 1
+lack-of-generalizability 1
+subject-to-proprietary-dataset 1
+java specfici systems 1
+inappropriate for cross-domain projects 1
+*small-dataset
+small dataset 18
+small dataset for queries/code search 5
+small dataset in query 3
+small dataset in testing 1
+small-dataset 1
+small dataset/corpus 1
+small code/feature size 1
+small dataset (20 queries) 1
+lack of user queries 1
+
+
+
+#Issues towards practical adoption
+impractical for use 1
+lack of scalability 1
+potentiall infeasible for practical use due to high cost of training 1
+lack of reproducibility 1
+high complexity 1
+lack of usability 1
+hard-to-replicate-or-reproduce 1
+limited to auxiliary tasks 1
+*costly-computation-involved
+potentially high costs for ast 1
+time consuming 1
+high cost of ontology construction from multiple domains 1
+potentially high costs 1
+genetic-algorithm-costly 1
+regular-expression-is-costly 1
+costly-ast-creation 1
+*parameter-config-issue
+parameter-calibration-not-rigorous 1
+parameter config issues 1
+too many parameter tuning 1
+no best config provided 1
+hard coded thresholds for contexts 1
+need-to-know-ground-truth 2
+dimensionality reduction issue 1
+curse of dimensionality 1
+
+
+#Human bias and Weak evaluation
+subjectivity in relevance 7
+potential bias in evaluation 3
+biased queries for direct linking 3
+pos-tagger's-training-bias 1
+subjectivity in goldset 1
+human bias in goldset 1
+bias in goldset links 1
+replication bias 1
+biased towards expert developers 1
+subjectivity in determining equivalent groups 1
+bias during sentence labeling 1
+subjectivity in query selection 1
+pos tagger's training bias 1
+developer bias in relevance 1
+false-positive-code-labeling 1
+training bias 1
+subject to developer expertise 1
+assumption of relevant web results 1
+*problems-with-evaluation-validation
+lack-of-popular-metrics 2
+map. only tested hit@k and recall. 1
+lack-of-appropriate-validation 1
+limited-evaluation-validation 1
+lack of statistical significance 1
+issue with map calculation 1
+lack of validation 1
+lack of evaluation in application 1
+config and evaluation bias 1
+lack of benchmark 1
+lack of appropriate baselines 1
+lack of validation (empirical) 1
+lack-of-popular-baseline 1
+inappropriate comparison 1
+lack of empirical evaluation 1
+lack of appropriate metric 1
+weak empirical evaluation 1
+precision not reported 1
+potentially unfair comparison 1
+possible model overfitting 1
+
+
+#Inappropriate use of tools and Strong external dependencies
+subject to code change history 1
+subject to semantic web engine 1
+subject-to-availability-of-attachment 1
+restricted to underlying ontology 1
+subject to search engines 1
+subject to graph-mining method 1
+subject to given code examples 1
+limited to software search 1
+subject to so tags 1
+
+
+#Lack of sound theory
+lack-of-theoretical-support 1
+not-a-perfect-fitness-function 1
+weak fitness function 1
+weak proxy of relevance 1
+non-substantiated assumptions 1
+intent-from-change-terms-unorthodox 1
+weak theory behind ob for qr 1
+close corpus assumption 1
+
+
+#Miscellaneous
+limited to single entities only 1
+limited to existing code elements only 1
+insufficient recommendation 1
+bug-chronology-not-respected 1
+full dependence on corpus 1
+*semantic-relevance-issue
+nl-to-code semantic issues 1
+lack of semantic classification 1
+irrelevant statements = dissimilar acorss segments 1
+semantic agnostic approach 1
+infeasible semantic similarity calculation 1
+lexical similarity between query and chunk might not be an ideal approach 1
+pairwise api similarity matching 1
+text-based-code-similarity 1
+insensitive to bug report structures 1
+regular-expression-is-error-prone 1
+might fail with nested entities 1
+false-positive-code-labeling
+
+
+
+
+
+
+
+
+
+
+
+
+

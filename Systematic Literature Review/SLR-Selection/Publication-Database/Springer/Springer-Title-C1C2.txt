@@ -1,0 +1,48 @@
+47
+Text Retrieval Approaches for Concept Location in Source Code
+Leveraging Source Code Search for Reuse
+Natural Language-Based Software Analyses and Tools for Software Maintenance
+Reuse-Oriented Code Recommendation Systems
+Search in Source Code Based on Identifying Popular Fragments
+From Specification to Experimentation: A Software Component Search Engine Architecture
+An Improved Method Level Bug Localization Approach Using Minimized Code Space
+RESource: A Framework for Online Matching of Assembly with Open Source Code
+On the Synergy between Search-Based and Search-Driven Software Engineering
+Conclave: Ontology-Driven Measurement of Semantic Relatedness between Source Code Elements and Problem Domain Concepts
+On the influence of program constructs on bug localization effectiveness
+Roundtable: Research Opportunities and Challenges for Large-Scale Software Systems
+Improving the Performance of Pipelined Query Processing with Skipping
+Inference Based Query Expansion Using User’s Real Time Implicit Feedback
+Using Concept Lattices for Text Retrieval and Mining
+A Continuous Query Processing Method in Broadcast Environments
+Improving Interoperability Using Query Interpretation in Semantic Vector Spaces
+Finding Similar Queries to Satisfy Searches Based on Query Traces
+Relationship-Based Top-K Concept Retrieval for Ontology Search
+Query Terms Abstraction Layers
+Concept Search
+A Formal Concept Analysis-Based Domain-Specific Thesaurus and Its Application in Document Representation
+Adaptive Processing for Continuous Query over Data Stream
+Using visual ER query systems in real world applications
+Evaluating k Nearest Neighbor Query on Road Networks with no Information Leakage
+EQL: Event Query Language for the Sharing of Internet-of-Things Infrastructure and Collaborative Applications Development
+Reverse Furthest Neighbors Query in Road Networks
+Query Performance Prediction for Information Retrieval Based on Covering Topic Score
+Summarizing Software Artifacts: A Literature Review
+A Study of Concurrency Bugs in an Open Source Software
+Applying User Feedback and Query Learning Methods to Multiple Communities
+Optimal Genetic Query Algorithm for Information Retrieval
+Software Mining Studies: Goals, Approaches, Artifacts, and Replicability
+Query evaluation with null values: How complex is completeness?
+Platform Independent Software Development Monitoring: Design of an Architecture
+Exploiting Title-Keywords Relation to Develop Concept Classifier for Scientific Community
+An Approach to Semantic Information Retrieval Based on Natural Language Query Understanding
+Selection Based Comparative Summarization of Search Results Using Concept Based segmentation
+Learning Query Ambiguity Models by Using Search Logs
+Euro-Mediterranean Centre for Climate Change Data Grid
+Software Development Support for Shared Sensing Infrastructures: A Generative and Dynamic Approach
+A Systematic Review of Software Requirements Selection and Prioritization Using SBSE Approaches
+Conjunctive Query Answering in Probabilistic Datalog+/– Ontologies
+Concept framework for audio information retrieval: ARF
+Automatically Solving Simultaneous Type Equations for Type Difference Transformations That Redesign Code
+A browser for software reuse
+Software Process Simulation Modeling: An Extended Systematic Review

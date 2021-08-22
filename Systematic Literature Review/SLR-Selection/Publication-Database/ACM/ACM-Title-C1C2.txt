@@ -1,0 +1,41 @@
+40
+Dictionary-based Query Recommendation for Local Code Search
+What Do Developers Search for in Source Code and Why
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Query Quality Prediction and Reformulation for Source Code Search: The Refoqus Tool
+Sourcerer: A Search Engine for Open Source Code Supporting Structure-based Search
+Automatic Query Performance Assessment During the Retrieval of Software Artifacts
+Automatic Search Term Identification for Change Tasks
+Thesaurus-based Automatic Query Expansion for Interface-driven Code Search
+Towards Query Formulation and Visualization of Structural Search Results
+User Intent Transition for Explicit Collaborative Search Through Groups Recommendation
+Typestate-based Semantic Code Search over Partial Programs
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+On the Equilibrium of Query Reformulation and Document Retrieval
+Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search
+Improving IR-based Bug Localization with Context-aware Query Reformulation
+QUICKAR: Automatic Query Reformulation for Concept Location Using Crowdsourced Knowledge
+From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering
+Query Expansion Using Associated Queries
+Query Reformulation Patterns of Mixed Language Queries in Different Search Intents
+Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+Knowledge-based Query Expansion to Support Scenario-specific Retrieval of Medical Free Text
+A Data Driven Approach to Query Expansion in Question Answering
+Summarization-based Query Expansion in Information Retrieval
+APIBook: An Effective Approach for Finding APIs
+How Developers Search for Code: A Case Study
+Bing Developer Assistant: Improving Developer Productivity by Recommending Sample Code
+Relationship-aware Code Search for JavaScript Frameworks
+Searching API Usage Examples in Code Repositories with Sourcerer API Search
+Feedback-driven Result Ranking and Query Refinement for Exploring Semi-structured Data Collections
+Searching Program Source Code with a Structured Text Retrieval System (Poster Abstract)
+Improving the Effectiveness of Information Retrieval with Local Context Analysis
+Manually Locating Features in Industrial Source Code: The Search Actions of Software Nomads
+Search Engine Support for Software Applications
+Automatically Capturing Source Code Context of NL-queries for Software Maintenance and Reuse
+Ranking Retrieval Systems Without Relevance Judgments
+Incremental Query Evaluation for Support Vector Machines
+Evaluating How Developers Use General-purpose Web-search for Code Retrieval
+Word Sense Disambiguation in Queries

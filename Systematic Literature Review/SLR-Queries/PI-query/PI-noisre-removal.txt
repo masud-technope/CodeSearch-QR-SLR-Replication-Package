@@ -1,0 +1,188 @@
+  ("query reformulation"
+  OR
+  "query expansion"
+  OR
+  "query reduction"
+  OR
+  "query formulation"
+  OR
+  "query refinement"
+  OR
+  "automated query expansion"
+  OR
+  "AQE"
+  OR
+  "query suggestion"
+  OR
+  "query recommendation"
+  OR
+  "term selection"
+  OR
+  "query replacement"
+  OR
+  "query difficulty"
+  OR
+  "query quality"
+  OR
+  "keyword selection"
+  OR
+  "keyword extraction"
+  OR
+  "search term identification"
+  OR
+  "search query"
+  OR
+  "search term"
+  OR
+ "search keyword") 
+ AND 
+ ("information retrieval"
+ OR
+ "IR"
+ OR
+ "text retrieval"
+ OR
+ "TR"
+ OR
+ "bug localization"
+ OR
+ "concept location"
+ OR
+ "feature location"
+ OR
+ "FLT"
+ OR
+ "concern location"
+ OR
+ "Internet-scale code search"
+ OR
+ "code search engine"
+ OR
+ "local code search"
+ OR
+ "code search"
+ OR
+ "source code search"
+ OR
+ "code search query")
+ 
+ AND
+ 
+ (ICSE
+ OR
+ PLDI
+ OR
+ CAV
+ OR
+ ESEC
+ OR
+ FSE
+ OR
+ OOPSLA
+ OR
+ SAC
+ OR
+ ISSTA
+ OR
+ ASE
+ OR
+ ICSME
+ OR
+ MSR
+ OR
+ ICST
+ OR
+ SCAM
+ OR
+ ECOOP
+ OR
+ ISSRE
+ OR
+ ESEM
+ OR
+ CSCW
+ OR
+ SSBSE
+ OR
+ SANER
+ OR
+ APSEC
+ OR
+ ICPC
+ OR
+ WCRE
+ OR
+ IWSC
+ OR
+ CASCON
+ OR
+ SEKE
+ OR
+ TSE
+ OR
+ EMSE
+ OR
+ JSS
+ OR
+ SPE
+ OR
+ TOSEM
+ OR
+ JSEP
+ OR
+ IST
+ OR
+ ASE
+ OR
+ SQJ
+ OR
+ JSEP
+ OR
+ JSCP
+ OR
+ IET
+ OR
+ CSUR
+ OR
+ RE
+ OR
+ JCST
+ )
+ 
+ AND
+ 
+ (
+ -CIKM
+ OR
+ -SIGIR
+ OR
+ -WWW
+ OR
+ -AICPS
+ OR
+ -MM
+ OR
+ -WSDM
+ OR
+ -WI-IATW
+ OR
+ -ICTIR
+ OR
+ -JCDL/DL
+ OR
+ -SIGIR16
+ OR
+ -SIGMOD
+ OR
+ -CHIIR
+ OR
+ -KDD
+ OR
+ -ACL
+ OR
+ -ACL Workshops
+ OR
+ -IUI
+ OR
+ -RIAO
+ )

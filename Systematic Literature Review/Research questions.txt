@@ -1,0 +1,11 @@
+RQ1: Which methods, algorithms and data sources have been used for automated query reformulations targeting code search in the literature?
+
+RQ2: Which methods, metrics or subject systems have been used to evaluate and validate the researches on automated query reformulations?
+
+RQ3: What are the major challenges of automated query reformulations intended for code search? How many of them have been solved to date by the literature?
+
+RQ4: How much activities of research on automated query reformulations have been performed to date? What are the venues that these researches got published at?
+
+RQ5: What are the differences and similarities between query reformulations for local code search and query reformulations for Internet-scale code search?
+
+RQ6: What are the scopes for future work in the area of automated query reformulation targeting the code search?

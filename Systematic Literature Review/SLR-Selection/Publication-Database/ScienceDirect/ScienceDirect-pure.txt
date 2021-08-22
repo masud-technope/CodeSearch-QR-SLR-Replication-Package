@@ -1,0 +1,15 @@
+14
+Beyond actions: Exploring the discovery of tactics from user logs
+Design and evaluation of a multi-recommendation system for local code search
+A robust knowledge-based plant searching strategy
+A historical, textual analysis approach to feature location
+Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation
+Towards an ontology-based retrieval of UML Class Diagrams
+The attributes of research on end-user online searching behavior: A retrospective review and analysis
+A cloud of FAQ: A highly-precise FAQ retrieval system for the Web 2.0
+Enabling improved IR-based feature location
+Using SOA and RIAs for water data discovery and retrieval
+Interesting faces: A graph-based approach for finding people in news
+Leveraging textual properties of bug reports to localize relevant source files
+Lattice-Support repetitive local feature detection for visual search
+Automatic query reformulations for feature location in a model-based family of software products

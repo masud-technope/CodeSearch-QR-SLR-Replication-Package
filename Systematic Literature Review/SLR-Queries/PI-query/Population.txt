@@ -1,0 +1,29 @@
+ "information retrieval"
+ OR
+ "IR"
+ OR
+ "text retrieval"
+ OR
+ "TR"
+ OR
+ "bug localization"
+ OR
+ "concept location"
+ OR
+ "feature location"
+ OR
+ "FLT"
+ OR
+ "concern location"
+ OR
+ "Internet-scale code search"
+ OR
+ "code search engine"
+ OR
+ "local code search"
+ OR
+ "code search"
+ OR
+ "source code search"
+ OR
+ "code search query"

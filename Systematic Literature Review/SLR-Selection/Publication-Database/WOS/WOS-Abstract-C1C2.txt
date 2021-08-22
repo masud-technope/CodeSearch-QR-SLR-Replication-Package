@@ -1,0 +1,27 @@
+26
+On the Use of Relevance Feedback in IR-Based Concept Location
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+Improving Feature Location Practice with Multi-faceted Interactive Exploration
+Portfolio: Searching for Relevant Functions and Their Usages in Millions of Lines of Code
+Evaluating the Specificity of Text Retrieval Queries to Support Software Engineering Tasks
+Query Expansion Based on Crowd Knowledge for Code Search
+Query Expansion via Wordnet for Effective Code Search
+Typestate-Based Semantic Code Search over Partial Programs
+A test-driven approach to code search and its application to the reuse of auxiliary functionality
+CodeHow: Effective Code Search based on API Understanding and Extended Boolean Model
+A noun-based approach to feature location using time-aware term-weighting
+Query-Based Configuration of Text Retrieval Solutions for Software Engineering Tasks
+Concept Based Query Expansion Using WordNet
+Query Quality Prediction and Reformulation for Source Code Search: The Refoqus Tool
+Improving feature location using structural similarity and iterative graph mapping
+Automatic Search Term Identification for Change Tasks
+CONQUER: A Tool for NL-based Query Refinement & Contextualizing Code Search Results
+Improving Feature Location by Enhancing Source Code with Stereotypes
+On the Effect of the Query in IR-based Concept Location
+Applying a Semantic Layer in a Source Code Search Tool
+Can the Use of Types and Query Expansion Help Improve Large-Scale Code Search?
+Supporting concept location through identifier parsing and ontology extraction
+Code search with input/output queries: Generalizing, ranking, and assessment
+CodeExchange Supporting Reformulation of Internet-Scale Code Queries in Context
+TextRank Based Search Term Identification for Software Change Tasks
+Enabling improved IR-based feature location

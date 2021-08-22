@@ -1,0 +1,19 @@
+18
+On the use of relevance feedback in IR-based concept location
+On the Effect of the Query in IR-based Concept Location
+On the use of positional proximity in IR-based feature location
+Thesaurus-based automatic query expansion for interface-driven code search
+Query-based configuration of text retrieval solutions for software engineering tasks
+STRICT: Information retrieval based search term identification for concept location
+Exploiting spatial code proximity and order for improved source code retrieval for bug localization
+Predicting query quality for applications of text retrieval to software engineering tasks
+Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization
+Automatic query reformulations for feature location in a model-based family of software products
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Improved query reformulation for concept location using CodeRank and document structures
+Are Bug Reports Enough for Text Retrieval-based Bug Localization?
+RACK: Code search in the IDE using crowdsourced knowledge
+Improving Code Search Using Learning-to-Rank and Query Reformulation Techniques
+Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
+Improving software text retrieval using conceptual knowledge in source code
+Recommending frequently encountered bugs

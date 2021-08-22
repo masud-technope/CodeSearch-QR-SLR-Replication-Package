@@ -1,0 +1,295 @@
+Jiyin He, Pernilla Qvarfordt, Martin Halvey, Gene Golovchinsky,
+Beyond actions: Exploring the discovery of tactics from user logs,
+Information Processing & Management,
+Volume 52, Issue 6,
+2016,
+Pages 1200-1226,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2016.05.007.
+(http://www.sciencedirect.com/science/article/pii/S0306457316301625)
+Abstract: Search log analysis has become a common practice to gain insights into user search behaviour: it helps gain an understanding of user needs and preferences, as well as an insight into how well a system supports such needs. Currently, log analysis is typically focused on low-level user actions, i.e. logged events such as issued queries and clicked results, and often only a selection of such events are logged and analysed. However, types of logged events may differ widely from interface to interface, making comparison between systems difficult. Further, the interpretation of the meaning of and subsequent analysis of a selection of events may lead to conclusions out of context— e.g. the statistics of observed query reformulations may be influenced by the existence of a relevance feedback component. Alternatively, in lab studies user activities can be analysed at a higher level, such as search tactics and strategies, abstracted away from detailed interface implementation. Unfortunately, until now the required manual codings that map logged events to higher-level interpretations have prevented large-scale use of this type of analysis. In this paper, we propose a new method for analysing search logs by (semi-)automatically identifying user search tactics from logged events, allowing large-scale analysis that is comparable across search systems. In addition, as the resulting analysis is at a tactical level we reduce potential issues surrounding the need for interpretation of low-level user actions for log analysis. We validate the efficiency and effectiveness of the proposed tactic identification method using logs of two reference search systems of different natures: a product search system and a video search system. With the identified tactics, we perform a series of novel log analyses in terms of entropy rate of user search tactic sequences, demonstrating how this type of analysis allows comparisons of user search behaviours across systems of different nature and design. This analysis provides insights not achievable with traditional log analysis.
+Keywords: Search behaviour; Search tactics; Log analysis
+
+Shanmin Pang, Jihua Zhu, Jiaxing Wang, Vicente Ordonez, Jianru Xue,
+Building discriminative CNN image representations for object retrieval using the replicator equation,
+Pattern Recognition,
+Volume 83,
+2018,
+Pages 150-160,
+ISSN 0031-3203,
+https://doi.org/10.1016/j.patcog.2018.05.010.
+(http://www.sciencedirect.com/science/article/pii/S0031320318301808)
+Abstract: We present a generic unsupervised method to increase the discriminative power of image vectors obtained from a broad family of deep neural networks for object retrieval. This goal is accomplished by simultaneously selecting and weighting informative deep convolutional features using the replicator equation, commonly used to capture the essence of selection in evolutionary game theory. The proposed method includes three major steps: First, efficiently detecting features within Regions of Interest (ROIs) using a simple algorithm, as well as trivially collecting a subset of background features. Second, assigning unassigned features by optimizing a standard quadratic problem using the replicator equation. Finally, using the replicator equation again in order to partially address the issue of feature burstiness. We provide theoretical time complexity analysis to show that our method is efficient. Experimental results on several common object retrieval benchmarks using both pre-trained and fine-tuned deep networks show that our method compares favorably to the state-of-the-art. We also publish an easy-to-use Matlab implementation of the proposed method for reproducing our results.
+Keywords: Object retrieval; Replicator equation; Deep feature selection; Deep feature weighting
+
+Nguyen Anh Tu, Dong-Luong Dinh, Mostofa Kamal Rasel, Young-Koo Lee,
+Topic modeling and improvement of image representation for large-scale image retrieval,
+Information Sciences,
+Volume 366,
+2016,
+Pages 99-120,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2016.05.029.
+(http://www.sciencedirect.com/science/article/pii/S002002551630353X)
+Abstract: In this paper, we present a new visual search system for finding similar images in a large database. However, there are a number of challenges regarding the robustness of the image representations and the efficiency of the retrieval framework. To tackle these challenges, we first propose an encoding technique based on soft-assignment of local features to convert an entire image into a single vector, which is a compact and discriminative representation. This encoded vector is suitable for most types of efficient indexing methods to produce an initial result. To compensate for the lack of incorporating geometric and object-related information during the encoding scheme, we then propose a probabilistic topic model to formalize the spatial structure among the local features. Moreover, the topic model allows us to effectively extract the object and background regions from the image. This is performed by a Markov Chain Monte Carlo algorithm for approximate inference. Finally, benefiting from the extracted objects in each image, we present a re-ranking scheme to automatically refine the initial search results. Our proposed retrieval framework has two major advantages: i) an aggregation strategy through soft-assignment improves the discriminative power of the representation, which has a determinative effect on the retrieval precision; and ii) the probabilistic latent topic model enables us to not only gain insight into the spatial structure of the image, but also handle a large variation in the object appearance. The experimental results from four benchmark datasets show that our approach provides competitive accuracy, and runs about ten times faster. Our studies also verify that proposed approach works effectively on large-scale databases of millions of images.
+Keywords: Topic modeling; Probabilistic graphical model; Image retrieval; Image representation; Image coding; Bag-of-visual words
+
+Xi Ge, David C. Shepherd, Kostadin Damevski, Emerson Murphy-Hill,
+Design and evaluation of a multi-recommendation system for local code search,
+Journal of Visual Languages & Computing,
+Volume 39,
+2017,
+Pages 1-9,
+ISSN 1045-926X,
+https://doi.org/10.1016/j.jvlc.2016.07.002.
+(http://www.sciencedirect.com/science/article/pii/S1045926X16300970)
+Abstract: Searching for relevant code in the local code base is a common activity during software maintenance. However, previous research indicates that 88% of manually composed search queries retrieve no relevant results. One reason that many searches fail is existing search tools’ dependence on string matching algorithms, which cannot find semantically related code. To solve this problem by helping developers compose better queries, researchers have proposed numerous query recommendation techniques, relying on a variety of dictionaries and algorithms. However, few of these techniques are empirically evaluated by usage data from real-world developers. To fill this gap, we designed a multi-recommendation system that relies on the cooperation between several query recommendation techniques. We implemented and deployed this recommendation system within the Sando code search tool and conducted a longitudinal field study. Our study shows that over 34% of all queries were adopted from recommendation; and recommended queries retrieved results 11% more often than manual queries.
+Keywords: Code search; Recommender systems; Field study
+
+Yo-Ping Huang, Tienwei Tsai, Yan-Ming Wu, Frode-Eika Sandnes,
+A robust knowledge-based plant searching strategy,
+Expert Systems with Applications,
+Volume 36, Issue 1,
+2009,
+Pages 675-682,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2007.10.015.
+(http://www.sciencedirect.com/science/article/pii/S0957417407005386)
+Abstract: This paper presents a knowledge-based plant information retrieval system that is robust to inaccurate and erroneous user queries. First, a knowledge-based genetic algorithm (GA) corrects the erroneous input vectors before these are fed into a back-propagation neural network (BPNN) that performs the actual query. Experimental results show that the strategy achieves a 75% recall rate and 25% precision rate with a cutoff level of 10 under the misjudgment of shapes. Moreover, a fully trained BPNN dynamically adapts to changes in the environment. Due to its robust and simple user interface and portability, the strategy is particularly applicable to educational settings such as outdoor fieldwork in courses on ecology.
+Keywords: Information retrieval; Knowledge-based model; Genetic algorithm; Back-propagation neural network
+
+Muslim Chochlov, Michael English, Jim Buckley,
+A historical, textual analysis approach to feature location,
+Information and Software Technology,
+Volume 88,
+2017,
+Pages 110-126,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2017.04.003.
+(http://www.sciencedirect.com/science/article/pii/S0950584917303397)
+Abstract: Context
+Feature location is the task of finding the source code that implements specific functionality in software systems. A common approach is to leverage textual information in source code against a query, using Information Retrieval (IR) techniques. To address the paucity of meaningful terms in source code, alternative, relevant source-code descriptions, like change-sets could be leveraged for these IR techniques. However, the extent to which these descriptions are useful has not been thoroughly studied.
+Objective
+This work rigorously characterizes the efficacy of source-code lexical annotation by change-sets (ACIR), in terms of its best-performing configuration.
+Method
+A tool, implementing ACIR, was used to study different configurations of the approach and to compare them to a baseline approach (thus allowing comparison against other techniques going forward). This large-scale evaluation employs eight subject systems and 600 features.
+Results
+It was found that, for ACIR: (1) method level granularity demands less search effort; (2) using more recent change-sets improves effectiveness; (3) aggregation of recent change-sets by change request, decreases effectiveness; (4) naive, text-classification-based filtering of “management” change-sets also decreases the effectiveness. In addition, a strongly pronounced dichotomy of subject systems emerged, where one set recorded better feature location using ACIR and the other recorded better feature location using the baseline approach. Finally, merging ACIR and the baseline approach significantly improved performance over both standalone approaches for all systems.
+Conclusion
+The most fundamental finding is the importance of rigorously characterizing proposed feature location techniques, to identify their optimal configurations. The results also suggest it is important to characterize the software systems under study when selecting the appropriate feature location technique. In the past, configuration of the techniques and characterization of subject systems have not been considered first-class entities in research papers, whereas the results presented here suggests these factors can have a big impact.
+Keywords: Feature location; Version histories; Dataset expansion; Software systems’ characterization; Search effort
+
+Amanda Spink, Abby Goodrum, David Robins,
+Elicitation behavior during mediated information retrieval,
+Information Processing & Management,
+Volume 34, Issues 2–3,
+1998,
+Pages 257-273,
+ISSN 0306-4573,
+https://doi.org/10.1016/S0306-4573(97)00059-9.
+(http://www.sciencedirect.com/science/article/pii/S0306457397000599)
+Abstract: What elicitations or requests for information do search intermediaries make of users with information requests during an information retrieval (IR) interaction-including prior to and during an IR interaction-and for what purpose? These issues were investigated during a study of elicitations during 40 mediated IR interactions. A total of 1557 search intermediary elicitations were identified within 15 purpose categories. The elicitation purposes of search intermediaries included requests for information on search terms and strategies, database selection, search procedures, system's outputs and relevance of retrieved items, and users' knowledge and previous information-seeking. The transition sequences from one type of search intermediary elicitation to another were also investigated. These findings are compared with results from a study of end-user questions [Nahl D. & Tenopir C. (1996) Affective and cognitive searching behavior of novice and end-users of a full-text database. Journal of the American Society for Information Science, 47(4), 276–286] and a study of user elicitations of search intermediaries [Wu, Mei Mei (1993) Information interaction dialog: A study of patron elicitation in the information retrieval interaction. Ph.D. Dissertation. Rutgers University, New Brunswick. UMI Order Number 9320541] to develop an Information Retrieval Elicitation Task Model. Implications of the findings for the development and design of IR systems are also discussed.
+
+Andrea De Lucia, Massimiliano Di Penta, Rocco Oliveto, Annibale Panichella, Sebastiano Panichella,
+Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation,
+Information and Software Technology,
+Volume 55, Issue 4,
+2013,
+Pages 741-754,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2012.08.002.
+(http://www.sciencedirect.com/science/article/pii/S0950584912001565)
+Abstract: Context
+Traceability relations among software artifacts often tend to be missing, outdated, or lost. For this reason, various traceability recovery approaches—based on Information Retrieval (IR) techniques—have been proposed. The performances of such approaches are often influenced by “noise” contained in software artifacts (e.g., recurring words in document templates or other words that do not contribute to the retrieval itself).
+Aim
+As a complement and alternative to stop word removal approaches, this paper proposes the use of a smoothing filter to remove “noise” from the textual corpus of artifacts to be traced.
+Method
+We evaluate the effect of a smoothing filter in traceability recovery tasks involving different kinds of artifacts from five software projects, and applying three different IR methods, namely Vector Space Models, Latent Semantic Indexing, and Jensen–Shannon similarity model.
+Results
+Our study indicates that, with the exception of some specific kinds of artifacts (i.e., tracing test cases to source code) the proposed approach is able to significantly improve the performances of traceability recovery, and to remove “noise” that simple stop word filters cannot remove.
+Conclusions
+The obtained results not only help to develop traceability recovery approaches able to work in presence of noisy artifacts, but also suggest that smoothing filters can be used to improve performances of other software engineering approaches based on textual analysis.
+Keywords: Software traceability; Information retrieval; Smoothing filters; Empirical software engineering
+
+Karina Robles, Anabel Fraga, Jorge Morato, Juan Llorens,
+Towards an ontology-based retrieval of UML Class Diagrams,
+Information and Software Technology,
+Volume 54, Issue 1,
+2012,
+Pages 72-86,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2011.07.003.
+(http://www.sciencedirect.com/science/article/pii/S0950584911001613)
+Abstract: Context
+Software Reuse has always been an important area amongst software companies in order to increase their productivity and the quality of their products, but code reuse is not the only answer for this. Nowadays, reuse techniques proposals include software designs or even software specifications. Therefore, this research focuses on software design, specifically on UML Class Diagrams. A semantic technology has been applied to facilitate the retrieval process for an effective reuse.
+Objective
+This research proposes an ontology-based retrieval technique by semantic similarity in order to support effective retrieval process for UML Class Diagrams. Since UML Class Diagrams are a de facto standard in the design stages of a Software Development Process, a good technique is needed to reuse them, i.e. reusing during the design stage instead of just the coding stages.
+Method
+An application ontology modeled using UML specifications was designed to compare UML Class Diagram element types. To measure their similarity, a survey was conducted amongst UML experts. Query expansion was improved by a domain ontology supporting the retrieval phase. The calculus of minimal distances in ontologies was solved using a shortest path algorithm.
+Results
+The case study shows the domain ontology importance in the UML Class Diagram retrieval process as well as the importance of an element type expansion method, such as an application ontology. A correlation between the query complexity and retrieved elements has been identified, by analyzing results. Finally, a positive Return of Investment (ROI) was estimated using Poulin’s Model.
+Conclusion
+Because Software Reuse has not to be limited to the coding stage, approaches to reuse design stage must be developed, i.e. UML Class Diagrams reuse. This approach proposes a technique for UML Class Diagrams retrieval, which is one important step towards reuse. Semantic technology combined with information retrieval improves the retrieval results.
+Keywords: Information retrieval; Ontologies; Software Reuse; Software Engineering; UML Class Diagrams
+
+Anita L Ondrusek,
+The attributes of research on end-user online searching behavior: A retrospective review and analysis,
+Library & Information Science Research,
+Volume 26, Issue 2,
+2004,
+Pages 221-265,
+ISSN 0740-8188,
+https://doi.org/10.1016/j.lisr.2004.01.002.
+(http://www.sciencedirect.com/science/article/pii/S0740818804000167)
+Abstract: A total of 163 studies examining end-user behaviors (as reported in 175 individual articles) were selected and analyzed for their research attributes. From the earliest identified study to those conducted before the end of 2000, recurring themes emerged, as did characteristics unique to particular studies. The majority of researchers employed nonexperimental quantitative data collection methods. However, a select group of qualitative studies and a few experimental investigations also were identified. Research designs combining multiple methodologies were the norm. The variables prevalent across studies were broadly classified into a typology under end-user traits, system attributes, organizational setting, task and request characteristics, performance outcomes and obstacles, and results measures. The specific behaviors that researchers concentrated upon most often were the end-users' searching techniques, relevance judgments about information they found, satisfaction with search results, and prior knowledge brought to bear on online searching assignments. Also examined were trends in publishing, geographic locations of field sites, databases selected for searching activities, and the characteristics of searcher cohorts.
+
+M. Romero, A. Moreo, J.L. Castro,
+A cloud of FAQ: A highly-precise FAQ retrieval system for the Web 2.0,
+Knowledge-Based Systems,
+Volume 49,
+2013,
+Pages 81-96,
+ISSN 0950-7051,
+https://doi.org/10.1016/j.knosys.2013.04.019.
+(http://www.sciencedirect.com/science/article/pii/S0950705113001391)
+Abstract: FAQ (Frequency Asked Questions) lists have attracted increasing attention for companies and organizations. There is thus a need for high-precision and fast methods able to manage large FAQ collections. In this context, we present a FAQ retrieval system as part of a FAQ exploiting project. Following the growing trend towards Web 2.0, we aim to provide users with mechanisms to navigate through the domain of knowledge and to facilitate both learning and searching, beyond classic FAQ retrieval algorithms. To this purpose, our system involves two different modules: an efficient and precise FAQ retrieval module and, a tag cloud generation module designed to help users to complete the comprehension of the retrieved information. Empirical results evidence the validity of our approach with respect to a number of state-of-the-art algorithms in terms of the most popular metrics in the field.
+Keywords: FAQ retrieval; WordNet; Wikipedia concepts; Natural language; Tag cloud
+
+Dan Wu, Yizhe Li,
+Online health information seeking behaviors among Chinese elderly,
+Library & Information Science Research,
+Volume 38, Issue 3,
+2016,
+Pages 272-279,
+ISSN 0740-8188,
+https://doi.org/10.1016/j.lisr.2016.08.011.
+(http://www.sciencedirect.com/science/article/pii/S0740818816302249)
+Abstract: The Internet has become an important source of health information for elderly people in China. A controlled user experiment was conducted to understand how Chinese elderly people search for online health information. Twenty elderly people completed three search tasks based on three different health information seeking contexts. Online health information seeking behavior patterns of the elderly were found to include reselecting from results pages, following hyperlinks, and using a query reformulation patter. There was no significant difference with respect to emotion and the three task contexts, as elderly people have positive attitudes regarding the health information seeking process, but cognition within the three task contexts displayed significant differences. There was a significant correlation between education and Internet search proficiency regarding task search performance, while health condition, familiarity with the Internet and credibility of online health information were found to be primary factors that influenced the decision of the elderly to search for online health information.
+
+Kuan-Ting Chen, Kuan-Hung Lin, Yin-Hsi Kuo, Yi-Lun Wu, Winston H. Hsu,
+Boosting image object retrieval and indexing by automatically discovered pseudo-objects,
+Journal of Visual Communication and Image Representation,
+Volume 21, Issue 8,
+2010,
+Pages 815-825,
+ISSN 1047-3203,
+https://doi.org/10.1016/j.jvcir.2010.06.003.
+(http://www.sciencedirect.com/science/article/pii/S104732031000091X)
+Abstract: State-of-the-art object retrieval systems are mostly based on the bag-of-visual-words representation which encodes local appearance information of an image in a feature vector. An image object search is performed by comparing query object’s feature vector with those for database images. However, a database image vector generally carries mixed information of the entire image which may contain multiple objects and background. Search quality is degraded by such noisy (or diluted) feature vectors. To tackle this problem, we propose a novel representation, pseudo-objects – a subset of proximate feature points with its own feature vector to represent a local area, to approximate candidate objects in database images. In this paper, we investigate effective methods (e.g., grid, G-means, and GMM–BIC) to estimate pseudo-objects. Additionally, we also confirm that the pseudo-objects can significantly benefit inverted-file indexing both in accuracy and efficiency. Experimenting over two consumer photo benchmarks, we demonstrate that the proposed method significantly outperforms other state-of-the-art object retrieval and indexing algorithms.
+Keywords: Image retrieval; Object retrieval; Pseudo-object; Visual word; Local feature; Bundle feature; Indexing; Large-scale
+
+Dave Binkley, Dawn Lawrie, Christopher Uehlinger, Daniel Heinz,
+Enabling improved IR-based feature location,
+Journal of Systems and Software,
+Volume 101,
+2015,
+Pages 30-42,
+ISSN 0164-1212,
+https://doi.org/10.1016/j.jss.2014.11.013.
+(http://www.sciencedirect.com/science/article/pii/S0164121214002428)
+Abstract: Recent solutions to software engineering problems have incorporated tools and techniques from information retrieval (IR). The use of IR requires choosing an appropriate retrieval model and deciding on a query that best captures a particular information need. Taking feature location as a representative example, three research questions are investigated: (1) the impact of query preprocessing, (2) the impact that different scraping techniques for queries have on retrieval performance, (3) the performance impact that the underlying retrieval model has on identifying the correct source-code functions (the correct documents). These research questions are addressed using the five open source projects released as part of the SEMERU dataset. In the experiments, five methods of scraping queries from modification requests and seven retrieval model instances are considered. Using the standard evaluation metric Mean Reciprocal Rank (MRR), the experimental analysis reveals that better retrieval models are not the ones commonly used by software engineering researchers. Results find that models based on query-likelihood perform about twice as well as models in common use in software engineering such as LSI and thus deserve greater attention. Furthermore, corpus preprocessing has a significant impact as the top performing setting is over 100% better than the average.
+Keywords: Information retrieval models; Query formulation; Feature location
+
+Mutao Huang, David R. Maidment, Yong Tian,
+Using SOA and RIAs for water data discovery and retrieval,
+Environmental Modelling & Software,
+Volume 26, Issue 11,
+2011,
+Pages 1309-1324,
+ISSN 1364-8152,
+https://doi.org/10.1016/j.envsoft.2011.05.008.
+(http://www.sciencedirect.com/science/article/pii/S1364815211001253)
+Abstract: The main barriers to make full use of the wealth of available online data is that users are unable to rapidly locate relevant web services and retrieve appropriate data sets from different data repositories as well as efficiently reconcile integration between temporal and geospatial data. To address these issues, this paper focuses on the development of an online Water Data Discovery and Retrieval system (WDDRs) to enhance the capabilities of services discovery, data retrieval, and data visualization. The most significant features of WDDRs prototype are reflected in two aspects. On one hand, a water ontology incorporated with Universal Description, Discovery and Integration (UDDI) based enhanced services catalog offers facilities to alleviate semantic heterogeneity and associate semantic information with the web services discovery and data retrieval process. On the other hand, by embracing the capability within the context of Service Oriented Architectures (SOA) and leveraging the latest protocols of several open web service standards and two popular RIAs (Rich Internet Applications) frameworks including the Microsoft Silverlight and the ESRI ArcGIS API for Silverlight, this system provides an interactive web portal which enables users to one-stop search, access, download and visualize different types of geospatial and observational data in a single environment. With the aim of supporting the study of integrated water environmental assessment, several investigations about water data discovery and retrieval were implemented to demonstrate the feasibility and effectiveness of the WDDRs.
+Keywords: Ontology; Services discovery; Data retrieval; Data visualization; Web portal; Service oriented architectures; Rich internet applications
+
+Derya Ozkan, Pınar Duygulu,
+Interesting faces: A graph-based approach for finding people in news,
+Pattern Recognition,
+Volume 43, Issue 5,
+2010,
+Pages 1717-1735,
+ISSN 0031-3203,
+https://doi.org/10.1016/j.patcog.2009.10.015.
+(http://www.sciencedirect.com/science/article/pii/S0031320309004105)
+Abstract: In this study, we propose a method for finding people in large news photograph and video collections. Our method exploits the multi-modal nature of these data sets to recognize people and does not require any supervisory input. It first uses the name of the person to populate an initial set of candidate faces. From this set, which is likely to include the faces of other people, it selects the group of most similar faces corresponding to the queried person in a variety of conditions. Our main contribution is to transform the problem of recognizing the faces of the queried person in a set of candidate faces to the problem of finding the highly connected sub-graph (the densest component) in a graph representing the similarities of faces. We also propose a novel technique for finding the similarities of faces by matching interest points extracted from the faces. The proposed method further allows the classification of new faces without needing to re-build the graph. The experiments are performed on two data sets: thousands of news photographs from Yahoo! news and over 200 news videos from TRECVid2004. The results show that the proposed method provides significant improvements over text-based methods.
+Keywords: Face finding; Graph representation; Densest component; Interest points; News photos and videos
+
+Marianne Lykke, Susan Price, Lois Delcambre,
+How doctors search: A study of query behaviour and the impact on search results,
+Information Processing & Management,
+Volume 48, Issue 6,
+2012,
+Pages 1151-1170,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2012.02.006.
+(http://www.sciencedirect.com/science/article/pii/S030645731200026X)
+Abstract: Professional, workplace searching is different from general searching, because it is typically limited to specific facets and targeted to a single answer. We have developed the semantic component (SC) model, which is a search feature that allows searchers to structure and specify the search to context-specific aspects of the main topic of the documents. We have tested the model in an interactive searching study with family doctors with the purpose to explore doctors’ querying behaviour, how they applied the means for specifying a search, and how these features contributed to the search outcome. In general, the doctors were capable of exploiting system features and search tactics during the searching. Most searchers produced well-structured queries that contained appropriate search facets. When searches failed it was not due to query structure or query length. Failures were mostly caused by the well-known vocabulary problem. The problem was exacerbated by using certain filters as Boolean filters. The best working queries were structured into 2–3 main facets out of 3–5 possible search facets, and expressed with terms reflecting the focal view of the search task. The findings at the same time support and extend previous results about query structure and exhaustivity showing the importance of selecting central search facets and express them from the perspective of search task. The SC model was applied in the highest performing queries except one. The findings suggest that the model might be a helpful feature to structure queries into central, appropriate facets, and in returning highly relevant documents.
+Keywords: Query behaviour; Work-place retrieval; Family doctors; Retrieval performance
+
+Reza Gharibi, Amir Hossein Rasekh, Mohammad Hadi Sadreddini, Seyed Mostafa Fakhrahmad,
+Leveraging textual properties of bug reports to localize relevant source files,
+Information Processing & Management,
+Volume 54, Issue 6,
+2018,
+Pages 1058-1076,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2018.07.004.
+(http://www.sciencedirect.com/science/article/pii/S0306457318301092)
+Abstract: Bug reports are an essential part of a software project's life cycle since resolving them improves the project's quality. When a new bug report is received, developers usually need to reproduce the bug and perform code review to locate the bug and assign it to be fixed. However, the huge number of bug reports and the increasing size of software projects make this process tedious and time-consuming. To solve this issue, bug localization techniques try to rank all the source files of a project with respect to how likely they are to contain a bug. This process reduces the search space of source files and helps developers to find relevant source files quicker. In this paper, we propose a multi-component bug localization approach that leverages different textual properties of bug reports and source files as well as the relations between previously fixed bug reports and a newly received one. Our approach uses information retrieval, textual matching, stack trace analysis, and multi-label classification to improve the performance of bug localization. We evaluate the performance of the proposed approach on three open source software projects (i.e., AspectJ, SWT, and ZXing) and the results show that it can rank appropriate source files for more than 52% of bugs by recommending only one source file and 78% by recommending ten files. It also improves the MRR and MAP values compared to several existing state-of-the-art bug localization approaches.
+Keywords: Bug localization; Bug report; Classification; Information retrieval; Textual analysis
+
+Samad Paydar, Mohsen Kahani,
+A semi-automated approach to adapt activity diagrams for new use cases,
+Information and Software Technology,
+Volume 57,
+2015,
+Pages 543-570,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2014.06.007.
+(http://www.sciencedirect.com/science/article/pii/S0950584914001463)
+Abstract: Context
+Web engineering methodologies generally assign a crucial role to design models. Therefore, providing a model reuse approach is very interesting since it reduces development costs and improves quality. Current works on model reuse mainly focus on retrieval of the promising reusable assets, and much less is done regarding adaptation of the retrieved assets. This research proposes a semi-automatic approach for adaptation of UML activity diagrams to new use cases.
+Objective
+UML use case diagrams and activity diagrams are traditionally used for the brief and the detailed specification of the functional requirements. Since many web applications have similar functionalities, and hence similar functional requirements, this research proposes an approach to take a use case diagram as input and semi-automatically create corresponding activity diagrams by adapting existing activity diagrams.
+Method
+The proposed approach includes five main components: (1) a model repository, (2) an ontology repository as a source of domain knowledge, (3) an algorithm for annotating activity diagrams, (4) a similarity metric for retrieval of similar use cases, and (5) an adaptation algorithm for creating activity diagram of a new use case from an existing activity diagram The proposed approach uses the semantic web data model as the underlying representation format.
+Results
+The initial experiments show that the proposed approach is promising and it provides an average reuse percent of 76%. However, it has still some weaknesses like being much dependent on the quality of the model repository and having low tolerance in case of inconsistency in the model repository.
+Conclusion
+Enabling model reuse in the early stages of a model based development approach is very important in reducing development costs. This paper proposes a semi-automatic approach to reuse activity diagrams through their adaptation for new use cases. The approach is demonstrated to be promising although it has still some limitations.
+Keywords: Model reuse; Semantic web; Activity diagram; Use case; Adaptation
+
+Dipu Manandhar, Kim-Hui Yap, Zhenwei Miao, Lap-Pui Chau,
+Lattice-Support repetitive local feature detection for visual search,
+Pattern Recognition Letters,
+Volume 98,
+2017,
+Pages 123-129,
+ISSN 0167-8655,
+https://doi.org/10.1016/j.patrec.2017.09.021.
+(http://www.sciencedirect.com/science/article/pii/S0167865517303306)
+Abstract: Repetitive patterns such as building facades, floor tiles, vegetation, and wallpapers are commonly found in sceneries and images. The presence of such repetitive patterns in images often leads to visual burstiness and geometric ambiguity, which poses challenge for state-of-the-art visual search technologies. To alleviate these problems, we propose a new lattice-support repetitive local feature detection method to detect repetitive patterns, estimate the underlying lattice structure, and enhance descriptors used for subsequent visual image search. Existing methods for repetitive pattern detection are commonly based on determining the underlying lattice structures. However, these structures do not correspond directly to robust features that are scale- and rotation-invariant. This paper proposes a new lattice-support repetitive local feature (LS-RLF) detection method that aims to integrate lattice information into repeated local feature detection and extraction. The advantage of the proposed method is that the detected features can be directly used by current visual search technologies. The LS-RLF method estimates the undetected repeated features in the lattice structure using Hough transform-based feature estimation. Further, in order to handle the visual burstiness issue, a new LS-RLF based image retrieval framework is developed. Experiments performed on benchmark datasets show that the proposed method outperforms the state-of-the-art methods by mean Average Precisions (mAP) of 4.5%, 5.5% and 3.2% on Oxford, Paris, and INRIA holidays datasets respectively. This demonstrates the effectiveness of the proposed method in performing visual search for images which contain wide range of repeated patterns.
+Keywords: Repetitive pattern detection; Visual burstiness; Image search and retrieval
+
+Besiki Stvilia, Corinne Jörgensen, Shuheng Wu,
+Establishing the value of socially-created metadata to image indexing,
+Library & Information Science Research,
+Volume 34, Issue 2,
+2012,
+Pages 99-109,
+ISSN 0740-8188,
+https://doi.org/10.1016/j.lisr.2011.07.011.
+(http://www.sciencedirect.com/science/article/pii/S0740818812000102)
+Abstract: There have been ample suggestions in the literature that terms added to documents from Flickr and Wikipedia can complement traditional methods of indexing and controlled vocabularies. At the same time, adding new metadata to existing metadata objects may not always add value to those objects. The potential added-value of using user-contributed (“social”) terms from Flickr and the English Wikipedia in image indexing is compared with using two expert-created controlled vocabularies—the Thesaurus for Graphic Materials and the Library of Congress Subject Headings—without those social terms. Experiments confirmed that the social terms did add value, relative to terms from the controlled vocabularies. The median rating for the usefulness of social terms was significantly higher than the baseline rating, but was lower than the ratings for the terms from the Thesaurus for Graphic Materials and the Library of Congress Subject Headings. Furthermore, complementing the controlled vocabulary terms with social terms more than doubled the average coverage of participants' terms for a photograph. The relationships between user demographics and users' perceptions of the value of terms were also investigated, as well as the relationships between user demographics and indexing quality, as measured by the number of terms participants assigned to a photograph. Participants with more tagging and indexing experience assigned a greater number of tags than did other participants.
+
+Francisca Pérez, Jaime Font, Lorena Arcega, Carlos Cetina,
+Automatic query reformulations for feature location in a model-based family of software products,
+Data & Knowledge Engineering,
+Volume 116,
+2018,
+Pages 159-176,
+ISSN 0169-023X,
+https://doi.org/10.1016/j.datak.2018.06.001.
+(http://www.sciencedirect.com/science/article/pii/S0169023X17301714)
+Abstract: No maintenance activity can be completed without Feature Location (FL), which is finding the set of software artifacts that realize a particular functionally. Despite the importance of FL, the vast majority of work has been focused on retrieving code, whereas other software artifacts such as the models have been neglected. Furthermore, locating a piece of information from a query in a large repository is a challenging task as it requires knowledge of the vocabulary used in the software artifacts. This can be alleviated by automatically reformulating the query (adding or removing terms). In this paper, we test four existing query reformulation techniques, which perform the best for FL in code but have never been used for FL in models. Specifically, we test these techniques in two industrial domains: a model-based family of firmwares for induction hobs, and a model-based family of PLC software to control trains. We compare the results provided by our FL approach using the query and the reformulated queries by means of statistical analysis. Our results show that reformulated queries do not improve the performance in models, which could lead towards a new direction in the creation or reconsideration of these techniques to be applied in models.
+Keywords: Conceptual modeling; Information retrieval; Feature location; Query reformulation; Software maintenance and evolution; Families of software products

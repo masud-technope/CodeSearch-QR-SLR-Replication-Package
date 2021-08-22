@@ -1,0 +1,275 @@
+%Relevance feedback & Term Weighting
+relevance-feedback	3
+expert-texts-as-relevant-documents	2
+rocchio-method	2
+experts-description-of-feature	2
+rsv	1
+pseudo-relevance-feedback	1
+developer-intervention	1
+user-feedback	1
+dice	1
+rocchio's-method	1
+term-weighting	2
+term-selection	1
+tf-idf-keyword-selection	1
+structured-term-emphasis	1
+source-term-selection	1
+term-ordering	1
+
+
+%Graph-based mining
+graph-mining-algorithm	1
+dependency-facet	1
+pagerank	1
+syntactic-dependency	1
+pdg-extraction	1
+structural-similarity	1
+subtree-generation	1
+graph-similarity-analysis	1
+text-rank-keyword-selection	1
+xpath-query-generation	1
+ast-database	1
+query-by-example	2
+document-context	1
+source-document-context	1
+contextual-code	1
+ast-generation	1
+structure-facet	1
+call-dependency	1
+graph-based-approach	1
+pcfg	1
+sentence-parse-tree	1
+code-to-pdg-reformulation	1
+
+
+%Semantic Relations & Thesaurus QR
+spatial-code-proximity	1
+term-proximity	1
+keyword-method-co-occurrence	1
+keyword-api-co-occurrences	1
+second-order-co-occurrence	1
+co-occurred-tags	1
+semantic-similarity	3
+semantic-labeling	1
+intent-extraction-from-changes	1
+semantic-distance	1
+cbow	1
+semantic-code-search	1
+intent-context-extraction	1
+intent-facet	1
+word2vec	1
+query-intent-prediction	1
+code-context-analysis	1
+textual-similarity	1
+term-co-occurrences	1
+word-co-occurrence	1
+nl-scl-mapping	1
+question-tag-co-occurrences	1
+request-changeset-mapping	1
+latent-semantic-analysis	1
+cosine-similarity	1
+request-ide-interaction-mapping	1
+software-term-database	1
+syntactic-entity-database	1
+type-thesaurus	1
+term-term-matrix	1
+similar-usage-word	1
+comment-code-mapping	1
+statement-extension-with-nl
+concept-syntactic-mapping	1
+
+
+%Ontology & Syntactics QR
+ontology-expansion	1
+concept-generality	1
+sparql	1
+guided-search-query	1
+domain-ontology	1
+domain-term-frequency	1
+domain-specificity	1
+spelling-correction	1
+synonym-substitution	1
+verb	1
+wordnet	1
+semantic-web	1
+verb+adjectives	1
+noun-terms	1
+pos-tagging	1
+multi-repository-ontology	1
+ontology-construction	1
+language-concept-customization	1
+requirement-selection	1
+
+
+%Machine/Deep learning & Query difficulty
+seq2seq-learning	1
+change-sequence	1
+attention-mechanism	1
+api-call-sequence-selection	1
+neural-query-expansion	1
+cart	1
+encoder-decoder-transformation	1
+logistic-regression	1
+deep-belief-network	1
+transformer	1
+machine-learning	1
+query-difficulty-analysis	2
+clarity	2
+coherence	2
+specificity	2
+smote	1
+query-effectiveness	1
+query-diffculty-analysis	1
+report-quality-dynamics	1
+term-relatedness	1
+query-expressiveness	1
+
+%Probabilistic-analysis
+markov-random-field	1
+information-need-analysis	1
+unigram-modeling	1
+probabilistic-analysis	1
+query-conditioning	1
+mutual-information	1
+term-dependence	1
+frequently-added-apis	1
+original-modified-query-pair	1
+
+
+%NL discourse analysis
+expected-behaviour	1
+steps-to-reproduce	1
+nl-discourse-analysis	1
+grounded-theory	1
+observed-behavior	1
+sentence-selection	1
+task-extraction	1
+	
+
+
+%Data mining & Recommendation
+web-data-mining	1
+log-mining	1
+data-analytics	1
+verb-do-completion	1
+corpus-extension	1
+git-commit-mining	1
+borda	1
+stack-overflow	1
+code-change-history	1
+version-history-mining	1
+crowd-knowledge	1
+verb-do	1
+discard-test-code	1
+relevant-api-classes	1
+verb-do-extraction	1
+addition-of-attachment-texts	1
+cross-project-analysis	1
+multi-recommendation	1
+nl-phrase-extraction	1
+pattern-recovery	1
+association-rule-mining	1
+repository-mining	1
+so-reformulation-logs	1
+so-query-logs	1
+trace-entry-mining	1
+information-retrieval	1
+method-name-suggestion	1
+fp-growth-algorithm	1
+api-declaration-suggestion	1
+api-recommendation	1
+api-documentation	1
+related-tag-addition	1
+method-body-expansion	1
+role-of-dependent-terms	1
+question-answer-pair	1
+
+
+%GA-based query reformulation
+ga-based-approach	1
+selection-as-genetic-operation	1
+genetic-algorithm	1
+reduction-as-genetic-operation	1
+multi-objective-optimization	1
+similarity-as-fitness-function	1
+qe-as-fitness-function	1
+rocchio-as-genetic-operation	1
+
+
+%Heuristics & Miscellaneous
+heuristics	3
+idcs	1
+interface	2
+structured-entity-selection	1
+inheritance-relation	1
+implementation-relation	1
+return-type-&-parameters	1
+ad-hoc-metrics	1
+term/type-expansion	1
+oop-relation-exploitation	1
+parameter-inference	1
+identifier-names	1
+time-awareness	1
+structured-token-splitting	1
+temporal-proximity	1
+product-scoping	1
+kbcs	1
+boolean-model	1
+result-re-ranking	1
+result-clustering	1
+dial-up-dial-down-results	1
+negative-result	1
+step-wise-reduction	1
+identifier-query-matching	1
+identifier-completion	1
+term-context	1
+random-keyword-selection	1
+problem-description	1
+same/duplicate-questions	1
+candidate-question-ranking	1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

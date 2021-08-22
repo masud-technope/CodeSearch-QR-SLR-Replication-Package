@@ -1,0 +1,66 @@
+65
+Query quality prediction and reformulation for source code search: The Refoqus tool
+[Journal First] Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search
+NL-based query refinement and contextualized code search results: A user study
+SE-CodeSearch: A scalable Semantic Web-based source code search infrastructure
+STRICT: Information retrieval based search term identification for concept location
+Exemplar: A Source Code Search Engine for Finding Highly Relevant Applications
+CONQUER: A Tool for NL-Based Query Refinement and Contextualizing Code Search Results
+Finding relevant functions in millions of lines of code
+Retrieving Self-Executable and Functionally Correct Code to Improve Source Code Search
+Precise and Scalable Querying of Syntactical Source Code Patterns Using Sample Code Snippets and a Database
+Assisting code search with automatic Query Reformulation for bug localization
+Using Structured Queries for Source Code Search
+Improved query reformulation for concept location using CodeRank and document structures
+Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+Integrating source code search into git client for effective retrieving of change history
+Query expansion via WordNet for effective code search
+TextRank based search term identification for software change tasks
+Improving source code search with natural language phrasal representations of method signatures
+Supporting Query Formulation for Text Retrieval Applications in Software Engineering
+Can the use of types and query expansion help improve large-scale code search?
+How developers use multi-recommendation system in local code search
+Query Expansion Based on Crowd Knowledge for Code Search
+Using ontology fragments in concept location
+Mining search topics from a code search engine usage log
+A case study of paired interleaving for evaluating code search techniques
+Poster: Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+CodeExchange: Supporting Reformulation of Internet-Scale Code Queries in Context (T)
+A search log mining based query expansion technique to improve effectiveness in code search
+Investigating influence of data storage organization on structured code search performance
+Evaluating the specificity of text retrieval queries to support software engineering tasks
+On the Effect of the Query in IR-based Concept Location
+QUICKAR: Automatic query reformulation for concept location using crowdsourced knowledge
+Automatic query reformulations for text retrieval in software engineering
+Towards a Benchmark and Automatic Calibration for IR-Based Concept Location
+On the Use of Input/Output Queries for Code Search
+Scaling up evaluation of code search tools through developer usage metrics
+Using Thesaurus-Based Tag Clouds to Improve Test-Driven Code Search
+Expanding Queries for Code Search Using Semantically Related API Class-names
+Automatically detecting the quality of the query and its implications in IR-based concept location
+Code Search via Topic-Enriched Dependence Graph Matching
+Toward social-technical code search
+Achieving Feature Location in Families of Models Through the Use of Search-Based Software Engineering
+On the use of relevance feedback in IR-based concept location
+CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model
+Supporting exploratory code search with differencing and visualization
+Rethinking User Interfaces for Feature Location
+Performance evaluation of information retrieval models in bug localization on the method level
+Automatic query performance assessment during the retrieval of software artifacts
+Source code retrieval on StackOverflow using LDA
+SWIM: Synthesizing What I Mean - Code Search and Idiomatic Snippet Synthesis
+On the level of code suggestion for reuse
+Inferring semantically related words from software context
+Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval
+An incremental update framework for efficient retrieval from software libraries for bug localization
+JIRiSS - an Eclipse plug-in for Source Code Exploration
+When Software Impacts the Economy and Environment
+A Cross-Transmission Protocol Architecture Concept for Resource Discovery in P2P Overlay Networks
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Interactive Visualization of Bug Reports Using Topic Evolution and Extractive Summaries
+Recommending Proper API Code Examples for Documentation Purpose
+Using Bug Report Similarity to Enhance Bug Localisation
+TubeTagger - YouTube-based Concept Detection
+Query by example in large-scale code repositories

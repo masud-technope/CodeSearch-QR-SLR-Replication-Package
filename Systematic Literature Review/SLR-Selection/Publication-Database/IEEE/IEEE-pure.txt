@@ -1,0 +1,300 @@
+299
+Query quality prediction and reformulation for source code search: The Refoqus tool
+[Journal First] Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search
+NL-based query refinement and contextualized code search results: A user study
+SE-CodeSearch: A scalable Semantic Web-based source code search infrastructure
+STRICT: Information retrieval based search term identification for concept location
+Exemplar: A Source Code Search Engine for Finding Highly Relevant Applications
+CONQUER: A Tool for NL-Based Query Refinement and Contextualizing Code Search Results
+Finding relevant functions in millions of lines of code
+Retrieving Self-Executable and Functionally Correct Code to Improve Source Code Search
+Precise and Scalable Querying of Syntactical Source Code Patterns Using Sample Code Snippets and a Database
+FaCoY -- A Code-to-Code Search Engine
+Assisting code search with automatic Query Reformulation for bug localization
+Using Structured Queries for Source Code Search
+Improved query reformulation for concept location using CodeRank and document structures
+Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+Integrating source code search into git client for effective retrieving of change history
+Query expansion via WordNet for effective code search
+TextRank based search term identification for software change tasks
+Improving source code search with natural language phrasal representations of method signatures
+Supporting Query Formulation for Text Retrieval Applications in Software Engineering
+Can the use of types and query expansion help improve large-scale code search?
+RACK: Automatic API Recommendation Using Crowdsourced Knowledge
+How developers use multi-recommendation system in local code search
+Query Expansion Based on Crowd Knowledge for Code Search
+A multi-block scheme for searching source codes
+Using ontology fragments in concept location
+Mining search topics from a code search engine usage log
+A case study of paired interleaving for evaluating code search techniques
+Poster: Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+CodeExchange: Supporting Reformulation of Internet-Scale Code Queries in Context (T)
+A search log mining based query expansion technique to improve effectiveness in code search
+Investigating influence of data storage organization on structured code search performance
+Evaluating the specificity of text retrieval queries to support software engineering tasks
+On the Effect of the Query in IR-based Concept Location
+QUICKAR: Automatic query reformulation for concept location using crowdsourced knowledge
+Automatic query reformulations for text retrieval in software engineering
+Towards a Benchmark and Automatic Calibration for IR-Based Concept Location
+On the Use of Input/Output Queries for Code Search
+A flexible compressed text retrieval system using a modified LZW algorithm
+How the Sando search tool recommends queries
+Portfolio: a search engine for finding functions and their usages
+Scaling up evaluation of code search tools through developer usage metrics
+Using Thesaurus-Based Tag Clouds to Improve Test-Driven Code Search
+Expanding Queries for Code Search Using Semantically Related API Class-names
+Poster: LibraryGuru: API Recommendation for Android Developers
+Mixed graph of terms for query expansion
+Automatically detecting the quality of the query and its implications in IR-based concept location
+IDUF: An active learning based scenario for relevance feedback query expansion
+Code Search via Topic-Enriched Dependence Graph Matching
+An approach for ontology-enhanced query refinement in information portals
+Toward social-technical code search
+A Machine Learning Approach for Determining the Validity of Traceability Links
+Clusters-Based Relevance Feedback for CBIR: A Combination of Query Movement and Query Expansion
+An Adaptable Connectionist Text-Retrieval System With Relevance Feedback
+Achieving Feature Location in Families of Models Through the Use of Search-Based Software Engineering
+On the use of relevance feedback in IR-based concept location
+An Educational Resource Retrieval Mechanism Based on Lucene and Topic Index
+CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model
+Supporting exploratory code search with differencing and visualization
+A Code-Centric Cluster-Based Approach for Searching Online Support Forums for Programmers
+Rethinking User Interfaces for Feature Location
+Performance evaluation of information retrieval models in bug localization on the method level
+Automatic query performance assessment during the retrieval of software artifacts
+Source code retrieval on StackOverflow using LDA
+Mixed Graph of Terms: Beyond the Bags of Words Representation of a Text
+SWIM: Synthesizing What I Mean - Code Search and Idiomatic Snippet Synthesis
+Query-Adaptive Fusion for Multimodal Search
+Expanded bag of words representation for object classification
+On the level of code suggestion for reuse
+Cluster-based intelligent searching in unstructured peer-to-peer networks
+Inferring semantically related words from software context
+Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval
+Automatic query expansion based on directed divergence
+API specification-based function search engine using natural language query
+An incremental update framework for efficient retrieval from software libraries for bug localization
+A hybrid searching scheme in unstructured P2P networks
+Automatic text categorization and its application to text retrieval
+Efficient processing of location-cloaked queries
+Exemplar: EXEcutable exaMPLes ARchive
+The Research and Design of the Semantic Search Engine Based on Ontology
+Performance modeling in CUDA streams — A means for high-throughput data processing
+Quranic texts retrieval in Indri
+Development and assessment of bioinformatics tools for species conservation and habitat management
+Enterprise text processing: a sparse matrix approach
+Plausible Deniability for ISP Log and Browser Suggestion Obfuscation with a Phrase Extractor on Potentially Open Text
+Segmental Analysis and Evaluation of User Focused Search Process
+Theme-Weighted Ranking of Keywords from Text Documents Using Phrase Embeddings
+JIRiSS - an Eclipse plug-in for Source Code Exploration
+InfoPlanet: Visualizing a semantic web to improve search results through exploration and discovery
+Secure top-k query processing via untrusted location-based service providers
+Data Intensive Query Processing for Large RDF Graphs Using Cloud Computing Tools
+Range Query Processing in a Multi-GPU Environment
+Improving the Effectiveness of Local Context Analysis Based on Semantic Similarity
+Evaluation of spatio-temporal predicates on moving objects
+When Software Impacts the Economy and Environment
+Targeted search: reducing the time and cost for searching for objects in multiple-server networks
+A bipartite-graph based approach for disaster susceptibility comparisons among cities
+Knowledge-Assisted Sequential Pattern Analysis With Heuristic Parameter Tuning for Labor Contraction Prediction
+OTPM: Failure handling in data-intensive analytical processing
+Multiple Range Query Optimization with Distributed Cache Indexing
+High dimensional similarity joins: algorithms and performance evaluation
+Efficient answering of why-not questions in similar graph matching
+Research on Web service discovery based on domain ontology
+A Cross-Transmission Protocol Architecture Concept for Resource Discovery in P2P Overlay Networks
+An algorithm for keyword search on an execution path
+Load shedding based resource management techniques for RFID data
+Query size estimation using clustering techniques
+Application of proxy and context in information integration portal
+Using hierarchical document evaluation and weighted associations to find experts in enterprise corpora
+Point-versus interval-based temporal data models
+Research of demand recognition based on template matching
+The extended longest common substring algorithm for spoken document retrieval
+The Application of Lucene in Information Leakage Monitoring and Querying System
+Finding trendy products from pins
+Research on File Organization Mechanism Based on Multidimensional Index
+The ADT proximity and text proximity problems
+An adaptive hash join algorithm on a network of workstations
+Probabilistic Similarity Query on Dimension Incomplete Data
+Explaining and Reformulating Authority Flow Queries
+Efficient and scalable query routing for unstructured peer-to-peer networks
+A query optimization for XML document views constructed by aggregations
+Evaluation of AMGA as a Data-Handling tool for a new HEP experiment
+Shape analysis on the hypersphere of wavelet densities
+Developing a data harvester in the Amazon cloud for the automated assimilation of Florida's healthy beaches reports into the GCOOS data portal
+Moving K-Nearest Neighbor Query over Obstructed Regions
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Leveraging mediator cost models with heterogeneous data sources
+Finding family and friends in the aftermath of a disaster using federated queries on social networks and websites
+A Hybrid Model for Microblog Real-Time Filtering
+A QoS Query Language for User-Centric Web Service Selection
+A novel document ranking method using the discrete cosine transform
+Fuzzy Multi-Keyword Query on Encrypted Data in the Cloud
+New Semantic Indexing and Search System  Based on Ontology
+Topic oriented auto-completion models: Approaches towards fastening auto-completion systems
+An Empirical Study of Ontology-Based Multi-Document Summarization in Disaster Management
+Robust Stratified Sampling Plans for Low Selectivity Queries
+CataLogger: a framework for building asset management solutions
+A statistically based design system that promotes design reuse
+Signpost: matching program behavior against known faults
+THALIA: Test Harness for the Assessment of Legacy Information Integration Approaches
+Defending active learning against adversarial inputs in automated document classification
+Improved semantic retrieval of spoken content by language models enhanced with acoustic similarity graph
+Hint-based routing in WSNs using scope decay bloom filters
+The Impact of Retrieval Direction on IR-Based Traceability Link Recovery
+Orchid: Integrating Schema Mapping and ETL
+Interactive Visualization of Bug Reports Using Topic Evolution and Extractive Summaries
+Improving SLP efficiency and extendability by using global attributes and preference filters
+A weighted classification model for peptide identification
+Semantic log analysis based on a user query behavior model
+Use of kernel deep convex networks and end-to-end learning for spoken language understanding
+The extended edit distance metric
+ResultMaps: Visualization for Search Interfaces
+A robust model for intelligent text classification
+Evaluating Different Ranking Functions for Context-Based Literature Search
+Context-sensitive text mining with fitness leveling Genetic Algorithm
+Retrieval of Song Lyrics from Sung Queries
+Minimum latency scheduling for Multi-Regional Query in Wireless Sensor Networks
+Accelerating Topic Exploration of Multi-Dimensional Documents
+High performance data mining using data cubes on parallel computers
+Query answering over fact bases in fuzzy propositional logic
+Searching for Definitional Answers on the Web Using Surface Patterns
+An algebra for inductive query evaluation
+Comparing the memory system performance of DSS workloads on the HP V-Class and SGI Origin 2000
+Querying moving objects with uncertainty
+Scheduling multiple data visualization query workloads on a shared memory machine
+Recommending Proper API Code Examples for Documentation Purpose
+Shallow NLP techniques for noun phrase extraction
+Service-Driven Query Routing in Sensor Networks
+A document-based neural relevance model for effective clinical decision support
+Fuzzy Linguistic Query-based User Profile Learning by Multiobjective Genetic Algorithms
+Dynamic taxonomy composition via keyqueries
+Online Temporal Summarization of News Events
+Research on the privacy-preserving retrieval over ciphertext on cloud
+Unsupervised query-by-example spoken term detection using segment-based Bag of Acoustic Words
+Information content measures of semantic similarity between documents based on Hadoop system
+NELasso: Group-Sparse Modeling for Characterizing Relations Among Named Entities in News Articles
+SDISSASA: A Multiagent-Based Web Mining via Semantic Access to Web Resources in Enterprise Architecture
+An Efficient Algorithm for top-k Queries on Uncertain Data Streams
+Batch is back: CasJobs, serving multi-TB data on the Web
+An integrated environment for management and exploitation of linguistic resources
+Using Bug Report Similarity to Enhance Bug Localisation
+Evaluation of Approaches for Dimensionality Reduction Applied with Naive Bayes Anti-Spam Filters
+Representing and querying changes in semistructured data
+Tackling the qualification problem using fluent dependency constraints: preliminary report
+Resource Information Cache Update Control for Scalable Access Control Management Systems
+A contrario matching of SIFT-like descriptors
+Enhancing Web Service Registries with Semantics and Context Information
+Query folding with inclusion dependencies
+Failure Diagnosis for Distributed Systems Using Targeted Fault Injection
+Cerco: Supporting Range Queries with a Hierarchically Structured Peer-to-Peer System
+Active query selection for semi-supervised clustering
+An approach to model and query event-based temporal data
+Binary codes for non-uniform sources
+A New Ontology-Based Service Matching Algorithm
+Learning Preferences with Millions of Parameters by Enforcing Sparsity
+Fast and regularized local metric for query-based operations
+CUDA acceleration of P7Viterbi algorithm in HMMER 3.0
+Processing incremental multidimensional range queries in a direct manipulation visual query environment
+Keynote abstract
+A formula retrieval method based on hierarchical structure clusters
+Autonomous narration of humanoid robot kitchen task experience
+Encoded bitmap indexing for data warehouses
+A graph-theoretic approach to efficiently reason about partially ordered events in the Event Calculus
+Coarse indices for a tape-based data warehouse
+An Effective Schema Extraction Algorithm on the Deep Web
+Poster: Issues in functional characterization and clustering of genes by literature mining
+Extracting Typical Domain Keywords from Annual Reports of Listed Company
+Using SST/Macro for Effective Analysis of MPI-Based Applications: Evaluating Large-Scale Genomic Sequence Search
+The World in a Nutshell: Concise Range Queries
+Randomized Synopses for Query Assurance on Data Streams
+Active Multitask Learning With Trace Norm Regularization Based on Excess Risk
+Portable information filtering system: network information servers
+Supporting multi-bit simultaneous query in wireless networks with coherent analog bloom filter
+Optimizing graph queries with graph joins and Sprinkle SPARQL
+Efficient Sub-Window Nearest Neighbor Search on Matrix
+On Optimal Evaluation of Preference Queries
+An efficient query platform for streaming and dynamic natural graphs
+Keyword proximity search in XML trees
+Having a BLAST: analyzing gene sequence data with BlastQuest
+Itemset trees for targeted association querying
+Active Learning with Generalized Queries
+Measuring Similarity of Web Services Based on WSDL
+TubeTagger - YouTube-based Concept Detection
+Automatic selection and combination of descriptors for effective 3D similarity search
+Java framework for search applications
+Content-based retrieval using a multi-objective genetic algorithm
+On the need for query-centric unstructured peer-to-peer overlays
+Using social media to study social pheonomena: An example using Twitter data
+A secure order-preserving indexing scheme for outsourced data
+A Big Aurora Data Management Framework Toward Aurora Classification
+Flexible, Efficient and Interactive Retrieval for Supporting In-silico Studies of Endobacteria
+Privacy Preserving Group Nearest Neighbour Queries in Location-Based Services Using Cryptographic Techniques
+The consistency analysis of secondary index on distributed ordered tables
+An analysis programming language applied to the double delay problem in aviation
+Efficient algorithms for K-anonymous location privacy in participatory sensing
+ReadAid: A Robust and Fully-Automated Readability Assessment Tool
+WSExpress: A QoS-aware Search Engine for Web Services
+Flexible and efficient matchmaking and ranking in service directories
+Strider Search Ranger: Towards an Autonomic Anti-Spam Search Engine
+BFilter - A XML Message Filtering and Matching Approach in Publish/Subscribe Systems
+Supporting high performance bioinformatics flat-file data processing using indices
+Robust Sparse Hashing
+Improved concurrency control techniques for multi-dimensional index structures
+Cost-Sensitive Multi-strategy Active Annotation for Text Classification
+Domain specific searches using conceptual spectra
+MRapid: An Efficient Short Job Optimizer on Hadoop
+A Research Plan to Study Impact of a Collaborative Web Search Tool on Novice's Query Behavior
+Localized Energy Efficient Detection and Tracking of Dynamic Phenomena
+Distributed, secure load balancing with skew, heterogeneity and churn
+Deriving Streaming Graph Algorithms from Static Definitions
+A scalable cooperative semantic caching (CoopSC) approach to improve range queries
+Your best might not be good enough: Ranking in collaborative social search engines
+Distributed Storage and Querying Techniques for a Semantic Web of Scientific Workflow Provenance
+Learning to route queries in unstructured P2P networks: Achieving throughput optimality subject to query resolution constraints
+Adding Constraints and Flexible Preferences in Travel Reservation Systems
+Incremental Query Answering over Dynamic Contextual Information
+Efficient Data Collection with Sampling in WSNs: Making Use of Matrix Completion Techniques
+Resource and query aware, peer-to-peer-based multi-attribute Resource Discovery
+Spark on entropy: A reliable & efficient scheduler for low-latency parallel jobs in heterogeneous cloud
+A framework for improving the performance of verification algorithms with a low false positive rate requirement and limited training data
+Dynamic data allocation with replication in distributed systems
+Online advertisement, optimization and stochastic networks
+Bringing efficient advanced queries to distributed hash tables
+A factor tree inference algorithm for Bayesian networks and its applications
+Evaluating the Uncertainty of a Bayesian Network Query Response by Using Joint Probability Distribution
+Scalable Algorithms for Distribution Search
+A Fuzzy Trust Management Framework for Service Web
+Distributed querying of Internet distance information
+A Comprehension Approach for Formalizing Privacy Rules of HIPAA for Decision Support
+Ontology-based peer exchange network(OPEN)
+Service discovery for delay tolerant networks
+A fast sketch for aggregate queries over high-speed network traffic
+PrIvacy Risks And Countermeasures In Publishing And Mining Social Network Data
+SkILL - A Stochastic Inductive Logic Learner
+Time indexing in sensor networks
+An effective pointer replication algorithm in P2P networks
+AIMS: An agent-based information management system in JBI-like environments
+Detecting Distributed Scans Using High-Performance Query-Driven Visualization
+Query by example in large-scale code repositories
+Cross-Modal Correlation Learning by Adaptive Hierarchical Semantic Aggregation
+IIT Intranet Mediator: bringing data together on a corporate intranet
+Fast nearest neighbor search in high-dimensional space
+A Technique for Power-Aware Query-Informed Routing in Support of Long-Duration Queries for Sensor Networks
+A grammar-based index for matching business processes
+Web service discovery based on behavior signatures
+BigDataBench-S: An Open-Source Scientific Big Data Benchmark Suite
+CATS: A topology construction based on semantic group for Capacity-Aware in heterogeneous P2P networks
+XWRAPComposer: a multi-page data extraction service for bio-computing applications
+Distributed Real-Time Traffic Data Management
+Heterogeneity and load balance in distributed hash tables
+A similarity evaluation algorithm and its application in multi-keyword search on encrypted cloud data
+Personalized News Filtering and Summarization on the Web
+3D-SE Viewer: A Text Mining Tool based on Bipartite Graph Visualization
+Adaptive quality equalizing: high-performance load balancing for parallel branch-and bound across applications and computing systems
+Fuzzy data mining for querying and retrieval of research archival information
+Path-augmented keyword search for XML documents
+Google Penguin: Evasion in Non-English Languages and a New Classifier

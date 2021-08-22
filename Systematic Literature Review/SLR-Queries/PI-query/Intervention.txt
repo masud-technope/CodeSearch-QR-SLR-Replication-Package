@@ -1,0 +1,37 @@
+ "query reformulation"
+ OR
+ "query expansion"
+ OR
+ "query reduction"
+ OR
+ "query formulation"
+ OR
+ "query refinement"
+ OR
+ "automated query expansion"
+ OR
+ "AQE"
+ OR
+ "query suggestion"
+ OR
+ "query recommendation"
+ OR
+ "term selection"
+ OR
+ "query replacement"
+ OR
+ "query difficulty"
+ OR
+ "query quality"
+ OR
+ "keyword selection"
+ OR
+ "keyword extraction"
+ OR
+ "search term identification"
+ OR
+ "search query"
+ OR
+ "search term"
+ OR
+ "search keyword"

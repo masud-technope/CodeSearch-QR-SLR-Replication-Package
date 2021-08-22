@@ -1,0 +1,115 @@
+114
+Dictionary-based Query Recommendation for Local Code Search
+What Do Developers Search for in Source Code and Why
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Query Quality Prediction and Reformulation for Source Code Search: The Refoqus Tool
+Sourcerer: A Search Engine for Open Source Code Supporting Structure-based Search
+Automatic Query Performance Assessment During the Retrieval of Software Artifacts
+An Algorithm Search Engine for Software Developers
+Automatic Search Term Identification for Change Tasks
+Thesaurus-based Automatic Query Expansion for Interface-driven Code Search
+Towards Query Formulation and Visualization of Structural Search Results
+User Intent Transition for Explicit Collaborative Search Through Groups Recommendation
+Typestate-based Semantic Code Search over Partial Programs
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+On the Equilibrium of Query Reformulation and Document Retrieval
+Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search
+Improving IR-based Bug Localization with Context-aware Query Reformulation
+QUICKAR: Automatic Query Reformulation for Concept Location Using Crowdsourced Knowledge
+From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering
+Query Expansion Using Associated Queries
+Enriching Documents with Examples: A Corpus Mining Approach
+Query Reformulation Patterns of Mixed Language Queries in Different Search Intents
+Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+Knowledge-based Query Expansion to Support Scenario-specific Retrieval of Medical Free Text
+A Data Driven Approach to Query Expansion in Question Answering
+Summarization-based Query Expansion in Information Retrieval
+Embellishing Text Search Queries to Protect User Privacy
+Result-size Estimation for Information-retrieval Subqueries
+A Machine Learning Approach for Determining the Validity of Traceability Links
+High-performance Processing of Text Queries with Tunable Pruned Term and Term Pair Indexes
+A Term-based Inverted Index Partitioning Model for Efficient Distributed Query Processing
+APIBook: An Effective Approach for Finding APIs
+Exploiting Temporal Information in Retrieval of Archived Documents
+A Highly Scalable and Effective Method for Metasearch
+How Developers Search for Code: A Case Study
+Improving Feature Location Practice with Multi-faceted Interactive Exploration
+Rethinking User Interfaces for Feature Location
+Optimization Strategies for Complex Queries
+SNIAFL: Towards a Static Non-Interactive Approach to Feature Location
+Bing Developer Assistant: Improving Developer Productivity by Recommending Sample Code
+Comparing the Performance of Collection Selection Algorithms
+Improving Text Retrieval Precision and Answer Accuracy in Question Answering Systems
+Towards Automated Creation of High Quality Domain-specific Machine Translation Resources
+Relationship-aware Code Search for JavaScript Frameworks
+Incorporating Terminology Evolution for Query Translation in Text Retrieval with Association Rules
+Red Fox: An Execution Environment for Relational Query Processing on GPUs
+Methods for Information Server Selection
+Searching API Usage Examples in Code Repositories with Sourcerer API Search
+Inverted Files for Text Search Engines
+Synthesizing Type-Detection Logic for Rich Semantic Data Types Using Open-source Code
+Confidence Bounds for Sampling-based Group by Estimates
+Feedback-driven Result Ranking and Query Refinement for Exploring Semi-structured Data Collections
+Searching Program Source Code with a Structured Text Retrieval System (Poster Abstract)
+Back to Our Roots for Retrieving Very Short Passages
+Pseudo-random Number Generation for Sketch-based Estimations
+Improving the Effectiveness of Information Retrieval with Local Context Analysis
+DI-DAP: An Efficient Disaster Information Delivery and Analysis Platform in Disaster Management
+Optimal Aggregation Policy for Reducing Tail Latency of Web Search
+Ranking Distributed Probabilistic Data
+Metadata Visualization of Scholarly Search Results: Supporting Exploration and Discovery
+Randomized Algorithms for Data Reconciliation in Wide Area Aggregate Query Processing
+What Makes a Query Temporally Sensitive?
+Is XML Retrieval Meaningful to Users?: Searcher Preferences for Full Documents vs. Elements
+Temporal Profiles of Queries
+Manually Locating Features in Industrial Source Code: The Search Actions of Software Nomads
+From Concepts to Implementation and Visualization: Tools from a Team-based Approach to Ir
+Dynamic Taxonomy Composition via Keyqueries
+Discovering Parallel Text from the World Wide Web
+Query-page Intention Matching Using Clicked Titles and Snippets to Boost Search Rankings
+Hits on the Web: How Does It Compare?
+Industrial Evaluation of a Highly-accurate Academic IR System
+Search Engine Support for Software Applications
+Load Balancing for Term-distributed Parallel Retrieval
+Automatically Capturing Source Code Context of NL-queries for Software Maintenance and Reuse
+To Clean or Not to Clean: Document Preprocessing and Reproducibility
+A Music Search Engine for Therapeutic Gait Training
+Ranking Retrieval Systems Without Relevance Judgments
+The Sort-Merge-Shrink Join
+Aggregation Methods for Large-scale Sensor Networks
+Personalized Ranking: A Contextual Ranking Approach
+Choosing Math Features for BM25 Ranking with Tangent-L
+Finding Related Entities
+A Community Question-answering Refinement System
+Cardinality Estimation for the Optimization of Queries on Ontologies
+A Study of the Relationship Between Ad Hoc Retrieval and Expert Finding in Enterprise Environment
+Studying Chinese-English Mixed Language Queries from the User Perspectives
+Fast On-line Index Construction by Geometric Partitioning
+Fast and Flexible Word Searching on Compressed Text
+Probabilistic String Similarity Joins
+Flexible Aggregate Similarity Search
+SpSJoin: Parallel Spatial Similarity Joins
+Incremental Computation of Complex Object Queries
+Visual Business Recognition: A Multimodal Approach
+Rewriting Queries on SPARQL Views
+Incremental Query Evaluation for Support Vector Machines
+Statistical Analysis of Sketch Estimators
+Evaluating How Developers Use General-purpose Web-search for Code Retrieval
+Transfer Non-metric Measures into Metric for Similarity Search
+Are Internet Searches a Reliable Source of Information for Answering Residents' Clinical Questions in the Emergency Room
+Indexing for Efficient Processing of Noise-free Queries
+Word Sense Disambiguation in Queries
+Development of an Open and Scalable Web-based Information Publishing System
+Robust Estimation with Sampling and Approximate Pre-aggregation
+MADden: Query-driven Statistical Text Analytics
+Knowledge Entry As the Graphical Assembly of Components
+A Bayesian Method for Guessing the Extreme Values in a Data Set?
+Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data
+The Effect of Task Domain on Search
+Using Geo-spatial Session Tagging for Smart Multicast Session Discovery
+Capturing Interest Through Inference and Visualization: Ontological User Profiling in Recommender Systems
+A Comparison of String Similarity Measures for Toponym Matching
+Relational Confidence Bounds Are Easy with the Bootstrap
+Histograms Revisited: When Are Histograms the Best Approximation Method for Aggregates over Joins?

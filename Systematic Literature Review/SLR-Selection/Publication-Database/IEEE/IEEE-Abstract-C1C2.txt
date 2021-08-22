@@ -1,0 +1,42 @@
+41
+Query quality prediction and reformulation for source code search: The Refoqus tool
+Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search
+NL-based query refinement and contextualized code search results: A user study
+STRICT: Information retrieval based search term identification for concept location
+CONQUER: A Tool for NL-Based Query Refinement and Contextualizing Code Search Results
+Precise and Scalable Querying of Syntactical Source Code Patterns Using Sample Code Snippets and a Database
+Assisting code search with automatic Query Reformulation for bug localization
+Using Structured Queries for Source Code Search
+Improved query reformulation for concept location using CodeRank and document structures
+Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+Query expansion via WordNet for effective code search
+TextRank based search term identification for software change tasks
+Improving source code search with natural language phrasal representations of method signatures
+Supporting Query Formulation for Text Retrieval Applications in Software Engineering
+Can the use of types and query expansion help improve large-scale code search?
+How developers use multi-recommendation system in local code search
+Query Expansion Based on Crowd Knowledge for Code Search
+Using ontology fragments in concept location
+Poster: Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+CodeExchange: Supporting Reformulation of Internet-Scale Code Queries in Context
+A search log mining based query expansion technique to improve effectiveness in code search
+Evaluating the specificity of text retrieval queries to support software engineering tasks
+On the Effect of the Query in IR-based Concept Location
+QUICKAR: Automatic query reformulation for concept location using crowdsourced knowledge
+Automatic query reformulations for text retrieval in software engineering
+On the Use of Input/Output Queries for Code Search
+Using Thesaurus-Based Tag Clouds to Improve Test-Driven Code Search
+Expanding Queries for Code Search Using Semantically Related API Class-names
+Automatically detecting the quality of the query and its implications in IR-based concept location
+Code Search via Topic-Enriched Dependence Graph Matching
+Toward social-technical code search
+On the use of relevance feedback in IR-based concept location
+CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model
+Automatic query performance assessment during the retrieval of software artifacts
+Source code retrieval on StackOverflow using LDA
+SWIM: Synthesizing What I Mean - Code Search and Idiomatic Snippet Synthesis
+Inferring semantically related words from software context
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Query by example in large-scale code repositories

@@ -1,0 +1,75 @@
+74
+Query Reformulation Based on User Habits for Query-by-Humming Systems.
+Where do the query terms come from? - an analysis of query reformulation in collaborative web search.
+Query Reformulation Behavior in an Interactive Query Expansion Environment.
+Transitive history-based query disambiguation for query reformulation.
+Generation of Query-Biased Concepts Using Content and Structure for Query Reformulation.
+Query reformulation using automatically generated query concepts from a document space.
+Automatic query reformulations for feature location in a model-based family of software products.
+Examining the impact of domain and cognitive complexity on query formulation and reformulation.
+Multidimensional query reformulation with measure decomposition.
+Translating Embeddings for Modeling Query Reformulation.
+RIN - Reformulation Inference Network for Context-Aware Query Suggestion.
+Improving bug localization with report quality dynamics and query reformulation.
+On the Equilibrium of Query Reformulation and Document Retrieval.
+QUICKAR - Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge.
+Improved Query Reformulation for Concept Location using CodeRank and Document Structures.
+Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics.
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation.
+Learning to Coordinate Multiple Reinforcement Learning Agents for Diverse Query Reformulation.
+Multimodal Retrieval using Mutual Information based Textual Query Reformulation.
+Bridging the gap - effect of text query reformulation in multimodal retrieval.
+Query Reformulation Patterns of Mixed Language Queries in Different Search Intents.
+Task-Oriented Query Reformulation with Reinforcement Learning.
+User Information Needs Through Query Reformulation.
+Query Reformulation Patterns in Cross-Device OPAC Search.
+Diversified Semantic Query Reformulation.
+Generating Plans from Proofs - The Interpolation-based Approach to Query Reformulation
+Exploring the relationships between search intentions and query reformulations.
+Effects of Topic Familiarity on Query Reformulation Strategies.
+What Affects Word Changes in Query Reformulation During a Task-based Search Session?
+Pseudo-Query Reformulation.
+Query reformulation by leveraging crowd wisdom for scenario-based software search.
+Learning Optimal Card Ranking from Query Reformulation.
+A term-based methodology for query reformulation understanding.
+What the user does not want? - query reformulation through term inclusion-exclusion.
+SMERA - Semantic Mixed Approach for Web Query Expansion and Reformulation.
+Graph Query Reformulation with Diversity.
+An Eye-Tracking Study of Query Reformulation.
+Learning user reformulation behavior for query auto-completion.
+Complete yet practical search for minimal query reformulations under constraints.
+A dynamic composition of ontology modules approach - application to web query reformulation.
+Modeling reformulation using query distributions.
+Automatic query reformulations for text retrieval in software engineering.
+Assisting code search with automatic query reformulation for bug localization.
+Predicting query reformulation type from user behavior.
+Relationship between the nature of the search task types and query reformulation behaviour.
+Searcher's perceptions for query reformulation behavior on the web.
+Contextual evaluation of query reformulations in a search session by user simulation.
+Analysis of Query Reformulations in a Search Engine of a Local Web Site.
+Keyword Query Reformulation on Structured Data.
+Automatic query reformulation with syntactic operators to alleviate search difficulty.
+A Query Reformulation Model Using Markov Graphic Method.
+Structure-based Interrogation and Automatic Query Reformulation.
+LambdaMerge - merging the results of query reformulations.
+Lightweight information integration through partial mapping and query reformulation.
+Analysis and evaluation of query reformulations in different task types.
+Developing a detailed view of query reformulation - One step in an incremental approach.
+A GIR architecture with semantic-flavored query reformulation.
+A Context-based Model for Web Query Reformulation.
+Web Query Reformulation Using Differential Evolution.
+Learning to rank query reformulations.
+Generalized syntactic and semantic models of query reformulation.
+Predicting query reformulation during web searching.
+Query Reformulation Based on Relevance Feedback.
+Mining term association patterns from search logs for effective query reformulation.
+Exploring Query Formulation and Reformulation - A Preliminary Study to Map Users' Search Behaviour.
+Query reformulation, search performance, and term suggestion devices in question-answering tasks.
+Query Reformulation and Refinement Using NLP-Based Sentence Clustering.
+Lexical analysis for modeling web query reformulation.
+Query topic detection for reformulation.
+Relevance judgments and query reformulation by users interacting with a speech retrieval system.
+Query reformulation with constraints.
+Discovering Remote Software Services that Satisfy Requirements - Patterns for Query Reformulation.
+Identifying Relevant Sources in Query Reformulation.
+Using Oracle for natural language document retrieval an automatic query reformulation approach.

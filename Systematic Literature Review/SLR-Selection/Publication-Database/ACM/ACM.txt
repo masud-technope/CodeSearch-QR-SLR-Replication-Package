@@ -1,0 +1,177 @@
+176
+Dictionary-based Query Recommendation for Local Code Search
+What Do Developers Search for in Source Code and Why
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Query Quality Prediction and Reformulation for Source Code Search: The Refoqus Tool
+Sourcerer: A Search Engine for Open Source Code Supporting Structure-based Search
+Automatic Query Performance Assessment During the Retrieval of Software Artifacts
+An Algorithm Search Engine for Software Developers
+Automatic Search Term Identification for Change Tasks
+On Content-driven Search-keyword Suggesters for Literature Digital Libraries
+Thesaurus-based Automatic Query Expansion for Interface-driven Code Search
+Towards Query Formulation and Visualization of Structural Search Results
+User Intent Transition for Explicit Collaborative Search Through Groups Recommendation
+Typestate-based Semantic Code Search over Partial Programs
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+On the Equilibrium of Query Reformulation and Document Retrieval
+Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search
+Improving IR-based Bug Localization with Context-aware Query Reformulation
+QUICKAR: Automatic Query Reformulation for Concept Location Using Crowdsourced Knowledge
+From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering
+AMORE: A World-wide Web Image Retrieval Engine
+Query Expansion Using Associated Queries
+Enriching Documents with Examples: A Corpus Mining Approach
+Query Reformulation Patterns of Mixed Language Queries in Different Search Intents
+Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+Knowledge-based Query Expansion to Support Scenario-specific Retrieval of Medical Free Text
+A Robust Framework for Content-based Retrieval by Spatial Similarity in Image Databases
+A Data Driven Approach to Query Expansion in Question Answering
+Image Retrieval with Automatic Query Expansion Based on Local Analysis in a Semantical Concept Feature Space
+Summarization-based Query Expansion in Information Retrieval
+Readers' Search Strategies for Accessing Books in Public Libraries
+Embellishing Text Search Queries to Protect User Privacy
+Browsing  Large Digital Library Collections Using Classification Hierarchies
+An Approach to Search for the Digital Library
+Scalable Search Platform: Improving Pipelined Query Processing for Distributed Full-text Retrieval
+Result-size Estimation for Information-retrieval Subqueries
+A Full-text Retrieval Toolkit for Mobile Desktop Search
+A Unified Environment for Fusion of Information Retrieval Approaches
+Enhancing Keyword-based Botanical Information Retrieval with Information Extraction
+Privacy-preserving Similarity-based Text Retrieval
+A Machine Learning Approach for Determining the Validity of Traceability Links
+High-performance Processing of Text Queries with Tunable Pruned Term and Term Pair Indexes
+Ranking Information Resources in Peer-to-peer Text Retrieval: An Experimental Study
+EMU: The Emory User Behavior Data Management System for Automatic Library Search Evaluation
+Query Expansion Using Probabilistic Local Feedback with Application to Multimedia Retrieval
+Spoken Content Retrieval: Beyond Cascading Speech Recognition with Text Retrieval
+A Term-based Inverted Index Partitioning Model for Efficient Distributed Query Processing
+APIBook: An Effective Approach for Finding APIs
+Exploiting Temporal Information in Retrieval of Archived Documents
+Efficient Secure Text Retrieval on Multi-Keyword Search
+A Highly Scalable and Effective Method for Metasearch
+How Developers Search for Code: A Case Study
+Explorative Multilingual Text Retrieval Based on Fuzzy Multilingual Keyword Classification
+Phrase Processing Methods for Japanese Text Retrieval
+Experiments with English-Persian Text Retrieval
+Improving Feature Location Practice with Multi-faceted Interactive Exploration
+Rethinking User Interfaces for Feature Location
+Optimization Strategies for Complex Queries
+Managing Syntactic Variation in Text Retrieval
+Global Resources for Peer-to-peer Text Retrieval
+Enhance the Interoperability of the Library Search Systems with zSAPN
+SNIAFL: Towards a Static Non-Interactive Approach to Feature Location
+Bing Developer Assistant: Improving Developer Productivity by Recommending Sample Code
+Mining Pure High-order Word Associations via Information Geometry for Information Retrieval
+Comparing the Performance of Collection Selection Algorithms
+Exploiting Locality for Query Processing and Compression in Scientific Databases
+Improving Text Retrieval Precision and Answer Accuracy in Question Answering Systems
+Towards Automated Creation of High Quality Domain-specific Machine Translation Resources
+Relationship-aware Code Search for JavaScript Frameworks
+Incorporating Terminology Evolution for Query Translation in Text Retrieval with Association Rules
+The Impact of Evaluation on Multilingual Text Retrieval
+Red Fox: An Execution Environment for Relational Query Processing on GPUs
+Methods for Information Server Selection
+A Unified Inverted Index for an Efficient Image and Text Retrieval
+Searching API Usage Examples in Code Repositories with Sourcerer API Search
+Corrupted Queries in Spanish Text Retrieval: Error Correction vs. N-Grams
+Inverted Files for Text Search Engines
+Intra-query Concurrent Pipelined Processing for Distributed Full-text Retrieval
+In-place Versus Re-build Versus Re-merge: Index Maintenance Strategies for Text Retrieval Systems
+Browsing by Phrases: Terminological Information in Interactive Multilingual Text Retrieval
+A Novel Hybrid Index Structure for Efficient Text Retrieval
+AlvisP2P: Scalable Peer-to-peer Text Retrieval in a Structured P2P Network
+Robust Interpretation of User Requests for Text Retrieval in a Multimodal Environment
+Semantic Concept-based Query Expansion and Re-ranking for Multimedia Retrieval
+Automatic Transliteration for Japanese-to-English Text Retrieval
+Synthesizing Type-Detection Logic for Rich Semantic Data Types Using Open-source Code
+Confidence Bounds for Sampling-based Group by Estimates
+Feedback-driven Result Ranking and Query Refinement for Exploring Semi-structured Data Collections
+Searching Program Source Code with a Structured Text Retrieval System (Poster Abstract)
+Back to Our Roots for Retrieving Very Short Passages
+Pseudo-random Number Generation for Sketch-based Estimations
+Improving the Effectiveness of Information Retrieval with Local Context Analysis
+MIaS: Math-Aware Retrieval in Digital Mathematical Libraries
+DI-DAP: An Efficient Disaster Information Delivery and Analysis Platform in Disaster Management
+Improving Image Retrieval Effectiveness in Query-by-example Environment
+Optimal Aggregation Policy for Reducing Tail Latency of Web Search
+Ranking Distributed Probabilistic Data
+An Efficient Core-area Detection Algorithm for Fast Noise-free Image Query Processing
+Scalable Approximate Query Processing with the DBO Engine
+Metadata Visualization of Scholarly Search Results: Supporting Exploration and Discovery
+Randomized Algorithms for Data Reconciliation in Wide Area Aggregate Query Processing
+What Makes a Query Temporally Sensitive?
+Is XML Retrieval Meaningful to Users?: Searcher Preferences for Full Documents vs. Elements
+Temporal Profiles of Queries
+Manually Locating Features in Industrial Source Code: The Search Actions of Software Nomads
+From Concepts to Implementation and Visualization: Tools from a Team-based Approach to Ir
+Dynamic Taxonomy Composition via Keyqueries
+Discovering Parallel Text from the World Wide Web
+Query-page Intention Matching Using Clicked Titles and Snippets to Boost Search Rankings
+Hits on the Web: How Does It Compare?
+Industrial Evaluation of a Highly-accurate Academic IR System
+Question Answering in TREC
+Search Engine Support for Software Applications
+Load Balancing for Term-distributed Parallel Retrieval
+An Empirical Investigation of User Term Feedback in Text-based Targeted Image Search
+Automatically Capturing Source Code Context of NL-queries for Software Maintenance and Reuse
+To Clean or Not to Clean: Document Preprocessing and Reproducibility
+User Term Feedback in Interactive Text-based Image Retrieval
+A Music Search Engine for Therapeutic Gait Training
+Ranking Retrieval Systems Without Relevance Judgments
+Portfolio Theory of Information Retrieval
+The Sort-Merge-Shrink Join
+Online Estimation for Subset-based SQL Queries
+Efficient Online Index Construction for Text Databases
+Aggregation Methods for Large-scale Sensor Networks
+Personalized Ranking: A Contextual Ranking Approach
+Flexible and Efficient IR Using Array Databases
+Choosing Math Features for BM25 Ranking with Tangent-L
+Probabilistic Models for Answer-ranking in Multilingual Question-answering
+A Method of Geographical Name Extraction from Japanese Text for Thematic Geographical Search
+Finding Related Entities
+A Community Question-answering Refinement System
+Cataloging and Search Engine for Video Library
+Cardinality Estimation for the Optimization of Queries on Ontologies
+A Study of the Relationship Between Ad Hoc Retrieval and Expert Finding in Enterprise Environment
+Studying Chinese-English Mixed Language Queries from the User Perspectives
+Fast On-line Index Construction by Geometric Partitioning
+Fast and Flexible Word Searching on Compressed Text
+Probabilistic String Similarity Joins
+Flexible Aggregate Similarity Search
+SpSJoin: Parallel Spatial Similarity Joins
+Harvesting Translingual Vocabulary Mappings for Multilingual Digital Libraries
+Incremental Computation of Complex Object Queries
+Visual Business Recognition: A Multimodal Approach
+Rewriting Queries on SPARQL Views
+Incremental Query Evaluation for Support Vector Machines
+Statistical Analysis of Sketch Estimators
+Evaluating How Developers Use General-purpose Web-search for Code Retrieval
+Transfer Non-metric Measures into Metric for Similarity Search
+Are Internet Searches a Reliable Source of Information for Answering Residents' Clinical Questions in the Emergency Room
+Indexing for Efficient Processing of Noise-free Queries
+Word Sense Disambiguation in Queries
+The DBO Database System
+Development of an Open and Scalable Web-based Information Publishing System
+Robust Estimation with Sampling and Approximate Pre-aggregation
+MADden: Query-driven Statistical Text Analytics
+A Non-linear Dimensionality-reduction Technique for Fast Similarity Search in Large Databases
+Knowledge Entry As the Graphical Assembly of Components
+Towards Effective Strategies for Monolingual and Bilingual Information Retrieval: Lessons Learned from NTCIR-4
+Web-based Information Content and Its Application to Concept-based Video Retrieval
+Reference-based Indexing of Sequence Databases
+A Bayesian Method for Guessing the Extreme Values in a Data Set?
+MCDB: A Monte Carlo Approach to Managing Uncertain Data
+Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data
+The Effect of Task Domain on Search
+Exploring Biomedical Databases with BioNav
+Efficient and Effective Metasearch for a Large Number of Text Databases
+Using Geo-spatial Session Tagging for Smart Multicast Session Discovery
+Capturing Interest Through Inference and Visualization: Ontological User Profiling in Recommender Systems
+A Comparison of String Similarity Measures for Toponym Matching
+Efficient Content-based Indexing of Large Image Databases
+Relational Confidence Bounds Are Easy with the Bootstrap
+Histograms Revisited: When Are Histograms the Best Approximation Method for Aggregates over Joins?
+Discovering Quasi-equivalence Relationships from Database Systems
+A Unified Framework for Image Database Clustering and Content-based Retrieval

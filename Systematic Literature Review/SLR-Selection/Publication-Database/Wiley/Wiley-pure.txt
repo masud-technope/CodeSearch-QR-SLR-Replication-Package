@@ -1,0 +1,11 @@
+10
+Query expansion based on statistical learning from code changes
+Visualizing Expanded Query Results
+Toward an anatomy of IR system component performances
+Modeling multiple interactions with a Markov random field in query expansion for session search
+Automated email answering by text?pattern matching: Performance and error analysis
+Impact of structural weighting on a latent Dirichlet allocation–based feature location technique
+Mining unit test cases to synthesize API usage examples
+TMAP: Discovering relevant API methods through text mining of API documentation
+RESeED: A secure regular?expression search tool for storage clouds
+Detecting temporal patterns of user queries

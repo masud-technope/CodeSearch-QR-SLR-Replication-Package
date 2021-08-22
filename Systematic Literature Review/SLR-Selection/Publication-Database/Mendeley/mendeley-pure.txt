@@ -1,0 +1,124 @@
+123
+Assisting code search with automatic Query Reformulation for bug localization
+Query quality prediction and reformulation for source code search: The Refoqus tool
+Query expansion via WordNet for effective code search
+Dictionary-Based Query Recommendation for Local Code Search
+Thesaurus-based automatic query expansion for interface-driven code search
+How developers use multi-recommendation system in local code search
+NL-based query refinement and contextualized code search results: A user study
+Multimodal Retrieval using Mutual Information based Textual Query Reformulation
+STRICT: Information retrieval based search term identification for concept location
+Design and evaluation of a multi-recommendation system for local code search
+Augmenting and structuring user queries to support efficient free-form code search
+Radon daughter exposure to uranium miners
+RACK: Automatic API Recommendation Using Crowdsourced Knowledge
+Novel Query Expansion Technique Using Apriori Algorithm
+Automatic search term identification for change tasks
+Summarization-based query expansion in information retrieval
+Improving bug localization with report quality dynamics and query reformulation
+Query Expansion Based on Crowd Knowledge for Code Search
+Precise and scalable querying of syntactical source code patterns using sample code snippets and a database
+Towards query formulation and visualization of structural search results
+Supporting query formulation for text retrieval applications in software engineering
+Studies on the chemical constituents of Uncaria yunanensis Hsia. C. C
+Query Expansion for Noisy Legal Documents
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Bridging the gap: effect of text query reformulation in multimodal retrieval
+Improved query reformulation for concept location using CodeRank and document structures
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+QUICKAR : Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge
+Automatic query reformulations for feature location in a model-based family of software products
+A multi-block scheme for searching source codes
+Keyword extraction based on pagerank
+Combining fields for query expansion and adaptive query expansion
+Query expansion using associated queries
+Mixed graph of terms for query expansion
+Weighted Word Pairs for query expansion
+Phonetic query expansion for spoken document retrieval
+A term-based inverted index partitioning model for efficient distributed query processing
+Text classification and keyword extraction by learning decision trees
+Query reformulation by leveraging crowd wisdom for scenario-based software search
+Using ontology fragments in concept location
+A syntactically-based query reformulation technique for information retrieval
+Can the use of types and query expansion help improve large-scale code search?
+CONQUER: A tool for NL-based query refinement & contextualizing code search results
+Improve text retrieval effectiveness and robustness
+Using semantic lexicons for full text message retrieval in a communication aid
+Experiments on interfaces to support query expansion
+New tools and old habits: the interactive searching behavior of expert
+Term norm distribution and its effects on Latent Semantic Indexing
+Interactive query expansion in an OPAC: interface and retrieval issues
+A query expansion method based on a weighted word pairs approach
+A search log mining based query expansion technique to improve effectiveness in code search
+Improving Text Retrieval Accuracy by Using a Minimal Relevance Feedback
+Rethinking User Interfaces for Feature Location
+The influence of relevance levels on the effectiveness of interactive information retrieval
+A novel query expansion technique based on a mixed Graph of Terms
+Congenital glaucoma surgery: A neglected field in ophthalmology?
+LANGLANDS DUALITY IN LIOUVILLE-$H^3_+$ WZNW CORRESPONDENCE
+Metric indexing for the vector model in Text Retrieval
+A data driven approach to query expansion in question answering
+Improving the effectiveness of local context analysis based on semantic similarity
+An Effective and Scalable Framework for Authorship Attribution Query Processing
+Combining candidate and document models for expert search
+Relationship-aware code search for JavaScript frameworks
+Further studies on the effect of low-dose laser irradiation on cultured retinal pigment cells of the chick
+A comparison of deep learning based query expansion with pseudo-relevance feedback and mutual information
+Learning to expand queries using entities
+Scaling up evaluation of code search tools through developer usage metrics
+Range query processing in a multi-GPU environment
+Typestate-based semantic code search over partial programs
+Using Syntactic and Semantic Relation Analysis in Question Answering
+Processes and Status of Land Degradation in a Plateau Fringe Region of Tropical Environment
+Total recall: Automatic query expansion with a generative feature model for object retrieval
+RACK: Code search in the IDE using crowdsourced knowledge
+Optimizing Document Indexing and Search Term Weighting Based on Probabilistic Models
+Thesaurus-based tag clouds for test-driven code search
+Indexing and retrieval of broadcast news
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Retrieval of broadcast news documents with the THISL system
+Expanded bag of words representation for object classification
+A quantum logic-based query processing approach for extending relational query languages
+Fluorinated monovacancies in graphene: Even-odd effect
+Ultraviolet light induction of peripheral granulocytosis with splenomegaly: protection of mice with topical p?aminobenzoic acid (PABA)
+Use of syntactic context to produce term association lists for text retrieval
+Overcoming Vocabulary Limitations in Twitter Microblogs
+The co-effects of query structure and expansion on retrieval performance in probabilistic text retrieval
+Using large clinical corpora for query expansion in text-based cohort identification
+Query Generation as Result Aggregation for Knowledge Representation
+JIRiSS - An Eclipse plug-in for source code exploration
+Using thesaurus-based tag clouds to improve test-driven code search
+Optimizing Similarity Using Multi-Query Relevance Feedback
+Estimating Semantic Similarity between Expanded Query and Tweet Content for Microblog Retrieval
+Recent Experiments with INQUERY
+A robust model for intelligent text classification
+Cross-lingual document retrieval categorisation and navigation based on distributed services
+Back to basics - Again - for domain-specific retrieval
+Calculating optimal queries from the query relevance file
+Document thumbnail visualizations for rapid relevance judgments : When do they pay off ?
+Graph-based retrieval of information in hypertext systems
+A machine learning approach for determining the validity of traceability links
+Le th????tre vu dans l'optique de la biologie des comportements.
+Adaptive and Context-Aware Information Environments Based on ODIN - Using Semantic and Task Knowledge for User Interface Adaptation in Information Systems
+Metadata visualization of scholarly search results
+Topic modeling for expert finding using latent Dirichlet allocation
+Toward entity retrieval over structured and text data
+DCU at Wikipedia MM 2009: Document expansion from wikipedia abstracts
+Lucene, MetaMap, and language modeling: OHSU at CLEF eHealth 2013
+Pairwise similarity propagation based graph clustering for scalable object indexing and retrieval
+Challenges posed by web-based retrieval of scientific papers: Okapi participation in TIPS
+A randomized comparison of Melphalan versus Melphalan plus Corynebacterium parvum in the treatment of stage III (optimal) epithelial carcinoma of the ovary. A preliminary gynecological oncology group report
+Indian statistical institute at INEX 2008 adhoc track
+Semantic code browsing
+APIBook - An effective approach for finding APIs
+Modeling Concept and Context to Improve Performance in eDiscovery
+Performance parameters degradation of inverted organic solar cells exposed under solar and artificial irradiance, using PTB7:PC70BM as active layer
+Salton and Buckley's landmark research in experimental text information retrieval
+Analysis on the use of Latent Semantic Indexing ( LSI ) for document classification and retrieval system of PNP files
+Identification of genetic markers associated with fatness and leg weakness traits in the pig
+Timing of umbilical cord clamping in term and preterm deliveries and infant and maternal outcomes: A systematic review of randomized controlled trials
+Genetic associations between flight speed and growth traits in nellore cattle
+Automatic text classification using neural network and statistical approaches
+Thematic Relations as Links between Nominal Reference and Temporal Constitution
+Inheritance of Resistance to Pratylenchus penetrans in Alfalfa
+Powering Search: The Role of Thesauri in New Information Environments

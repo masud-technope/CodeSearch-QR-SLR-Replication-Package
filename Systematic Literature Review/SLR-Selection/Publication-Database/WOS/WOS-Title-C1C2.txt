@@ -1,0 +1,92 @@
+91
+Feature location using probabilistic ranking of methods based on execution scenarios and information retrieval
+Feature location in source code: a taxonomy and survey
+An information retrieval approach to concept location in source code
+Where Should the Bugs Be Fixed? More Accurate Information Retrieval-Based Bug Localization Based on Bug Reports
+Case study of feature location using dependence graph
+Bug localization using latent Dirichlet allocation
+SNIAFL: Towards a static noninteractive approach to feature location
+Semantics-Based Code Search
+Combining formal concept analysis with information retrieval for concept location in source code
+Improving Bug Localization using Structured Information Retrieval
+On the Use of Relevance Feedback in IR-Based Concept Location
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+Source Code Retrieval for Bug Localization using Latent Dirichlet Allocation
+Static techniques for concept location in object-oriented code
+CVSSearch: Searching through source code using CVS comments
+Archetypal source code searches: A survey of software developers and maintainers
+Integrating information retrieval, execution and link analysis algorithms to improve feature location in software
+Exemplar: A Source Code Search Engine for Finding Highly Relevant Applications
+Clustering Support for Static Concept Location in Source Code
+Can Better Identifier Splitting Techniques Help Feature Location?
+An empirical analysis of information retrieval based concept location techniques in software comprehension
+Repairing Programs with Semantic Code Search
+The Impact of Classifier Configuration and Classifier Combination on Bug Localization
+SNIAFL: Towards a static non-interactive approach to feature location
+Analyzing and mining a code search engine usage log
+Conditional median: A parametric solution concept for location problems
+Information Retrieval and Spectrum Based Bug Localization: Better Together
+Further results on convolutional code search for block-fading channels
+Configuring latent Dirichlet allocation based feature location
+Navigating the Neural Space in Search of the Neural Code
+An Exploratory Study on Assessing Feature Location Techniques
+Improving Feature Location Practice with Multi-faceted Interactive Exploration
+Fault Location - Basic Concept and Characteristic of Methods
+Archetypal Internet-scale source code searching
+Automated Concept Location Using Independent Component Analysis
+Concept Location Using Formal Concept Analysis and Information Retrieval
+Compositional Vector Space Models for Improved Bug Localization
+Solving the Search for Source Code
+Portfolio: Searching for Relevant Functions and Their Usages in Millions of Lines of Code
+Evaluating the Specificity of Text Retrieval Queries to Support Software Engineering Tasks
+The Effect of Lexicon Bad Smells on Concept Location in Source Code
+A Comparison of Search Heuristics for Empirical Code Optimization
+Allowing overlapping boundaries in source code using a search based approach to concept binding
+Query Expansion Based on Crowd Knowledge for Code Search
+Query Expansion via Wordnet for Effective Code Search
+On the Use of Stack Traces to Improve Text Retrieval-based Bug Localization
+A Cooperative Parallel Search-Based Software Engineering Approach for Code-Smells Detection
+Typestate-Based Semantic Code Search over Partial Programs
+Browsing and searching source code of applications written using a GUI framework
+Industrial tools for the feature location problem: an exploratory study
+Modelling map positional error to infer true feature location
+Learning to Rank for Question-Oriented Software Text Retrieval
+Link analysis algorithms for static concept location: an empirical assessment
+A test-driven approach to code search and its application to the reuse of auxiliary functionality
+A case study of feature location in unstructured legacy Fortran code
+CodeHow: Effective Code Search based on API Understanding and Extended Boolean Model
+A noun-based approach to feature location using time-aware term-weighting
+Knowledge Led Master Code Search for Atomic and Electronic Structures of LaF3 Nanoclusters on Hybrid Rigid Ion-Shell Model-DFT Landscapes
+Search-based Refactoring Using Recorded Code Changes
+TraceGraph: Immediate visual location of software features
+An approach to feature location in distributed systems
+Query-Based Configuration of Text Retrieval Solutions for Software Engineering Tasks
+Tracelet-Based Code Search in Executables
+Measuring the Efficacy of Code Clone Information in a Bug Localization Task: An Empirical Study
+Concept location using program dependencies and information retrieval (DepIR)
+How Well Do Search Engines Support Code Retrieval on the Web?
+Concept Based Query Expansion Using WordNet
+Mining Search Topics from a Code Search Engine Usage Log
+Multi-Criteria Code Refactoring Using Search-Based Software Engineering: An Industrial Case Study
+Query Quality Prediction and Reformulation for Source Code Search: The Refoqus Tool
+Improving feature location using structural similarity and iterative graph mapping
+SeClone - A Hybrid Approach to Internet-scale Real-time Code Clone Search
+Automatic Search Term Identification for Change Tasks
+Rethinking User Interfaces for Feature Location
+CONQUER: A Tool for NL-based Query Refinement & Contextualizing Code Search Results
+Improving Feature Location by Enhancing Source Code with Stereotypes
+On the Effect of the Query in IR-based Concept Location
+Towards an Intelligent Code Search Engine
+Applying a Semantic Layer in a Source Code Search Tool
+Concept location in formal specifications
+AmaLgam plus : Composing Rich Information Sources for Accurate Bug Localization
+Improved bug localization based on code change histories and bug reports
+Can the Use of Types and Query Expansion Help Improve Large-Scale Code Search?
+Supporting concept location through identifier parsing and ontology extraction
+Collective Evolutionary Concept Distance Based Query Expansion for Effective Web Document Retrieval
+Code search with input/output queries: Generalizing, ranking, and assessment
+CodeExchange Supporting Reformulation of Internet-Scale Code Queries in Context
+How Developers Use Multi-Recommendation System in Local Code Search
+The Use of Text Retrieval and Natural Language Processing in Software Engineering
+TextRank Based Search Term Identification for Software Change Tasks
+Enabling improved IR-based feature location

@@ -1,0 +1,102 @@
+101
+Improved query reformulation for concept location using CodeRank and document structures
+Assisting code search with automatic Query Reformulation for bug localization
+QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge
+Location-aware query reformulation for search engines
+On the Use of Stemming for Concern Location and Bug Localization in Java
+Optimal-Location Query
+Query Expansion Using Topic and Location
+On the Effect of the Query in IR-based Concept Location
+Search me if you can: Privacy-preserving location query service
+Extending Bug Localization Using Information Retrieval and Code Clone Location Techniques
+Privacy-Aware RNN Query Processing on Location-Based Services
+Collusion-resistant query anonymization for location-based services
+Location, Location, Location
+Query Reformulation Behavior in an Interactive Query Expansion Environment
+A Location Privacy-Aware Method for kNN Query in Location Based Services
+Cache replacement method based on lowest access cost for location dependent query
+Improving feature location by transforming the query from natural language into requirements
+Location Privacy
+Query m-Invariance: Preventing Query Disclosures in Continuous Location-Based Services
+Where was this SQL query executed? a static concept location approach
+Automatically detecting the quality of the query and its implications in IR-based concept location
+Location- and Query-Aware Modeling of Browsing and Click Behavior in Sponsored Search
+Location-Aware Query Recommendation for Search Engines at Scale
+EFFICIENT WAY OF USER SEARCH LOCATION IN QUERY PROCESSING
+Spatial query processing for location based application on Hbase
+Incorporating users location into snippet based Query recommendation system
+Finding nearest facility location with open box query using Geohashing and MapReduce
+Organisation of Indoor Navigation data from a data query perspective
+Energy efficient processing of location based query in Wireless Sensor Networks
+Location dependent query proxy
+Secure top-k query processing via untrusted location-based service providers
+Replica Arrangement Scheme for Location Dependent Information on Sensor Networks with Unpredictable Query Frequency
+Location based data authentication by using special query with extended Voronoi neighbors
+Location-Based R-Tree and Grid-Index for Nearest Neighbor Query Processing
+Optimization of textual attribute support in generic location-aware rank query
+Query Processing with Respect to Location in Wireless Broadcasting
+Space partitioning for privacy in location-based services continuous nearest neighbor query
+Achieve Location Privacy-Preserving Range Query in Vehicular Sensing
+An Efficient Indexing for Top-k Query Answering in Location-Based Recommendation System
+Adaptive query algorithm for location oriented applications
+The Min-dist Location Selection Query
+Cooperative Caching on Location Aware Query Proxy
+Building the Case for Dynamic Location Query Processing
+Location aware keyword query suggestion based on document proximity
+Location Privacy-Aware Nearest-Neighbor Query with Complex Cloaked Regions
+A Framework for Measuring Query Privacy in Location-based Service
+A knowledge infrastructure for intelligent query answering in location-based services
+Location-Aware Query Processing and Optimization
+Expressive Location-Based Continuous Query Evaluation with Binary Decision Diagrams
+Query l-diversity in Location-Based Services
+Query-Aware Anonymization in Location-Based Service
+Location-sensitive Query Auto-completion
+Protecting query privacy in location-based services
+Protection of query privacy for continuous location based services
+Location-based grid-index for spatial query processing
+Distributed and Parallel Processing of Location based spatial query with Approximate Transformation
+Location Privacy for Rank-based Geo-Query Systems
+Location-Dependent Skyline Query
+A decentralized Location-Query-Sensitive Cloaking algorithm for LBS
+Preventing multi-query attack in location-based services
+Location Dependent Query Processing &#150; Issues, Challenges and Applications
+A tabu search heuristic for the concentrator location problem
+Improving bug localization with report quality dynamics and query reformulation
+The location of the soma in higher invertebrates - bug or feature?
+Computing Term-Concept Association in Semantic-Based Query Expansion
+Concept-based Web Search using Domain Prediction and Parallel Query Expansion
+One-Hop Location Estimation
+Query Expansion Based on a Personalized Mobile Search Engine-A Review
+Combining Formal Concept Analysis with Information Retrieval for Concept Location in Source Code
+Exploring the Use of Concern Element Role Information in Feature Location Evaluation
+Feature location in source code: a taxonomy and survey
+User Information Needs Through Query Reformulation
+Query quality prediction and reformulation for source code search: The Refoqus tool
+Face feature-points location based on 3D transform shape search
+Effects of topic familiarity and search skills on query reformulation behavior
+Improving Feature Location by Enhancing Source Code with Stereotypes
+An Efficient Model for Clustering Source Code Documents for Feature Location
+Location, Location, Location: Mutant NPM1c Cytoplasmic Localization Is Required to Maintain Stem Cell Genes in AML
+Location, location, location: The role of cyclin D1 nuclear localization in cancer
+A search log mining based query expansion technique to improve effectiveness in code search
+Protecting location privacy and query privacy: a combined clustering approach
+Framework for location-aware search engine
+3D visualization for concept location in source code
+Clustering Support for Static Concept Location in Source Code
+A Smartphone Indoor Localization Algorithm Based on WLAN Location Fingerprinting with Feature Extraction and Clustering
+Defending Location Privacy Using Zero Knowledge Proof Concept in Location Based Services
+Fault Location – Basic Concept and Characteristic of Methods
+Influences on Query Reformulation in Collaborative Web Search
+Interactive system based on web search results clustering for Arabic query reformulation
+Query Reformulation Using Crop Characteristic in Specific Domain Search
+Improving Query Reformulation in Voice Search System
+Web search intent induction via automatic query reformulation
+Query Reformulation Patterns in Cross-Device OPAC Search
+Query reformulation for specific domain search: Keywords, ontology, domain name
+Query reformulation using anchor text
+Concept Based Query Expansion
+Concept Location with Genetic Algorithms: A Comparison of Four Distributed Architectures
+Extended algorithm for XML query reformulation
+QUERY REFORMULATION: AN INTERPLAY OF USER'S REFORMULATION BEHAVIOR AND THEMATIC CONTEXT IN ORIGINAL QUERY
+Analyzing geographic query reformulation: An exploratory study
+Feature-Based Query Expansion

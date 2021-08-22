@@ -1,0 +1,128 @@
+127
+Condensing information: From supervised to crowdsourced learning
+Inferring Semantic Information from Natural-Language Software Artifacts
+Framework for location-aware search engine
+Context-Aware Search Principles in Automated Learning Environments
+Semantics-enabled program understanding and knowledge reuse
+Neural Language Models for Data-driven Programming Support
+Extending traditional query-based integration approaches for functional characterization of post-genomic data
+Improving search result summaries by using searcher behavior data
+Search using social media structures
+Leveraging a corpus of natural language descriptions for program similarity
+Solving the search for source code
+Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation
+A semantic web enabled approach to reuse functional requirements models in web engineering
+Intelligent search techniques for large software systems
+Using fuzzy sets for retrieval of software for reuse
+Need of Intelligent Search in Dynamic Social Network.(Research Article)(Report)
+Online community search using conversational structures
+Correlation-based software search by leveraging software term database
+Context-Aware Change Pattern for Code Transformation
+Linking usage tutorials into API client code
+How doctors search: A study of query behaviour and the impact on search results
+Length-Changeable Incremental Extreme Learning Machine
+Enhancing static source code search with dynamic data
+Lattice-Support repetitive local feature detection for visual search
+Learning ontologies in a multiagent system
+Social network search based on semantic analysis and learning
+Ontology-assisted provenance visualization for supporting enterprise search of engineering and business files
+Using Structural Relationships to Facilitate API Learning
+Towards an ontology-based retrieval of UML Class Diagrams
+SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis
+APIBook: an effective approach for finding APIs
+Advances in Artificial Intelligence and Soft Computing: 14th Mexican International Conference on Artificial Intelligence, MICAI 2015, Cuernavaca, Morelos, Mexico, October 25–31, 2015, Proceedings, Part I
+Understanding the Impact of Support for Iteration on Code Search
+How Software Developers Solve Problems by Searching for Source Code on the Web: Studies on Judgments in Evaluation of Results and Information Use
+Context sensitive synonym discovery for web search queries
+Do software developers experience cognitive bias while searching for source code on the Web?
+Using SOA and RIAs for water data discovery and retrieval
+Ontology Driven Document Identification in Semantic Web
+Assieme: finding and leveraging implicit references in a web search interface for programmers
+Visualization of Key Factor Relation in Clinical Pathway
+A robust knowledge-based plant searching strategy
+The effects of domain knowledge on search tactic formulation
+Bridging structured and unstructured data via hybrid semantic search and interactive ontology-enhanced query formulation
+Mining user-generated contents on the web and social networks
+A historical, textual analysis approach to feature location
+Persons-in-places: a deep features based approach for searching a specific person in a specific location.(Report)
+Recovering from a decade: a systematic mapping of information retrieval approaches to software traceability
+Data Science: Third International Conference of Pioneering Computer Scientists, Engineers and Educators, ICPCSEE 2017, Changsha, China, September 22–24, 2017, Proceedings, Part II
+Solving the Search for Source Code
+Searching, Selecting, and Synthesizing Source Code Components
+What Security Questions Do Developers Ask? A Large-Scale Study of Stack Overflow Posts
+Exploring the neighborhood with dora to expedite software maintenance
+Using ART2 Neural Network and Bayesian Network for Automating the Ontology Constructing Process
+Using topic models to support software maintenance
+Mining concise and distinctive affine-stable features for object detection in large corpus
+Sameness: an experiment in code search
+Applying a semantic layer in a source code search tool
+Domain-specific cross-language relevant question retrieval
+SWordNet: Inferring semantically related words from software context
+SAFQuery: a simple and flexible advanced Web search interface
+A Similarity-Based Method Retrieval Technique to Improve Effectiveness in Code Search
+Impact of device on search pattern transitions
+Integrating natural language and program structure information to improve software search and exploration
+Dynamically selecting an appropriate context type for personalisation
+Design and implementation of the E-referencer
+Using the structural location of terms to improve the results of text retrieval based approaches to feature location
+A Literature Review of Research in Bug Resolution: Tasks, Challenges and Future Directions
+Feature location via information retrieval based filtering of a single scenario execution trace
+A cloud of FAQ: A highly-precise FAQ retrieval system for the Web 2.0
+A search engine for finding highly relevant applications
+Supporting feature-level software maintenance
+Query reformulation by leveraging crowd wisdom for scenario-based software search
+Semantics discovery via human computation games.(Report)
+Tales from the Field: Search Strategies Applied in Web Searching
+Mining unstructured software repositories using IR models
+Active code search: incorporating user feedback to improve code search relevance
+Improving Mining Performance for Internet Code Search Engines
+Using natural language program analysis to locate and understand action-oriented concerns
+Multimodal Code Search
+Exploring Action Unit Granularity of Source Code for Supporting Software Maintenance
+Facilitating internet-scale code retrieval
+Natural language program analysis: Combining natural language processing with program analysis to improve software maintenance tools
+Using information retrieval to support software maintenance tasks
+Exemplar: EXEcutable exaMPLes ARchive
+Detecting Buggy Files based on Bug Reports: A Random Walk Based Approach
+Leveraging textual properties of bug reports to localize relevant source files
+Integrating information retrieval, execution and link analysis algorithms to improve feature location in software
+Online Topic Modeling for Software Maintenance Using a Changeset-Based Approach
+Supporting source code comprehension during software evolution and maintenance
+Design and evaluation of a multi-recommendation system for local code search
+The need for software specific natural language techniques
+Incremental update framework for efficient retrieval from software libraries for bug localization
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Comparing Incremental Latent Semantic Analysis Algorithms for Efficient Retrieval from Software Libraries for Bug Localization
+Enabling improved IR-based feature location
+A field study of how developers locate features in source code
+Source code retrieval from large software libraries for automatic bug localization
+Augmenting and structuring user queries to support efficient free-form code search
+Reports Summarize Software Research Findings from Wuhan University (Query expansion based on statistical learning from code changes).(Report)
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Searching API usage examples in code repositories with sourcerer API search
+Supporting text retrieval query formulation in software engineering
+On the reduction of verbose queries in text retrieval based software maintenance
+Easysearch: Finding relevant functions based on API documentation
+CodeExchange: Supporting reformulation of internet-scale code queries in context
+Using Observed Behavior to reformulate queries during text retrieval-based bug localization
+RACK: code search in the IDE using crowdsourced knowledge
+Query quality prediction and reformulation for source code search: The Refoqus tool
+A search log mining based query expansion technique to improve effectiveness in code search
+Improving Code Search Using Learning-to-Rank and Query Reformulation Techniques
+Improved query reformulation for concept location using CodeRank and document structures
+SnippetGen: Enhancing the code search via intent predicting
+Query expansion via WordNet for effective code search
+Can the use of types and query expansion help improve large-scale code search?
+Thesaurus-based automatic query expansion for interface-driven code search
+QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge
+Poster: Improving bug localization with report quality dynamics and query reformulation
+Improved Query Reformulation for Concept Location using CodeRank and Document Structures
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Introducing collaboration for locating features in models: Approach and industrial evaluation
+Automatic query reformulations for feature location in a model-based family of software products
+Analyzing and mining a code search engine usage log
+Query Expansion Based on Crowd Knowledge for Code Search
+Query Expansion via Intent Predicting
+Query expansion based on statistical learning from code changes
+Assisting code search with automatic query reformulation for bug localization
+Combining information retrieval modules and structural information for source code bug localization and feature location

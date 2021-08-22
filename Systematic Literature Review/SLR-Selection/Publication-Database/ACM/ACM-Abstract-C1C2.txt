@@ -1,0 +1,17 @@
+16
+Dictionary-based Query Recommendation for Local Code Search
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Automatic Query Performance Assessment During the Retrieval of Software Artifacts
+Automatic Search Term Identification for Change Tasks
+Thesaurus-based Automatic Query Expansion for Interface-driven Code Search
+Towards Query Formulation and Visualization of Structural Search Results
+Automatic Query Reformulations for Text Retrieval in Software Engineering
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance
+Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search
+Improving IR-based Bug Localization with Context-aware Query Reformulation
+QUICKAR: Automatic Query Reformulation for Concept Location Using Crowdsourced Knowledge
+Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+Relationship-aware Code Search for JavaScript Frameworks
+Searching API Usage Examples in Code Repositories with Sourcerer API Search
+Automatically Capturing Source Code Context of NL-queries for Software Maintenance and Reuse

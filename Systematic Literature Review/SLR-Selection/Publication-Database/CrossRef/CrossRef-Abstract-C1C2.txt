@@ -1,0 +1,8 @@
+7
+Improved query reformulation for concept location using CodeRank and document structures
+Assisting code search with automatic Query Reformulation for bug localization
+QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge
+On the Effect of the Query in IR-based Concept Location
+Improving feature location by transforming the query from natural language into requirements
+Improving bug localization with report quality dynamics and query reformulation
+A search log mining based query expansion technique to improve effectiveness in code search
