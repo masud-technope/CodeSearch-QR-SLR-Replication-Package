@@ -28,4 +28,4 @@ Materials Included
 
 
 
-Please contact Masud Rahman (masud.rahman@dal.ca) for details.
+Please contact **Masud Rahman** (masud.rahman@dal.ca) for details.
