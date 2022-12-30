@@ -1,0 +1,19 @@
+18
+Improved query reformulation for concept location using CodeRank and document structures
+Assisting code search with automatic Query Reformulation for bug localization
+QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge
+On the Use of Stemming for Concern Location and Bug Localization in Java
+On the Effect of the Query in IR-based Concept Location
+Improving feature location by transforming the query from natural language into requirements
+Automatically detecting the quality of the query and its implications in IR-based concept location
+Improving bug localization with report quality dynamics and query reformulation
+Combining Formal Concept Analysis with Information Retrieval for Concept Location in Source Code
+Exploring the Use of Concern Element Role Information in Feature Location Evaluation
+Feature location in source code: a taxonomy and survey
+Improving Feature Location by Enhancing Source Code with Stereotypes
+An Efficient Model for Clustering Source Code Documents for Feature Location
+A search log mining based query expansion technique to improve effectiveness in code search
+3D visualization for concept location in source code
+Clustering Support for Static Concept Location in Source Code
+Fault Location – Basic Concept and Characteristic of Methods
+Concept Location with Genetic Algorithms: A Comparison of Four Distributed Architectures

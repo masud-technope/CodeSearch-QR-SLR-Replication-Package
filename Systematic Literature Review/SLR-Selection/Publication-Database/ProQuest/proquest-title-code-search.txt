@@ -1,0 +1,55 @@
+54
+Solving the search for source code
+Correlation-based software search by leveraging software term database
+Enhancing static source code search with dynamic data
+SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis
+APIBook: an effective approach for finding APIs
+Understanding the Impact of Support for Iteration on Code Search
+Assieme: finding and leveraging implicit references in a web search interface for programmers
+A historical, textual analysis approach to feature location
+Searching, Selecting, and Synthesizing Source Code Components
+SWordNet: Inferring semantically related words from software context
+A Similarity-Based Method Retrieval Technique to Improve Effectiveness in Code Search
+Integrating natural language and program structure information to improve software search and exploration
+Using the structural location of terms to improve the results of text retrieval based approaches to feature location
+Feature location via information retrieval based filtering of a single scenario execution trace
+Query reformulation by leveraging crowd wisdom for scenario-based software search
+Active code search: incorporating user feedback to improve code search relevance
+Using natural language program analysis to locate and understand action-oriented concerns
+Multimodal Code Search
+Facilitating internet-scale code retrieval
+Natural language program analysis: Combining natural language processing with program analysis to improve software maintenance tools
+Using information retrieval to support software maintenance tasks
+Detecting Buggy Files based on Bug Reports: A Random Walk Based Approach
+Leveraging textual properties of bug reports to localize relevant source files
+Integrating information retrieval, execution and link analysis algorithms to improve feature location in software
+Design and evaluation of a multi-recommendation system for local code search
+Incremental update framework for efficient retrieval from software libraries for bug localization
+Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks
+Comparing Incremental Latent Semantic Analysis Algorithms for Efficient Retrieval from Software Libraries for Bug Localization
+Enabling improved IR-based feature location
+Source code retrieval from large software libraries for automatic bug localization
+Augmenting and structuring user queries to support efficient free-form code search
+Automatically capturing source code context of NL-queries for software maintenance and reuse
+Searching API usage examples in code repositories with sourcerer API search
+Supporting text retrieval query formulation in software engineering
+On the reduction of verbose queries in text retrieval based software maintenance
+Easysearch: Finding relevant functions based on API documentation
+CodeExchange: Supporting reformulation of internet-scale code queries in context
+Using Observed Behavior to reformulate queries during text retrieval-based bug localization
+RACK: code search in the IDE using crowdsourced knowledge
+A search log mining based query expansion technique to improve effectiveness in code search
+Improving Code Search Using Learning-to-Rank and Query Reformulation Techniques
+Improved query reformulation for concept location using CodeRank and document structures
+SnippetGen: Enhancing the code search via intent predicting
+Query expansion via WordNet for effective code search
+Can the use of types and query expansion help improve large-scale code search?
+Thesaurus-based automatic query expansion for interface-driven code search
+QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge
+Poster: Improving bug localization with report quality dynamics and query reformulation
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Automatic query reformulations for feature location in a model-based family of software products
+Query Expansion Based on Crowd Knowledge for Code Search
+Query expansion based on statistical learning from code changes
+Assisting code search with automatic query reformulation for bug localization
+Combining information retrieval modules and structural information for source code bug localization and feature location

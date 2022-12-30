@@ -1,0 +1,11 @@
+10
+Automatic query reformulations for feature location in a model-based family of software products.
+Improving bug localization with report quality dynamics and query reformulation.
+QUICKAR - Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge.
+Improved Query Reformulation for Concept Location using CodeRank and Document Structures.
+Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics.
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation.
+Query reformulation by leveraging crowd wisdom for scenario-based software search.
+Automatic query reformulations for text retrieval in software engineering.
+Assisting code search with automatic query reformulation for bug localization.
+Discovering Remote Software Services that Satisfy Requirements - Patterns for Query Reformulation.

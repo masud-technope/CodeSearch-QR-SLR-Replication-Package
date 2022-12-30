@@ -1,0 +1,71 @@
+70
+Improving ir-based bug localization with context-aware query reformulation
+Poster: improving bug localization with report quality dynamics and query reformulation
+FineLocator: A novel approach to method-level fine-grained bug localization by query expansion
+Neural query expansion for code search
+Automatic query reformulation for code search using crowdsourced knowledge
+Collaborative feature location in models through automatic query expansion
+Interactive query reformulation for source-code search with word relations
+A novel approach to automatic query reformulation for ir-based bug localization
+ManQ: Many-objective optimization-based automatic query reduction for IR-based bug localization
+Supporting code search with context-aware, analytics-driven, effective query reformulation
+Using bug descriptions to reformulate queries during text-retrieval-based bug localization
+Are bug reports enough for text retrieval-based bug localization?
+Nlp2api: Query reformulation for code search using crowdsourced knowledge and extra-large data analytics
+Deep learning the semantics of change sequences for query expansion
+Unsupervised software repositories mining and its application to code search
+Effective reformulation of query for code search using crowdsourced knowledge and extra-large data analytics
+Evaluating Low-cost in internal crowdsourcing for software engineering: The case of feature location in an industrial environment
+Augmenting and structuring user queries to support efficient free-form code search
+Query expansion based on statistical learning from code changes
+Code search based on alteration intent
+Poster: Improving Bug Localization with Report Quality Dynamics and Query Reformulation
+Automatic query reformulations for feature location in a model-based family of software products
+Supporting Source Code Search with Context-Aware and Semantics-Driven Query Reformulation
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Improved Query Reformulation for Concept Location using CodeRank and Document Structures
+A new approach for query expansion using Wikipedia and WordNet
+Query expansion via learning change sequences
+QUICKAR: Automatic Query Reformulation for Concept Location using Crowdsourced Knowledge
+Semantic approaches for query expansion
+A Large-Scale Comparative Evaluation of IR-Based Tools for Bug Localization
+A Query Expansion Method Based on Evolving Source Code
+Automated Query Reformulation for Efficient Search based on Query Logs From Stack Overflow
+On the value of bug reports for retrieval-based bug localization
+Semantic Source Code Search: A Study of The Past and A Glimpse At The Future
+Enhance code search via reformulating queries with evolving contexts
+On the relationship between bug reports and queries for text retrieval-based bug localization
+COSEA: Convolutional Code Search with Layer-wise Attention
+D&C: A divide-and-conquer approach to ir-based bug localization
+Improving Code Search with Co-Attentive Representation Learning
+Deep code search
+Reinforcement learning of code search sessions
+Are the code snippets what we are searching for? a benchmark and an empirical study on code search with natural-language queries
+Are datasets for information retrieval-based bug localization techniques trustworthy?
+Utilizing automatic query reformulations as genetic operations to improve feature location in software models
+Supporting exploratory code search with differencing and visualization
+Adaptive Deep Code Search
+Neural joint attention code search over structure embeddings for software Q&A sites
+Xu: an automated query expansion and optimization tool
+RACK: Code Search in the IDE Using Crowdsourced Knowledge
+Simplifying Deep-Learning-Based Model for Code Search
+CSDA: A novel attention-based LSTM approach for code search
+Evaluation of Siamese Networks for Semantic Code Search
+deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search
+Analyzing the impact of information retrieval and relevance feedback techniques on concept location tasks
+QRTest: Automatic Query Reformulation for Information Retrieval Based Regression Test Case Prioritization
+Utilizing Topic-Based Similar Commit Information and CNN-LSTM Algorithm for Bug Localization
+Leveraging textual properties of bug reports to localize relevant source files
+The Effect of Feature Characteristics on the Performance of Feature Location Techniques
+Applying deep learning algorithm to automatic bug localization and repair
+Analyzing File Characteristic For Security Bug Localization
+BERT2Code: Can Pretrained Language Models be Leveraged for Code Search?
+Enabling feature location for API method recommendation and usage location
+Laprob: A Label propagation-Based software bug localization method
+Language-agnostic source code retrieval using keyword & identifier lexical pattern
+BULNER: BUg Localization with word embeddings and NEtwork Regularization
+COOBA: Cross-project Bug Localization via Adversarial Transfer Learning
+A Similarity Integration Method based Information Retrieval and Word Embedding in Bug Localization
+A Software Source Code Recommendation System for Code Reuse From Private Repositories
+SoCeR: A New Source Code Recommendation Technique for Code Reuse
+DependLoc: A Dependency-based Framework For Bug Localization

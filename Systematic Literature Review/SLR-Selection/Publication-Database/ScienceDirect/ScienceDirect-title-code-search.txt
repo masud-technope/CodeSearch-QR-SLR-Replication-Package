@@ -1,0 +1,5 @@
+4
+Design and evaluation of a multi-recommendation system for local code search
+Enabling improved IR-based feature location
+Leveraging textual properties of bug reports to localize relevant source files
+Automatic query reformulations for feature location in a model-based family of software products

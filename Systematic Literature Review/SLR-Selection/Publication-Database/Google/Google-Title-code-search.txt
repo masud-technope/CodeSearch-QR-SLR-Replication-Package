@@ -1,0 +1,66 @@
+64
+On the use of relevance feedback in IR-based concept location
+Text retrieval approaches for concept location in source code
+Can better identifier splitting techniques help feature location?
+On the Effect of the Query in IR-based Concept Location
+Bug localization using latent dirichlet allocation
+The effect of lexicon bad smells on concept location in source code
+Link analysis algorithms for static concept location: an empirical assessment
+Boosting bug-report-oriented fault localization with segmentation and stack-trace analysis
+How developers search for code: a case study
+Rethinking user interfaces for feature location
+Automatically Detecting the Quality of the Query and its Implications in IR-based Concept Location
+On the use of positional proximity in IR-based feature location
+Bug localization using version history
+Thesaurus-based automatic query expansion for interface-driven code search
+Analyzing and mining a code search engine usage log
+Which feature location technique is better?
+Can the use of types and query expansion help improve large-scale code search?
+Enabling improved ir-based feature location
+Query-based configuration of text retrieval solutions for software engineering tasks
+Inferring links between concerns and methods with multi-abstraction vector space model
+A survey of concepts location enhancement for program comprehension and maintenance
+Learning to rank improves IR in SE
+STRICT: Information retrieval based search term identification for concept location
+Exploiting spatial code proximity and order for improved source code retrieval for bug localization
+Repairing programs with semantic code search
+Enhancing Software Visualization with Information Retrieval
+Locating user interface concepts in source code
+Predicting query quality for applications of text retrieval to software engineering tasks
+Combining information retrieval modules and structural information for source code bug localization and feature location
+Supporting query formulation for text retrieval applications in software engineering
+Fusing multi-abstraction vector space models for concern localization
+Towards a Benchmark and Automatic Calibration for IR-Based Concept Location
+Supporting text retrieval query formulation in software engineering
+Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization
+Exploring the use of concern element role information in feature location evaluation
+Towards feature location in models through a learning to rank approach
+Automatic query reformulations for feature location in a model-based family of software products
+Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+Improved query reformulation for concept location using CodeRank and document structures
+Are Bug Reports Enough for Text Retrieval-based Bug Localization?
+Analyzing the Impact of Information Retrieval and Relevance Feedback Techniques on Concept Location Tasks
+RACK: Code search in the IDE using crowdsourced knowledge
+Improving Code Search Using Learning-to-Rank and Query Reformulation Techniques
+Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
+Introducing Collaboration for Locating Features in Models: Approach and Industrial Evaluation
+On The Relationship Between The Vocabulary Of Bug Reports And Source Code
+Using the structural location of terms to improve the results of text retrieval based approaches to feature location
+Evolutionary Algorithm for Bug Localization in the Reconfigurations of Models at Runtime
+Source code retrieval from large software libraries for automatic bug localization
+Multimodal Code Search
+Evolving human competitive spectra-based fault localisation techniques
+Integrating natural language and program structure information to improve software search and exploration
+Improving software text retrieval using conceptual knowledge in source code
+Supporting Source Code Comprehension During Software Evolution and Maintenance
+A call graph mining and matching based defect localization technique
+Configuring and Assembling Information Retrieval based Solutions for Software Engineering Tasks
+Facilitating internet-scale code retrieval
+Network-Clustered Multi-Modal Bug Localization
+An automated approach to program repair with semantic code search
+A survey on software fault localization
+Large-scale information retrieval in software engineering-an experience report from industrial application
+A heuristic-based approach to locate concepts in execution traces
+How Software Developers Solve Problems by Searching for Source Code on the Web: Studies on Judgments in Evaluation of Results and Information Use
+Localizing Software Bugs using the Edit Distance of Call Traces
+
