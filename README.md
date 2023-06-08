@@ -30,6 +30,17 @@ Materials Included
 - LICENSE
 - README
 
+Cite our work
+-----------------------
+```
+@ARTICLE{tosem2023masud,
+	author={Rahman, M. M. and Roy, C. K.},
+	journal={TOSEM},
+	title={A Systematic Review of Automated Query Reformulations in Source Code Search},
+	year={2023},
+	pages={81}
+}
+```
 
 
 Please contact **Masud Rahman** (masud.rahman@dal.ca) for details.
