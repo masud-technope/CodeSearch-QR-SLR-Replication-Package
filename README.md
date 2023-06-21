@@ -43,4 +43,4 @@ Cite our work
 ```
 
 
-Please contact **Masud Rahman** (masud.rahman@dal.ca) for details.
+Please contact **Masud Rahman** (masud.rahman@dal.ca) for details. If you benefit from this work, do not forget to add a star :)
